@@ -24,26 +24,26 @@ Namma-Kathey is an interactive storytelling Android application developed using 
 ## Application Screenshots
 
 ### Profile Creation Screen
-![Profile](profile1.png.jpeg)
+<img src="profile1.png.jpeg" width="250"/>
 
 ### Home Screen
-![Home](Home.png.jpeg)
+<img src="Home.png.jpeg" width="250"/>
 
 ### Hero Listing Screen
-![Heroes](Heros.png.jpeg)
+<img src="Heros.png.jpeg" width="250"/>
 
 ### Story Screen
-![Story](story1.png.jpeg)
-![Story](story2.png.jpeg)
+<img src="story1.png.jpeg" width="250"/>
+<img src="story2.png.jpeg" width="250"/>
 
 ### Did You Know Popup
-![Did You Know](diduknow.png.jpeg)
+<img src="diduknow.png.jpeg" width="250"/>
 
 ### Quiz Screen
-![Quiz](quiz.png.jpeg)
+<img src="quiz.png.jpeg" width="250"/>
 
 ### Statue Location using Google Maps
-![Statue](statue.png.jpeg)
+<img src="statue.png.jpeg" width="250"/>
 
 ## Project Objective
 The main objective of the project is to create an educational and interactive Android application that introduces users to Karnataka’s local heroes through storytelling, quizzes, multilingual support, and engaging learning features.
