@@ -1,0 +1,2461 @@
+{
+    "districts": [
+        {
+            "id": "d1",
+            "name": "Bengaluru",
+            "image": "img_bengaluru",
+            "heroes": [
+                {
+                    "id": "h1",
+                    "name": "Kempe Gowda",
+                    "image": "img_kempegowda",
+                    "shortDesc": "Founder of Bengaluru",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Life",
+                            "titleKn": "ಆರಂಭಿಕ ಜೀವನ",
+                            "image": "img_kempegowda",
+                            "textEn": "Kempe Gowda was a chieftain under the Vijayanagara Empire.",
+                            "textKn": "ಕೆಂಪೇಗೌಡರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಪಾಳೇಗಾರರಾಗಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "A Dream of a City",
+                            "titleKn": "ನಗರದ ಕನಸು",
+                            "image": "img_kempegowda",
+                            "textEn": "He dreamed of a modern city with forts, lakes, and temples.",
+                            "textKn": "ಅವರು ಕೋಟೆಗಳು, ಸರೋವರಗಳು ಮತ್ತು ದೇವಾಲಯಗಳನ್ನು ಹೊಂದಿರುವ ಆಧುನಿಕ ನಗರದ ಕನಸು ಕಂಡರು."
+                        },
+                        {
+                            "titleEn": "Founding Bengaluru",
+                            "titleKn": "ಬೆಂಗಳೂರಿನ ಸ್ಥಾಪನೆ",
+                            "image": "img_kempegowda",
+                            "textEn": "In 1537, he built a mud fort and founded the city of Bengaluru.",
+                            "textKn": "1537 ರಲ್ಲಿ, ಅವರು ಮಣ್ಣಿನ ಕೋಟೆಯನ್ನು ನಿರ್ಮಿಸಿದರು ಮತ್ತು ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Development",
+                            "titleKn": "ಅಭಿವೃದ್ಧಿ",
+                            "image": "img_kempegowda",
+                            "textEn": "He built many lakes (Keres) for drinking water and agriculture.",
+                            "textKn": "ಕುಡಿಯುವ ನೀರು ಮತ್ತು ಕೃಷಿಗಾಗಿ ಅವರು ಅನೇಕ ಕೆರೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Temples",
+                            "titleKn": "ದೇವಾಲಯಗಳು",
+                            "image": "img_kempegowda",
+                            "textEn": "He built the famous Bull Temple and expanded the Gavi Gangadhareshwara Temple.",
+                            "textKn": "ಅವರು ಪ್ರಸಿದ್ಧ ಬುಲ್ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದರು ಮತ್ತು ಗವಿ ಗಂಗಾಧರೇಶ್ವರ ದೇವಾಲಯವನ್ನು ವಿಸ್ತರಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_kempegowda",
+                            "textEn": "Today, Bengaluru's international airport and major bus stand are named after him.",
+                            "textKn": "ಇಂದು, ಬೆಂಗಳೂರಿನ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಮತ್ತು ಪ್ರಮುಖ ಬಸ್ ನಿಲ್ದಾಣಕ್ಕೆ ಅವರ ಹೆಸರನ್ನು ಇಡಲಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "City Planning System",
+                            "titleKn": "ನಗರ ಯೋಜನೆ ವ್ಯವಸ್ಥೆ",
+                            "image": "img_kempegowda",
+                            "textEn": "He designed Bengaluru with a proper grid system of roads and markets. This helped people travel and trade easily. The city was planned in an organized way. It became one of the earliest planned cities in India.",
+                            "textKn": "ಅವರು ಬೆಂಗಳೂರನ್ನು ರಸ್ತೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳ ಜಾಲ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ವಿನ್ಯಾಸಗೊಳಿಸಿದರು. ಇದು ಜನರಿಗೆ ಸಂಚಾರ ಮತ್ತು ವ್ಯಾಪಾರವನ್ನು ಸುಲಭಗೊಳಿಸಿತು. ನಗರವನ್ನು ಯೋಜಿತವಾಗಿ ನಿರ್ಮಿಸಲಾಯಿತು. ಇದು ಭಾರತದ ಮೊದಲ ಯೋಜಿತ ನಗರಗಳಲ್ಲಿ ಒಂದಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Trade and Markets",
+                            "titleKn": "ವ್ಯಾಪಾರ ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳು",
+                            "image": "img_kempegowda",
+                            "textEn": "He established important markets like Chickpet and other trading zones. These markets attracted merchants from different regions. Bengaluru became a growing center of commerce. Trade helped the city develop quickly.",
+                            "textKn": "ಅವರು ಚಿಕ್ಕಪೇಟೆ ಸೇರಿದಂತೆ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಈ ಮಾರುಕಟ್ಟೆಗಳು ವಿವಿಧ ಪ್ರದೇಶಗಳಿಂದ ವ್ಯಾಪಾರಿಗಳನ್ನು ಆಕರ್ಷಿಸಿತು. ಬೆಂಗಳೂರು ವ್ಯಾಪಾರ ಕೇಂದ್ರವಾಗಿ ಬೆಳೆಯಿತು. ವ್ಯಾಪಾರ ನಗರ ಅಭಿವೃದ್ಧಿಗೆ ಸಹಾಯ ಮಾಡಿತು."
+                        },
+                        {
+                            "titleEn": "Water Management",
+                            "titleKn": "ನೀರಿನ ನಿರ್ವಹಣೆ",
+                            "image": "img_kempegowda",
+                            "textEn": "Kempe Gowda focused on creating lakes and water storage systems. These lakes helped in both drinking water supply and farming. His water management system was ahead of its time. It supported long-term city growth.",
+                            "textKn": "ಕೆಂಪೇಗೌಡರು ಕೆರೆಗಳು ಮತ್ತು ನೀರಿನ ಸಂಗ್ರಹ ವ್ಯವಸ್ಥೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಇವು ಕುಡಿಯುವ ನೀರು ಮತ್ತು ಕೃಷಿಗೆ ಸಹಾಯ ಮಾಡಿತು. ಅವರ ನೀರಿನ ವ್ಯವಸ್ಥೆ ಕಾಲಕ್ಕಿಂತ ಮುಂದುವರೆದಿತ್ತು. ಇದು ನಗರ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಿತು."
+                        },
+                        {
+                            "titleEn": "Cultural Support",
+                            "titleKn": "ಸಂಸ್ಕೃತಿ ಬೆಂಬಲ",
+                            "image": "img_kempegowda",
+                            "textEn": "He supported art, culture, and temple construction in Bengaluru. These developments helped bring people together. Cultural harmony grew under his leadership. The city became spiritually rich.",
+                            "textKn": "ಅವರು ಕಲಾ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ದೇವಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು. ಇದರಿಂದ ಜನರು ಒಗ್ಗೂಡಿದರು. ಅವರ ನಾಯಕತ್ವದಲ್ಲಿ ಸಂಸ್ಕೃತಿ ಏಕತೆ ಬೆಳೆದಿತು. ನಗರ ಆಧ್ಯಾತ್ಮಿಕವಾಗಿ ಶ್ರೀಮಂತವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Interesting Fact",
+                            "titleKn": "ಆಸಕ್ತಿಕರ ಸಂಗತಿ",
+                            "image": "img_kempegowda",
+                            "textEn": "Kempe Gowda is credited with giving Bengaluru its original structure. Many of his lakes still exist today. His planning ideas are still followed in modern urban design. He is remembered as a visionary leader.",
+                            "textKn": "ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರಿಗೆ ಮೂಲ ರಚನೆ ನೀಡಿದವರು. ಅವರ ಅನೇಕ ಕೆರೆಗಳು ಇಂದಿಗೂ ಇವೆ. ಅವರ ಯೋಜನೆ ಕಲ್ಪನೆಗಳು ಇಂದಿನ ನಗರ ವಿನ್ಯಾಸದಲ್ಲೂ ಬಳಕೆಯಾಗುತ್ತಿವೆ. ಅವರನ್ನು ದೃಷ್ಟಿದಾನಿ ನಾಯಕ ಎಂದು ಸ್ಮರಿಸಲಾಗುತ್ತದೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "Kempe Gowda built tall towers to see the whole city from far away!",
+                            "kn": "ಕೆಂಪೇಗೌಡರು ದೂರದಿಂದ ನಗರವನ್ನು ನೋಡಲು ಎತ್ತರದ ಗೋಪುರಗಳನ್ನು ನಿರ್ಮಿಸಿದರು!"
+                        },
+                        {
+                            "en": "He designed Bengaluru with lakes, roads, and markets all planned neatly!",
+                            "kn": "ಅವರು ಕೆರೆಗಳು, ರಸ್ತೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ಸರಿಯಾಗಿ ಯೋಜಿಸಿ ಬೆಂಗಳೂರು ನಿರ್ಮಿಸಿದರು!"
+                        },
+                        {
+                            "en": "People call him the father of Bengaluru city!",
+                            "kn": "ಜನರು ಅವರನ್ನು ಬೆಂಗಳೂರು ನಗರದ ತಂದೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Who founded Bengaluru?",
+                            "optionsEn": [
+                                "Kempe Gowda",
+                                "Tipu Sultan",
+                                "Krishnadevaraya",
+                                "Shivaji"
+                            ],
+                            "correctAnswerIndex": 0
+                        },
+                        {
+                            "questionEn": "In which year was Bengaluru founded?",
+                            "optionsEn": [
+                                "1500",
+                                "1537",
+                                "1600",
+                                "1450"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which empire did he serve?",
+                            "optionsEn": [
+                                "Chola",
+                                "Hoysala",
+                                "Vijayanagara",
+                                "Mughal"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:12.9716,77.5946?q=Kempegowda+Statue+Bengaluru"
+                },
+                {
+                    "id": "h2",
+                    "name": "Sir M. Visvesvaraya",
+                    "image": "img_visvesvaraya",
+                    "shortDesc": "Legendary Engineer and Statesman",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Years",
+                            "titleKn": "ಆರಂಭಿಕ ವರ್ಷಗಳು",
+                            "image": "img_visvesvaraya",
+                            "textEn": "Born in Muddenahalli, he was a brilliant student with strong interest in learning. From childhood, he showed discipline and curiosity. His early education shaped his future success.",
+                            "textKn": "ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದ ಅವರು ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಯಾಗಿದ್ದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರು ಶಿಸ್ತಿನ ಮತ್ತು ಕಲಿಕೆಯ ಆಸಕ್ತಿ ತೋರಿಸಿದರು. ಅವರ ಆರಂಭಿಕ ಶಿಕ್ಷಣವೇ ಅವರ ಯಶಸ್ಸಿಗೆ ಕಾರಣವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Engineering Marvels",
+                            "titleKn": "ಎಂಜಿನಿಯರಿಂಗ್ ಅದ್ಭುತಗಳು",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He designed automatic floodgates for dams to control water flow. These systems prevented damage during heavy rains. His innovations improved irrigation and safety.",
+                            "textKn": "ಅವರು ಅಣೆಕಟ್ಟುಗಳಿಗೆ ಸ್ವಯಂಚಾಲಿತ ನೀರಿನ ಪ್ರವಾಹದ ದ್ವಾರಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿದರು. ಭಾರಿ ಮಳೆಯ ಸಮಯದಲ್ಲಿ ಹಾನಿಯನ್ನು ತಡೆಗಟ್ಟಿತು. ಅವರ ಆವಿಷ್ಕಾರಗಳು ಕೃಷಿ ಮತ್ತು ಸುರಕ್ಷತೆಗೆ ಸಹಾಯ ಮಾಡಿತು."
+                        },
+                        {
+                            "titleEn": "KRS Dam",
+                            "titleKn": "ಕೆಆರ್ಎಸ್ ಅಣೆಕಟ್ಟು",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He played a key role in designing the Krishna Raja Sagara dam. It became one of the major water sources for Mysuru. His work improved agriculture in the region.",
+                            "textKn": "ಅವರು ಕೃಷ್ಣರಾಜ ಸಾಗರ ಅಣೆಕಟ್ಟಿನ ವಿನ್ಯಾಸದಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರವಹಿಸಿದರು. ಇದು ಮೈಸೂರಿನ ಪ್ರಮುಖ ನೀರಿನ ಮೂಲವಾಯಿತು. ಅವರ ಕೆಲಸ ಕೃಷಿಗೆ ದೊಡ್ಡ ಸಹಾಯ ಮಾಡಿತು."
+                        },
+                        {
+                            "titleEn": "Diwan of Mysore",
+                            "titleKn": "ಮೈಸೂರು ದಿವಾನ್",
+                            "image": "img_visvesvaraya",
+                            "textEn": "As Diwan, he introduced major reforms in administration and industry. He helped build strong economic institutions. His leadership modernized Mysore.",
+                            "textKn": "ದಿವಾನ್ ಆಗಿ ಅವರು ಆಡಳಿತ ಮತ್ತು ಕೈಗಾರಿಕೆಯಲ್ಲಿ ಸುಧಾರಣೆಗಳನ್ನು ತಂದರು. ಬಲವಾದ ಆರ್ಥಿಕ ಸಂಸ್ಥೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಅವರ ನಾಯಕತ್ವ ಮೈಸೂರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Education Focus",
+                            "titleKn": "ಶಿಕ್ಷಣದ ಗಮನ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He strongly believed in technical education for youth. He helped establish engineering institutions in Karnataka. Education was key to his vision.",
+                            "textKn": "ಅವರು ಯುವಕರಿಗೆ ತಾಂತ್ರಿಕ ಶಿಕ್ಷಣ ಮುಖ್ಯ ಎಂದು ನಂಬಿದರು. ಕರ್ನಾಟಕದಲ್ಲಿ ಎಂಜಿನಿಯರಿಂಗ್ ಸಂಸ್ಥೆಗಳನ್ನು ಸ್ಥಾಪಿಸಲು ಸಹಾಯ ಮಾಡಿದರು. ಶಿಕ್ಷಣ ಅವರ ದೃಷ್ಟಿಯ ಮುಖ್ಯ ಭಾಗವಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Bharat Ratna",
+                            "titleKn": "ಭಾರತ ರತ್ನ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He was awarded Bharat Ratna in 1955 for his contributions. He is celebrated as Engineer’s Day every year in India. His legacy inspires engineers.",
+                            "textKn": "1955 ರಲ್ಲಿ ಅವರಿಗೆ ಭಾರತ ರತ್ನ ನೀಡಲಾಯಿತು. ಅವರ ಹುಟ್ಟುಹಬ್ಬವನ್ನು ಭಾರತದಲ್ಲಿ ಎಂಜಿನಿಯರ್ ದಿನವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಪರಂಪರೆ ಇಂದಿಗೂ ಪ್ರೇರಣೆಯಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Water Management",
+                            "titleKn": "ನೀರಿನ ನಿರ್ವಹಣೆ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He focused on efficient water management systems across India. His designs reduced floods and improved storage. He was a pioneer in hydraulic engineering.",
+                            "textKn": "ಅವರು ಭಾರತದಾದ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ನೀರಿನ ನಿರ್ವಹಣೆಗೆ ಒತ್ತು ನೀಡಿದರು. ಅವರ ವಿನ್ಯಾಸಗಳು ಪ್ರವಾಹವನ್ನು ಕಡಿಮೆ ಮಾಡಿತು. ಅವರು ಜಲ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಮುಂಚೂಣಿ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Industrial Growth",
+                            "titleKn": "ಕೈಗಾರಿಕಾ ಬೆಳವಣಿಗೆ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He supported the development of industries in Mysore. This created jobs and boosted the economy. He believed in self-reliant development.",
+                            "textKn": "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಕೈಗಾರಿಕೆಗಳ ಅಭಿವೃದ್ಧಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು. ಇದರಿಂದ ಉದ್ಯೋಗಗಳು ಸೃಷ್ಟಿಯಾಯಿತು. ಅವರು ಸ್ವಾವಲಂಬಿ ಅಭಿವೃದ್ಧಿಗೆ ನಂಬಿಕೆ ಇಟ್ಟಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Modern Mysore",
+                            "titleKn": "ಆಧುನಿಕ ಮೈಸೂರು",
+                            "image": "img_visvesvaraya",
+                            "textEn": "His reforms transformed Mysore into a modern and progressive state. Infrastructure and education improved rapidly. He laid the foundation for future growth.",
+                            "textKn": "ಅವರ ಸುಧಾರಣೆಗಳು ಮೈಸೂರನ್ನು ಆಧುನಿಕ ರಾಜ್ಯವನ್ನಾಗಿ ಮಾಡಿತು. ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಶಿಕ್ಷಣ ವೇಗವಾಗಿ ಅಭಿವೃದ್ಧಿಯಾಯಿತು. ಅವರು ಭವಿಷ್ಯ ಬೆಳವಣಿಗೆಗೆ ಅಡಿಪಾಯ ಹಾಕಿದರು."
+                        },
+                        {
+                            "titleEn": "Global Recognition",
+                            "titleKn": "ಜಾಗತಿಕ ಗುರುತಿನಲ್ಲಿಕೆ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "He was respected internationally for his engineering skills. Many countries admired his work. He became a global symbol of excellence.",
+                            "textKn": "ಅವರ ಎಂಜಿನಿಯರಿಂಗ್ ಕೌಶಲ್ಯಕ್ಕಾಗಿ ಅವರು ಜಾಗತಿಕವಾಗಿ ಗೌರವಿಸಲ್ಪಟ್ಟರು. ಅನೇಕ ದೇಶಗಳು ಅವರ ಕೆಲಸವನ್ನು ಮೆಚ್ಚಿದವು. ಅವರು ಶ್ರೇಷ್ಠತೆಯ ಸಂಕೇತವಾಗಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_visvesvaraya",
+                            "textEn": "Visvesvaraya is remembered as one of India’s greatest engineers. His ideas still influence modern engineering. His life inspires future generations.",
+                            "textKn": "ವಿಶ್ವೇಶ್ವರಯ್ಯರನ್ನು ಭಾರತದ ಶ್ರೇಷ್ಠ ಎಂಜಿನಿಯರ್‌ಗಳಲ್ಲಿ ಒಬ್ಬರಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಕಲ್ಪನೆಗಳು ಇಂದಿಗೂ ಪ್ರಭಾವ ಬೀರುತ್ತವೆ. ಅವರ ಜೀವನ ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಪ್ರೇರಣೆಯಾಗಿದೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": " He once designed flood protection systems so advanced that they are still studied in engineering today!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರು ವಿನ್ಯಾಸಗೊಳಿಸಿದ ಪ್ರವಾಹ ನಿಯಂತ್ರಣ ವ್ಯವಸ್ಥೆಗಳು ಇಂದಿಗೂ ಎಂಜಿನಿಯರಿಂಗ್‌ನಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತವೆ!"
+                        },
+                        {
+                            "en": "He was so disciplined that he followed strict time schedules every single day, even at a young age!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರು ಅಷ್ಟು ಶಿಸ್ತಿನವರಾಗಿದ್ದರು ಎಂದರೆ ಬಾಲ್ಯದಲ್ಲೇ ಪ್ರತಿದಿನ ಕಟ್ಟುನಿಟ್ಟಾದ ಸಮಯ ಪಟ್ಟಿ ಅನುಸರಿಸುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "His birthday is celebrated as Engineers’ Day in India to honor his incredible contributions!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರ ಜನ್ಮದಿನವನ್ನು ಭಾರತದಲ್ಲಿ ಎಂಜಿನಿಯರ್ಸ್ ದಿನವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ ಅವರ ಮಹಾನ್ ಕೊಡುಗೆಗಾಗಿ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which dam did Sir MV build?",
+                            "optionsEn": [
+                                "Almatti",
+                                "KRS Dam",
+                                "Tungabhadra",
+                                "Bhakra Nangal"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What day is celebrated on his birthday?",
+                            "optionsEn": [
+                                "Teacher's Day",
+                                "Children's Day",
+                                "Engineer's Day",
+                                "Farmer's Day"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "Which highest civilian award did he receive?",
+                            "optionsEn": [
+                                "Padma Shri",
+                                "Padma Vibhushan",
+                                "Bharat Ratna",
+                                "Param Vir Chakra"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:12.9716,77.5946?q=Visvesvaraya+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d2",
+            "name": "Mysuru",
+            "image": "img_mysuru",
+            "heroes": [
+                {
+                    "id": "h3",
+                    "name": "Krishnaraja Wadiyar IV",
+                    "image": "img_krwadiyar",
+                    "shortDesc": "Rajarshi of Mysore",
+                    "storyPages": [
+                        {
+                            "titleEn": "The Philosopher King",
+                            "titleKn": "ತತ್ವಜ್ಞಾನಿ ರಾಜ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He was the 24th Maharaja of the Kingdom of Mysore. He ruled with wisdom, discipline, and justice. People respected him as a thoughtful and fair leader.",
+                            "textKn": "ಮೈಸೂರು ಸಾಮ್ರಾಜ್ಯದ 24ನೇ ಮಹಾರಾಜರಾಗಿದ್ದರು. ಅವರು ಜ್ಞಾನ, ಶಿಸ್ತು ಮತ್ತು ನ್ಯಾಯದಿಂದ ಆಳಿದರು. ಜನರು ಅವರನ್ನು ಜಾಣ ಮತ್ತು ನ್ಯಾಯಪಾಲಕ ನಾಯಕನಾಗಿ ಗೌರವಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Golden Age",
+                            "titleKn": "ಸುವರ್ಣ ಯುಗ",
+                            "image": "img_krwadiyar",
+                            "textEn": "His rule is known as the Golden Age of Mysore. The kingdom saw progress in all sectors. Peace and prosperity increased under his leadership.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆಯನ್ನು ಮೈಸೂರಿನ ಸುವರ್ಣ ಯುಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ರಾಜ್ಯವು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಪ್ರಗತಿ ಕಂಡಿತು. ಶಾಂತಿ ಮತ್ತು ಸಮೃದ್ಧಿ ಹೆಚ್ಚಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Education Reform",
+                            "titleKn": "ಶಿಕ್ಷಣ ಸುಧಾರಣೆ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He made primary education free and compulsory for children. Schools were opened in many villages. Literacy rate improved significantly.",
+                            "textKn": "ಅವರು ಪ್ರಾಥಮಿಕ ಶಿಕ್ಷಣವನ್ನು ಉಚಿತ ಮತ್ತು ಕಡ್ಡಾಯಗೊಳಿಸಿದರು. ಅನೇಕ ಗ್ರಾಮಗಳಲ್ಲಿ ಶಾಲೆಗಳು ತೆರೆಯಲ್ಪಟ್ಟವು. ಸಾಕ್ಷರತಾ ಪ್ರಮಾಣ ಹೆಚ್ಚಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Industrial Growth",
+                            "titleKn": "ಕೈಗಾರಿಕಾ ಬೆಳವಣಿಗೆ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He supported the growth of industries in Mysore. Famous products like Mysore Sandal Soap were introduced. This boosted the state economy.",
+                            "textKn": "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ಕೈಗಾರಿಕೆಗಳ ಬೆಳವಣಿಗೆಗೆ ಬೆಂಬಲ ನೀಡಿದರು. ಮೈಸೂರು ಸ್ಯಾಂಡಲ್ ಸೋಪ್ ಮುಂತಾದ ಉತ್ಪನ್ನಗಳು ಆರಂಭವಾದವು. ಇದು ಆರ್ಥಿಕತೆಯನ್ನು ಬಲಪಡಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Women's Empowerment",
+                            "titleKn": "ಮಹಿಳಾ ಸಬಲೀಕರಣ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He gave voting rights to women in Mysore. He also worked to abolish child marriage. His reforms improved women’s status in society.",
+                            "textKn": "ಅವರು ಮಹಿಳೆಯರಿಗೆ ಮತದಾನದ ಹಕ್ಕನ್ನು ನೀಡಿದರು. ಬಾಲ್ಯ ವಿವಾಹವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದರು. ಅವರ ಸುಧಾರಣೆಗಳು ಮಹಿಳೆಯರ ಸ್ಥಿತಿಯನ್ನು ಉತ್ತಮಗೊಳಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Gandhi's Respect",
+                            "titleKn": "ಗಾಂಧೀಜಿಯವರ ಗೌರವ",
+                            "image": "img_krwadiyar",
+                            "textEn": "Mahatma Gandhi praised him as 'Rajarshi', meaning saintly king. His governance was admired across India. He was seen as a model ruler.",
+                            "textKn": "ಮಹಾತ್ಮ ಗಾಂಧೀಜಿಯವರು ಅವರನ್ನು 'ರಾಜರ್ಷಿ' ಎಂದು ಕರೆದರು. ಅವರ ಆಡಳಿತವನ್ನು ಭಾರತದೆಲ್ಲೆಡೆ ಮೆಚ್ಚಲಾಯಿತು. ಅವರು ಮಾದರಿ ರಾಜರಾಗಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Public Welfare",
+                            "titleKn": "ಜನಕಲ್ಯಾಣ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He focused strongly on public welfare programs. Healthcare and basic facilities were improved. His aim was people’s happiness and growth.",
+                            "textKn": "ಅವರು ಜನಕಲ್ಯಾಣ ಕಾರ್ಯಕ್ರಮಗಳಿಗೆ ಹೆಚ್ಚು ಗಮನ ನೀಡಿದರು. ಆರೋಗ್ಯ ಮತ್ತು ಮೂಲ ಸೌಲಭ್ಯಗಳು ಅಭಿವೃದ್ಧಿಯಾಯಿತು. ಜನರ ಸಂತೋಷ ಮತ್ತು ಬೆಳವಣಿಗೆಯೇ ಅವರ ಗುರಿಯಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Modern Mysore",
+                            "titleKn": "ಆಧುನಿಕ ಮೈಸೂರು",
+                            "image": "img_krwadiyar",
+                            "textEn": "He transformed Mysore into a modern and progressive state. Infrastructure and administration improved greatly. His vision shaped modern Mysore.",
+                            "textKn": "ಅವರು ಮೈಸೂರನ್ನು ಆಧುನಿಕ ಮತ್ತು ಪ್ರಗತಿಶೀಲ ರಾಜ್ಯವನ್ನಾಗಿ ಮಾಡಿದರು. ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಆಡಳಿತ ಉತ್ತಮವಾಯಿತು. ಅವರ ದೃಷ್ಟಿ ಆಧುನಿಕ ಮೈಸೂರನ್ನು ರೂಪಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Cultural Growth",
+                            "titleKn": "ಸಾಂಸ್ಕೃತಿಕ ಬೆಳವಣಿಗೆ",
+                            "image": "img_krwadiyar",
+                            "textEn": "He supported arts, music, and cultural activities. Mysore became a cultural hub under his rule. Traditions and heritage were preserved.",
+                            "textKn": "ಅವರು ಕಲೆ, ಸಂಗೀತ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಚಟುವಟಿಕೆಗಳಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು. ಮೈಸೂರು ಸಾಂಸ್ಕೃತಿಕ ಕೇಂದ್ರವಾಯಿತು. ಪರಂಪರೆ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಉಳಿಸಲಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_krwadiyar",
+                            "textEn": "Krishna Raja Wadiyar is remembered as one of the greatest rulers of Mysore. His reforms still influence Karnataka. He remains an inspiration.",
+                            "textKn": "ಕೃಷ್ಣರಾಜ ಒಡೆಯರನ್ನು ಮೈಸೂರಿನ ಶ್ರೇಷ್ಠ ರಾಜರಲ್ಲಿ ಒಬ್ಬರಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಸುಧಾರಣೆಗಳು ಇಂದಿಗೂ ಕರ್ನಾಟಕವನ್ನು ಪ್ರಭಾವಿಸುತ್ತವೆ. ಅವರು ಪ್ರೇರಣೆಯಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He once solved a water problem idea just by observing a toy-like gate model!",
+                            "kn": "ಅವರು ಒಂದು ಆಟದ ಮಾದರಿಯನ್ನು ನೋಡಿ ನೀರಿನ ಸಮಸ್ಯೆಗೆ ಪರಿಹಾರ ಕಂಡುಹಿಡಿದರು!"
+                        },
+                        {
+                            "en": "People called him a real-life ‘problem solver’ because he fixed big city issues simply!",
+                            "kn": "ಅವರು ದೊಡ್ಡ ನಗರ ಸಮಸ್ಯೆಗಳನ್ನು ಸರಳವಾಗಿ ಪರಿಹರಿಸಿದ ಕಾರಣ ಜನರು ಅವರನ್ನು ನಿಜವಾದ ‘ಸಮಸ್ಯೆ ಪರಿಹಾರಕ’ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "Even today, engineers study his ideas to design safe and smart cities!",
+                            "kn": "ಇಂದಿಗೂ ಇಂಜಿನಿಯರ್‌ಗಳು ಸುರಕ್ಷಿತ ಮತ್ತು ಸ್ಮಾರ್ಟ್ ನಗರಗಳನ್ನು ನಿರ್ಮಿಸಲು ಅವರ ಕಲ್ಪನೆಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Who called him 'Rajarshi'?",
+                            "optionsEn": [
+                                "Nehru",
+                                "Patel",
+                                "Mahatma Gandhi",
+                                "Bose"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "He made what kind of education free?",
+                            "optionsEn": [
+                                "College",
+                                "Primary",
+                                "University",
+                                "None"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which kingdom did he rule?",
+                            "optionsEn": [
+                                "Mysore",
+                                "Kittur",
+                                "Coorg",
+                                "Keladi"
+                            ],
+                            "correctAnswerIndex": 0
+                        }
+                    ],
+                    "statueLocation": "geo:12.3051,76.6551?q=Krishnaraja+Wadiyar+Statue+Mysore"
+
+                },
+                {
+                    "id": "h4",
+                    "name": "D. Devaraj Urs",
+                    "image": "img_devaraj",
+                    "shortDesc": "Champion of Social Justice",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Life",
+                            "titleKn": "ಆರಂಭಿಕ ಜೀವನ",
+                            "image": "img_devaraj",
+                            "textEn": "He was born in the Hunsur taluk of Mysuru. He grew up with strong values of simplicity and service. His early life shaped his interest in social work.",
+                            "textKn": "ಅವರು ಮೈಸೂರಿನ ಹುಣಸೂರು ತಾಲೂಕಿನಲ್ಲಿ ಜನಿಸಿದರು. ಸರಳತೆ ಮತ್ತು ಸೇವೆಯ ಮೌಲ್ಯಗಳೊಂದಿಗೆ ಬೆಳೆದರು. ಅವರ ಬಾಲ್ಯ ಜೀವನವೇ ಸಮಾಜ ಸೇವೆಗೆ ಪ್ರೇರಣೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Chief Minister",
+                            "titleKn": "ಮುಖ್ಯಮಂತ್ರಿ",
+                            "image": "img_devaraj",
+                            "textEn": "He served as the Chief Minister of Karnataka for two terms. His leadership focused on equality and development. He worked for the welfare of all people.",
+                            "textKn": "ಅವರು ಎರಡು ಅವಧಿಗೆ ಕರ್ನಾಟಕದ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು. ಅವರ ನಾಯಕತ್ವ ಸಮಾನತೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿತು. ಜನರ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು."
+                        },
+                        {
+                            "titleEn": "Land Reforms",
+                            "titleKn": "ಭೂ ಸುಧಾರಣೆಗಳು",
+                            "image": "img_devaraj",
+                            "textEn": "He implemented the 'Land to the Tiller' act for farmers. This gave ownership rights to those who worked on the land. It reduced inequality in rural areas.",
+                            "textKn": "ಅವರು 'ಉಳುವವನೇ ಭೂಮಿಯ ಒಡೆಯ' ಕಾಯಿದೆಯನ್ನು ಜಾರಿಗೆ ತಂದರು. ಇದು ಭೂಮಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುವವರಿಗೆ ಹಕ್ಕು ನೀಡಿತು. ಗ್ರಾಮೀಣ ಅಸಮಾನತೆ ಕಡಿಮೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Social Justice",
+                            "titleKn": "ಸಾಮಾಜಿಕ ನ್ಯಾಯ",
+                            "image": "img_devaraj",
+                            "textEn": "He worked for the upliftment of backward classes and Dalits. His policies promoted equality and fairness. He believed in inclusive development.",
+                            "textKn": "ಅವರು ಹಿಂದುಳಿದ ವರ್ಗಗಳು ಮತ್ತು ದಲಿತರ ಅಭಿವೃದ್ಧಿಗಾಗಿ ಕೆಲಸ ಮಾಡಿದರು. ಅವರ ನೀತಿಗಳು ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯವನ್ನು ಉತ್ತೇಜಿಸಿತು. ಅವರು ಎಲ್ಲರ ಒಳಗೊಂಡ ಅಭಿವೃದ್ಧಿಗೆ ನಂಬಿಕೆ ಇಟ್ಟಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Renaming Karnataka",
+                            "titleKn": "ಕರ್ನಾಟಕ ಮರುನಾಮಕರಣ",
+                            "image": "img_devaraj",
+                            "textEn": "During his leadership, Mysore State was renamed Karnataka in 1973. This gave the state a unified identity. It was a historic moment for the people.",
+                            "textKn": "ಅವರ ಅವಧಿಯಲ್ಲಿ, 1973 ರಲ್ಲಿ ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಕರ್ನಾಟಕ ಎಂದು ಮರುನಾಮಕರಣ ಮಾಡಲಾಯಿತು. ಇದು ರಾಜ್ಯಕ್ಕೆ ಏಕೀಕೃತ ಗುರುತನ್ನು ನೀಡಿತು. ಇದು ಇತಿಹಾಸಾತ್ಮಕ ಕ್ಷಣವಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Education Support",
+                            "titleKn": "ಶಿಕ್ಷಣ ಬೆಂಬಲ",
+                            "image": "img_devaraj",
+                            "textEn": "He supported expansion of education across Karnataka. Schools and colleges were improved during his tenure. Education became more accessible.",
+                            "textKn": "ಅವರು ಕರ್ನಾಟಕದಲ್ಲಿ ಶಿಕ್ಷಣ ವಿಸ್ತರಣೆಗೆ ಬೆಂಬಲ ನೀಡಿದರು. ಶಾಲೆ ಮತ್ತು ಕಾಲೇಜುಗಳು ಅಭಿವೃದ್ಧಿಯಾದವು. ಶಿಕ್ಷಣ ಹೆಚ್ಚು ಲಭ್ಯವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Agricultural Growth",
+                            "titleKn": "ಕೃಷಿ ಬೆಳವಣಿಗೆ",
+                            "image": "img_devaraj",
+                            "textEn": "He introduced reforms to support farmers and agriculture. Irrigation projects were developed. Farming productivity increased.",
+                            "textKn": "ಅವರು ಕೃಷಿಕರಿಗಾಗಿ ಸುಧಾರಣೆಗಳನ್ನು ತಂದರು. ನೀರಾವರಿ ಯೋಜನೆಗಳು ಅಭಿವೃದ್ಧಿಯಾದವು. ಕೃಷಿ ಉತ್ಪಾದಕತೆ ಹೆಚ್ಚಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Rural Development",
+                            "titleKn": "ಗ್ರಾಮೀಣ ಅಭಿವೃದ್ಧಿ",
+                            "image": "img_devaraj",
+                            "textEn": "He focused on improving rural infrastructure and living conditions. Villages received better roads and facilities. Rural life improved significantly.",
+                            "textKn": "ಅವರು ಗ್ರಾಮೀಣ ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಜೀವನಮಟ್ಟವನ್ನು ಸುಧಾರಿಸಿದರು. ಗ್ರಾಮಗಳಿಗೆ ಉತ್ತಮ ರಸ್ತೆ ಮತ್ತು ಸೌಲಭ್ಯಗಳು ದೊರಕಿದವು. ಗ್ರಾಮೀಣ ಜೀವನ ಉತ್ತಮವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Leadership Style",
+                            "titleKn": "ನಾಯಕತ್ವ ಶೈಲಿ",
+                            "image": "img_devaraj",
+                            "textEn": "He was known for his simple and people-centered leadership. He always listened to public needs. His decisions focused on equality.",
+                            "textKn": "ಅವರು ಸರಳ ಮತ್ತು ಜನಕೇಂದ್ರಿತ ನಾಯಕತ್ವಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಜನರ ಅಗತ್ಯಗಳನ್ನು ಕೇಳುತ್ತಿದ್ದರು. ಅವರ ನಿರ್ಧಾರಗಳು ಸಮಾನತೆಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_devaraj",
+                            "textEn": "Devaraj Urs is remembered as a leader of social transformation in Karnataka. His reforms changed society positively. He remains a respected figure.",
+                            "textKn": "ದೇವರಾಜ್ ಅರಸ್ ಅವರನ್ನು ಕರ್ನಾಟಕದ ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆಯ ನಾಯಕನಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಸುಧಾರಣೆಗಳು ಸಮಾಜವನ್ನು ಉತ್ತಮಗೊಳಿಸಿತು. ಅವರು ಗೌರವಾನ್ವಿತ ವ್ಯಕ್ತಿಯಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He was one of the first leaders who truly focused on helping village people grow equally!",
+                            "kn": "ಅವರು ಗ್ರಾಮೀಣ ಜನರು ಸಮಾನವಾಗಿ ಬೆಳೆಯಲು ಗಮನಕೊಟ್ಟ ಮೊದಲ ನಾಯಕರಲ್ಲಿ ಒಬ್ಬರು!"
+                        },
+                        {
+                            "en": "Many people say he made government feel closer and more friendly to common citizens!",
+                            "kn": "ಅವರು ಸರ್ಕಾರವನ್ನು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಹೆಚ್ಚು ಹತ್ತಿರ ಮತ್ತು ಸ್ನೇಹಪರವಾಗಿಸಿದರು ಎಂದು ಹೇಳುತ್ತಾರೆ!"
+                        },
+                        {
+                            "en": "His ideas still inspire leaders today to think about fairness and equality!",
+                            "kn": "ಅವರ ಕಲ್ಪನೆಗಳು ಇಂದಿಗೂ ನ್ಯಾಯ ಮತ್ತು ಸಮಾನತೆಯ ಬಗ್ಗೆ ಯೋಚಿಸಲು ನಾಯಕರಿಗೆ ಪ್ರೇರಣೆ ನೀಡುತ್ತವೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What major reform did Devaraj Urs implement?",
+                            "optionsEn": [
+                                "Education",
+                                "Land Reforms",
+                                "Space",
+                                "Military"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "When was Mysore renamed Karnataka?",
+                            "optionsEn": [
+                                "1947",
+                                "1956",
+                                "1973",
+                                "2000"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "He was the champion of which cause?",
+                            "optionsEn": [
+                                "Industry",
+                                "Social Justice",
+                                "Technology",
+                                "Art"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:12.3051,76.6551?q=Devaraj+Urs+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d3",
+            "name": "Mangaluru",
+            "image": "img_mangaluru",
+            "heroes": [
+                {
+                    "id": "h5",
+                    "name": "Rani Abbakka",
+                    "image": "img_abbakka",
+                    "shortDesc": "The Fearless Queen of Ullal",
+                    "storyPages": [
+                        {
+                            "titleEn": "The Chowta Dynasty",
+                            "titleKn": "ಚೌಟ ರಾಜವಂಶ",
+                            "image": "img_abbakka",
+                            "textEn": "Rani Abbakka belonged to the Chowta dynasty who ruled over coastal Karnataka. She was trained in leadership and warfare from a young age. Her courage made her a strong ruler of Ullal.",
+                            "textKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಕರಾವಳಿ ಕರ್ನಾಟಕವನ್ನು ಆಳಿದ ಚೌಟ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರು ನಾಯಕತ್ವ ಮತ್ತು ಯುದ್ಧಕಲೆಯಲ್ಲಿ ತರಬೇತಿ ಪಡೆದರು. ಅವರ ಧೈರ್ಯವು ಅವರನ್ನು ಬಲವಾದ ಆಳ್ವಿಕೆಯಾಗಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Portuguese Threat",
+                            "titleKn": "ಪೋರ್ಚುಗೀಸ್ ಬೆದರಿಕೆ",
+                            "image": "img_abbakka",
+                            "textEn": "The Portuguese wanted to capture Ullal to control the spice trade. This created tension between them and the local rulers. Abbakka stood firmly against their expansion.",
+                            "textKn": "ಮಸಾಲೆ ವ್ಯಾಪಾರವನ್ನು ನಿಯಂತ್ರಿಸಲು ಪೋರ್ಚುಗೀಸರು ಉಳ್ಳಾಲವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಬಯಸಿದರು. ಇದರಿಂದ ಸ್ಥಳೀಯ ಆಡಳಿತಗಾರರೊಂದಿಗೆ ಒತ್ತಡ ಉಂಟಾಯಿತು. ಅಬ್ಬಕ್ಕ ಅವರು ಅವರ ವಿಸ್ತರಣೆಗೆ ವಿರೋಧಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Refusal to Pay Tribute",
+                            "titleKn": "ಕಪ್ಪ ಕಾಣಿಕೆ ನಿರಾಕರಣೆ",
+                            "image": "img_abbakka",
+                            "textEn": "She refused to pay tribute to the Portuguese and declared Ullal independent. This bold decision angered the Portuguese forces. It marked the beginning of conflict.",
+                            "textKn": "ಅವರು ಪೋರ್ಚುಗೀಸರಿಗೆ ಕಪ್ಪ ಕಾಣಿಕೆ ನೀಡಲು ನಿರಾಕರಿಸಿದರು ಮತ್ತು ಉಳ್ಳಾಲವನ್ನು ಸ್ವತಂತ್ರ ಎಂದು ಘೋಷಿಸಿದರು. ಈ ಧೈರ್ಯಶಾಲಿ ನಿರ್ಧಾರವು ಪೋರ್ಚುಗೀಸರನ್ನು ಕೋಪಗೊಳಿಸಿತು. ಇದು ಸಂಘರ್ಷದ ಆರಂಭವಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "First Battles",
+                            "titleKn": "ಮೊದಲ ಯುದ್ಧಗಳು",
+                            "image": "img_abbakka",
+                            "textEn": "She defeated the Portuguese in several battles during the 1550s and 1560s. Her strategies surprised the enemy forces. She became a symbol of resistance.",
+                            "textKn": "1550 ಮತ್ತು 1560 ರ ದಶಕಗಳಲ್ಲಿ ಅವರು ಅನೇಕ ಯುದ್ಧಗಳಲ್ಲಿ ಪೋರ್ಚುಗೀಸರನ್ನು ಸೋಲಿಸಿದರು. ಅವರ ಯುದ್ಧ ತಂತ್ರಗಳು ಶತ್ರುಗಳನ್ನು ಆಶ್ಚರ್ಯಪಡಿಸಿತು. ಅವರು ಪ್ರತಿರೋಧದ ಸಂಕೇತವಾದರು."
+                        },
+                        {
+                            "titleEn": "Agni Bana",
+                            "titleKn": "ಅಗ್ನಿ ಬಾಣ",
+                            "image": "img_abbakka",
+                            "textEn": "Her soldiers used fire arrows called Agni Bana in naval battles. These were used to destroy enemy ships at sea. It made her defense very powerful.",
+                            "textKn": "ಅವರ ಸೈನಿಕರು ಸಮುದ್ರ ಯುದ್ಧಗಳಲ್ಲಿ ಅಗ್ನಿ ಬಾಣಗಳನ್ನು ಬಳಸಿದರು. ಇವು ಶತ್ರು ಹಡಗುಗಳನ್ನು ನಾಶಪಡಿಸಲು ಉಪಯೋಗಿಸಲಾಯಿತು. ಇದರಿಂದ ಅವರ ರಕ್ಷಣಾ ಶಕ್ತಿ ಹೆಚ್ಚಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "First Freedom Fighter",
+                            "titleKn": "ಮೊದಲ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ",
+                            "image": "img_abbakka",
+                            "textEn": "She is considered one of India’s earliest women freedom fighters. Her resistance inspired future generations. She became a legendary warrior queen.",
+                            "textKn": "ಅವರನ್ನು ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿಗಳಲ್ಲಿ ಒಬ್ಬರಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಅವರ ಹೋರಾಟ ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಪ್ರೇರಣೆಯಾಯಿತು. ಅವರು ದಂತಕಥೆಯ ರಾಣಿ ಆಗಿದರು."
+                        },
+                        {
+                            "titleEn": "Naval Warfare Expert",
+                            "titleKn": "ನೌಕಾ ಯುದ್ಧ ಪರಿಣತಿ",
+                            "image": "img_abbakka",
+                            "textEn": "Rani Abbakka was skilled in naval warfare strategies. She protected coastal areas using strong sea defense. Her tactics kept enemies away for years.",
+                            "textKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ನೌಕಾ ಯುದ್ಧ ತಂತ್ರಗಳಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿದ್ದರು. ಅವರು ಸಮುದ್ರ ತೀರ ಪ್ರದೇಶಗಳನ್ನು ರಕ್ಷಿಸಿದರು. ಅವರ ತಂತ್ರಗಳು ಶತ್ರುಗಳನ್ನು ದೂರ ಇಡಿತು."
+                        },
+                        {
+                            "titleEn": "People’s Queen",
+                            "titleKn": "ಜನರ ರಾಣಿ",
+                            "image": "img_abbakka",
+                            "textEn": "She was loved by her people for her bravery and justice. She always protected the interests of her kingdom. People saw her as a true leader.",
+                            "textKn": "ಅವರು ತಮ್ಮ ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಜನರಿಂದ ಪ್ರೀತಿಸಲ್ಪಟ್ಟರು. ಅವರು ತಮ್ಮ ರಾಜ್ಯದ ಹಿತಾಸಕ್ತಿಯನ್ನು ರಕ್ಷಿಸಿದರು. ಜನರು ಅವರನ್ನು ನಿಜವಾದ ನಾಯಕಿಯಾಗಿ ನೋಡಿದರು."
+                        },
+                        {
+                            "titleEn": "Guerrilla Warfare",
+                            "titleKn": "ಗುಪ್ತ ಯುದ್ಧ ತಂತ್ರ",
+                            "image": "img_abbakka",
+                            "textEn": "She used guerrilla tactics to fight stronger Portuguese forces. Quick attacks and smart strategies helped her win battles. This made her army highly effective.",
+                            "textKn": "ಅವರು ಬಲವಾದ ಪೋರ್ಚುಗೀಸ್ ಸೇನೆಗೆ ವಿರುದ್ಧ ಗುಪ್ತ ಯುದ್ಧ ತಂತ್ರಗಳನ್ನು ಬಳಸಿದರು. ವೇಗದ ದಾಳಿಗಳು ಮತ್ತು ಬುದ್ಧಿವಂತ ತಂತ್ರಗಳು ಜಯಕ್ಕೆ ಸಹಾಯ ಮಾಡಿತು. ಇದು ಅವರ ಸೇನೆಯನ್ನು ಶಕ್ತಿಶಾಲಿಯಾಗಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_abbakka",
+                            "textEn": "Rani Abbakka is remembered as a brave and fearless queen. Her resistance against colonizers is still celebrated. She remains an icon of courage.",
+                            "textKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಅವರನ್ನು ಧೈರ್ಯಶಾಲಿ ಮತ್ತು ಭಯವಿಲ್ಲದ ರಾಣಿಯಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ವಸಾಹತುಕಾರರ ವಿರುದ್ಧ ಅವರ ಹೋರಾಟ ಇಂದಿಗೂ ಆಚರಿಸಲಾಗುತ್ತದೆ. ಅವರು ಧೈರ್ಯದ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "She ruled Ullal like a fearless sea queen who protected her coast like a treasure!",
+                            "kn": "ಅವರು ಉಳ್ಳಾಲವನ್ನು ಖಜಾನೆಯಂತೆ ರಕ್ಷಿಸುವ ಭಯವಿಲ್ಲದ ಸಮುದ್ರ ರಾಣಿಯಾಗಿ ಆಳಿದರು!"
+                        },
+                        {
+                            "en": "Even powerful ships were scared to enter her kingdom because of her smart defense!",
+                            "kn": "ಅವರ ಬುದ್ಧಿವಂತ ರಕ್ಷಣೆಯಿಂದ ಶಕ್ತಿಶಾಲಿ ಹಡಗುಗಳೂ ಅವರ ರಾಜ್ಯಕ್ಕೆ ಪ್ರವೇಶಿಸಲು ಭಯಪಟ್ಟವು!"
+                        },
+                        {
+                            "en": "Kids today still hear stories of her bravery like a real-life superhero queen!",
+                            "kn": "ಇಂದಿಗೂ ಮಕ್ಕಳು ಅವರ ಧೈರ್ಯದ ಕಥೆಗಳನ್ನು ನಿಜವಾದ ಸೂಪರ್ ಹೀರೋ ರಾಣಿಯಂತೆ ಕೇಳುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which European power did Rani Abbakka fight?",
+                            "optionsEn": [
+                                "British",
+                                "French",
+                                "Portuguese",
+                                "Dutch"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "What was the capital of her kingdom?",
+                            "optionsEn": [
+                                "Mysore",
+                                "Ullal",
+                                "Kittur",
+                                "Hampi"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What weapon did her soldiers use effectively?",
+                            "optionsEn": [
+                                "Cannons",
+                                "Guns",
+                                "Fire Arrows",
+                                "Swords"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:12.8166,74.8530?q=Rani+Abbakka+Statue+Ullal"
+
+                },
+                {
+                    "id": "h6",
+                    "name": "Karnad Sadashiva Rao",
+                    "image": "img_karnad",
+                    "shortDesc": "Freedom Fighter and Philanthropist",
+                    "storyPages": [
+                        {
+                            "titleEn": "Wealthy Beginnings",
+                            "titleKn": "ಶ್ರೀಮಂತ ಆರಂಭ",
+                            "image": "img_karnad",
+                            "textEn": "Born in a wealthy family in Mangaluru, he was deeply moved by poverty around him. This contrast shaped his early thinking. He developed a strong sense of social responsibility.",
+                            "textKn": "ಮಂಗಳೂರಿನ ಶ್ರೀಮಂತ ಕುಟುಂಬದಲ್ಲಿ ಜನಿಸಿದ ಅವರು ಸುತ್ತಲಿನ ಬಡತನದಿಂದ ತೀವ್ರವಾಗಿ ವಿಚಲಿತರಾಗಿದ್ದರು. ಈ ವ್ಯತ್ಯಾಸವು ಅವರ ಚಿಂತನೆಗೆ ಕಾರಣವಾಯಿತು. ಅವರು ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿಯನ್ನು ಬೆಳೆಸಿಕೊಂಡರು."
+                        },
+                        {
+                            "titleEn": "Following Gandhi",
+                            "titleKn": "ಗಾಂಧೀಜಿಯನ್ನು ಅನುಸರಿಸಿ",
+                            "image": "img_karnad",
+                            "textEn": "He joined the freedom struggle after being inspired by Mahatma Gandhi. Gandhi’s ideals deeply influenced his life. He became committed to non-violence and service.",
+                            "textKn": "ಮಹಾತ್ಮ ಗಾಂಧಿಯವರಿಂದ ಪ್ರೇರಿತರಾಗಿ ಅವರು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಕ್ಕೆ ಸೇರಿದರು. ಗಾಂಧೀಜಿಯ ತತ್ವಗಳು ಅವರ ಜೀವನವನ್ನು ಪ್ರಭಾವಿಸಿತು. ಅವರು ಅಹಿಂಸೆ ಮತ್ತು ಸೇವೆಗೆ ಬದ್ಧರಾದರು."
+                        },
+                        {
+                            "titleEn": "Donating Wealth",
+                            "titleKn": "ಸಂಪತ್ತು ದಾನ",
+                            "image": "img_karnad",
+                            "textEn": "He donated all his wealth to support the freedom movement and the poor. He believed money should serve society. His actions inspired many people.",
+                            "textKn": "ಅವರು ತಮ್ಮ ಸಂಪತ್ತೆಲ್ಲವನ್ನೂ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಮತ್ತು ಬಡವರಿಗಾಗಿ ದಾನ ಮಾಡಿದರು. ಹಣ ಸಮಾಜಕ್ಕೆ ಸೇವೆ ಮಾಡಬೇಕು ಎಂದು ನಂಬಿದರು. ಅವರ ಕಾರ್ಯಗಳು ಅನೇಕರಿಗೆ ಪ್ರೇರಣೆಯಾದವು."
+                        },
+                        {
+                            "titleEn": "Harijan Upliftment",
+                            "titleKn": "ಹರಿಜನ ಉದ್ದಾರ",
+                            "image": "img_karnad",
+                            "textEn": "He worked to remove untouchability and improve social equality. He supported education and dignity for Harijans. His efforts created social awareness.",
+                            "textKn": "ಅವರು ಅಸ್ಪೃಶ್ಯತೆಯನ್ನು ನಿವಾರಿಸಲು ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಉತ್ತೇಜಿಸಲು ಕೆಲಸ ಮಾಡಿದರು. ಹರಿಜನರ ಶಿಕ್ಷಣ ಮತ್ತು ಗೌರವಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು. ಅವರ ಪ್ರಯತ್ನಗಳು ಜಾಗೃತಿ ತಂದವು."
+                        },
+                        {
+                            "titleEn": "Khadi Movement",
+                            "titleKn": "ಖಾದಿ ಚಳುವಳಿ",
+                            "image": "img_karnad",
+                            "textEn": "He promoted Khadi as a symbol of self-reliance. He established weaving centers in South Kanara. This helped rural employment grow.",
+                            "textKn": "ಅವರು ಖಾದಿಯನ್ನು ಸ್ವಾವಲಂಬನೆಯ ಸಂಕೇತವಾಗಿ ಉತ್ತೇಜಿಸಿದರು. ದಕ್ಷಿಣ ಕನ್ನಡದಲ್ಲಿ ನೇಕಾರಿಕೆ ಕೇಂದ್ರಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಇದು ಗ್ರಾಮೀಣ ಉದ್ಯೋಗವನ್ನು ಹೆಚ್ಚಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Sacrifice",
+                            "titleKn": "ತ್ಯಾಗ",
+                            "image": "img_karnad",
+                            "textEn": "He spent his life serving the nation and the poor. He gave away all his personal wealth. He died in simplicity and dedication.",
+                            "textKn": "ಅವರು ತಮ್ಮ ಜೀವನವನ್ನು ದೇಶ ಮತ್ತು ಬಡವರ ಸೇವೆಗೆ ಮೀಸಲಿಟ್ಟರು. ತಮ್ಮ ಸಂಪತ್ತೆಲ್ಲವನ್ನೂ ನೀಡಿದರು. ಸರಳತೆ ಮತ್ತು ತ್ಯಾಗದೊಂದಿಗೆ ಅವರು ನಿಧನರಾದರು."
+                        },
+                        {
+                            "titleEn": "Freedom Movement Leader",
+                            "titleKn": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ನಾಯಕ",
+                            "image": "img_karnad",
+                            "textEn": "He actively participated in India’s freedom struggle activities. He motivated people to join the movement. His leadership strengthened local resistance.",
+                            "textKn": "ಅವರು ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸಿದರು. ಜನರನ್ನು ಚಳುವಳಿಗೆ ಪ್ರೇರೇಪಿಸಿದರು. ಅವರ ನಾಯಕತ್ವ ಸ್ಥಳೀಯ ಪ್ರತಿರೋಧವನ್ನು ಬಲಪಡಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Simple Lifestyle",
+                            "titleKn": "ಸರಳ ಜೀವನಶೈಲಿ",
+                            "image": "img_karnad",
+                            "textEn": "Despite being wealthy, he lived a very simple life. He believed in minimal needs and maximum service. His lifestyle reflected his values.",
+                            "textKn": "ಶ್ರೀಮಂತನಾಗಿದ್ದರೂ ಅವರು ಅತ್ಯಂತ ಸರಳ ಜೀವನ ನಡೆಸಿದರು. ಕಡಿಮೆ ಅಗತ್ಯಗಳು ಮತ್ತು ಹೆಚ್ಚು ಸೇವೆ ಎಂಬುದರಲ್ಲಿ ನಂಬಿಕೆ ಇಟ್ಟಿದ್ದರು. ಅವರ ಜೀವನಶೈಲಿ ಅವರ ಮೌಲ್ಯಗಳನ್ನು ತೋರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Social Reformer",
+                            "titleKn": "ಸಾಮಾಜಿಕ ಸುಧಾರಕ",
+                            "image": "img_karnad",
+                            "textEn": "He worked for equality and social justice in society. He fought against discrimination and inequality. His reforms improved many lives.",
+                            "textKn": "ಅವರು ಸಮಾಜದಲ್ಲಿ ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು. ಭೇದಭಾವ ಮತ್ತು ಅಸಮಾನತೆಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು. ಅವರ ಸುಧಾರಣೆಗಳು ಅನೇಕ ಜೀವಗಳನ್ನು ಉತ್ತಮಗೊಳಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_karnad",
+                            "textEn": "Karnad Sadashiva Rao is remembered as a great patriot and reformer. His sacrifices continue to inspire generations. He remains a symbol of service.",
+                            "textKn": "ಕರ್ಣಾಡ್ ಸದಾಶಿವ ರಾವರನ್ನು ಮಹಾನ್ ದೇಶಭಕ್ತ ಮತ್ತು ಸುಧಾರಕನಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ತ್ಯಾಗಗಳು ಪೀಳಿಗೆಗಳಿಗೆ ಪ್ರೇರಣೆಯಾಗಿವೆ. ಅವರು ಸೇವೆಯ ಸಂಕೇತವಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He gave away so much of his wealth that people called him a real-life generous hero!",
+                            "kn": "ಅವರು ತಮ್ಮ ಸಂಪತ್ತಿನ ಬಹುಭಾಗವನ್ನು ದಾನ ಮಾಡಿದ ಕಾರಣ ಜನರು ಅವರನ್ನು ನಿಜಜೀವನದ ದಾನಶೀಲ ಹೀರೋ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "Even though he was rich, he chose to live like an ordinary person to help others more!",
+                            "kn": "ಅವರು ಶ್ರೀಮಂತರಾಗಿದ್ದರೂ ಇತರರಿಗೆ ಹೆಚ್ಚು ಸಹಾಯ ಮಾಡಲು ಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿಯಂತೆ ಬದುಕಲು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡರು!"
+                        },
+                        {
+                            "en": "Children today are inspired by his kindness and call him a true ‘helper of the poor’!",
+                            "kn": "ಇಂದಿಗೂ ಮಕ್ಕಳು ಅವರ ದಯೆಯಿಂದ ಪ್ರೇರಿತರಾಗಿ ಅವರನ್ನು ‘ಬಡವರ ಸಹಾಯಕ’ ಎಂದು ಕರೆಯುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which movement did Karnad Sadashiva Rao join?",
+                            "optionsEn": [
+                                "Quit India",
+                                "Freedom Struggle",
+                                "Sepoy Mutiny",
+                                "Bhakti"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What did he do with his wealth?",
+                            "optionsEn": [
+                                "Kept it",
+                                "Donated it",
+                                "Invested it",
+                                "Hid it"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which fabric did he promote?",
+                            "optionsEn": [
+                                "Silk",
+                                "Cotton",
+                                "Khadi",
+                                "Wool"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:12.8716,74.8436?q=Karnad+Sadashiva+Rao+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d4",
+            "name": "Chitradurga",
+            "image": "img_chitradurga",
+            "heroes": [
+                {
+                    "id": "h7",
+                    "name": "Onake Obavva",
+                    "image": "img_obavva",
+                    "shortDesc": "Brave defender of Chitradurga Fort",
+                    "storyPages": [
+                        {
+                            "titleEn": "A Simple Woman",
+                            "titleKn": "ಒಬ್ಬ ಸಾಮಾನ್ಯ ಮಹಿಳೆ",
+                            "image": "img_obavva",
+                            "textEn": "Obavva was the wife of a guard at Chitradurga Fort. She lived a simple life within the fort walls. No one imagined her bravery would become legendary.",
+                            "textKn": "ಓಬವ್ವ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯ ಕಾವಲುಗಾರನ ಹೆಂಡತಿಯಾಗಿದ್ದಳು. ಅವಳು ಕೋಟೆಯೊಳಗೆ ಸರಳ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದಳು. ಅವಳ ಧೈರ್ಯ ಇಷ್ಟು ದೊಡ್ಡದಾಗುತ್ತದೆ ಎಂದು ಯಾರೂ ಊಹಿಸಿರಲಿಲ್ಲ."
+                        },
+                        {
+                            "titleEn": "Hyder Ali's Siege",
+                            "titleKn": "ಹೈದರ್ ಅಲಿಯ ಮುತ್ತಿಗೆ",
+                            "image": "img_obavva",
+                            "textEn": "Hyder Ali’s army surrounded Chitradurga Fort. They searched for secret entry points. One small hole in the rocks became their target.",
+                            "textKn": "ಹೈದರ್ ಅಲಿಯ ಸೈನ್ಯ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯನ್ನು ಸುತ್ತುವರಿಸಿತು. ಅವರು ರಹಸ್ಯ ಪ್ರವೇಶ ಮಾರ್ಗಗಳನ್ನು ಹುಡುಕಿದರು. ಬಂಡೆಯಲ್ಲಿನ ಒಂದು ಸಣ್ಣ ರಂಧ್ರವನ್ನು ಗುರಿಯಾಗಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Fetching Water",
+                            "titleKn": "ನೀರು ತರುವುದು",
+                            "image": "img_obavva",
+                            "textEn": "She went to fetch water for her husband near the fort entrance. While returning, she noticed enemy soldiers entering silently. This moment changed history.",
+                            "textKn": "ಅವಳು ತನ್ನ ಗಂಡನಿಗೆ ನೀರು ತರುವುದಕ್ಕೆ ಹೋಗಿದ್ದಳು. ಹಿಂತಿರುಗುವಾಗ ಶತ್ರು ಸೈನಿಕರು ಮೌನವಾಗಿ ಒಳಬರುತ್ತಿರುವುದನ್ನು ನೋಡಿದಳು. ಈ ಕ್ಷಣ ಇತಿಹಾಸವನ್ನು ಬದಲಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "The Pestle Weapon",
+                            "titleKn": "ಒನಕೆ ಆಯುಧ",
+                            "image": "img_obavva",
+                            "textEn": "She grabbed a pestle called Onake from her home. With courage, she struck the soldiers entering through the hole. She fought alone without fear.",
+                            "textKn": "ಅವಳು ಮನೆಯಿಂದ ಒನಕೆ ಎಂಬ ಆಯುಧವನ್ನು ತೆಗೆದುಕೊಂಡಳು. ಧೈರ್ಯದಿಂದ ರಂಧ್ರದ ಮೂಲಕ ಬರುತ್ತಿದ್ದ ಸೈನಿಕರನ್ನು ಹೊಡೆದಳು. ಅವಳು ಭಯವಿಲ್ಲದೆ ಒಬ್ಬಳೇ ಹೋರಾಡಿದಳು."
+                        },
+                        {
+                            "titleEn": "Silent Defender",
+                            "titleKn": "ಮೂಕ ರಕ್ಷಕಿ",
+                            "image": "img_obavva",
+                            "textEn": "She fought silently to avoid alerting the enemy forces. Many soldiers were defeated before they could enter fully. Her bravery protected the fort.",
+                            "textKn": "ಅವಳು ಶತ್ರುಗಳನ್ನು ಎಚ್ಚರಿಸದಂತೆ ಸದ್ದಿಲ್ಲದೆ ಹೋರಾಡಿದಳು. ಅನೇಕ ಸೈನಿಕರು ಒಳಬರುವ ಮೊದಲು ಸೋಲಿಸಲ್ಪಟ್ಟರು. ಅವಳ ಧೈರ್ಯ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Ultimate Sacrifice",
+                            "titleKn": "ಅಂತಿಮ ತ್ಯಾಗ",
+                            "image": "img_obavva",
+                            "textEn": "Obavva fought till her last breath defending Chitradurga Fort. She became a symbol of courage and sacrifice. Her story is still remembered today.",
+                            "textKn": "ಓಬವ್ವ ಕೊನೆಯ ಉಸಿರಿನವರೆಗೆ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಲು ಹೋರಾಡಿದಳು. ಅವಳು ಧೈರ್ಯ ಮತ್ತು ತ್ಯಾಗದ ಸಂಕೇತವಾದಳು. ಅವಳ ಕಥೆ ಇಂದಿಗೂ ಸ್ಮರಿಸಲ್ಪಡುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Daughter of Karnataka",
+                            "titleKn": "ಕರ್ನಾಟಕದ ಪುತ್ರಿ",
+                            "image": "img_obavva",
+                            "textEn": "She is honored as one of Karnataka’s greatest heroines. Her bravery represents the strength of ordinary women. She became an inspiration for generations.",
+                            "textKn": "ಅವಳು ಕರ್ನಾಟಕದ ಮಹಾನ್ ವೀರ ಮಹಿಳೆಯರಲ್ಲಿ ಒಬ್ಬಳಾಗಿ ಗೌರವಿಸಲ್ಪಟ್ಟಿದ್ದಾಳೆ. ಅವಳ ಧೈರ್ಯ ಸಾಮಾನ್ಯ ಮಹಿಳೆಯ ಶಕ್ತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಅವಳು ಪೀಳಿಗೆಗಳಿಗೆ ಪ್ರೇರಣೆಯಾದಳು."
+                        },
+                        {
+                            "titleEn": "Chitradurga Fort Hero",
+                            "titleKn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯ ವೀರ",
+                            "image": "img_obavva",
+                            "textEn": "Her actions saved the Chitradurga Fort from invasion. The fort remains a symbol of her bravery. Visitors still hear her legendary story.",
+                            "textKn": "ಅವಳ ಕಾರ್ಯಗಳು ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯನ್ನು ಆಕ್ರಮಣದಿಂದ ರಕ್ಷಿಸಿತು. ಆ ಕೋಟೆ ಅವಳ ಧೈರ್ಯದ ಸಂಕೇತವಾಗಿದೆ. ಭೇಟಿ ನೀಡುವವರು ಇಂದಿಗೂ ಅವಳ ಕಥೆಯನ್ನು ಕೇಳುತ್ತಾರೆ."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_obavva",
+                            "textEn": "Obavva is remembered as a fearless woman warrior of India. Her story inspires courage in difficult times. She remains a timeless legend.",
+                            "textKn": "ಓಬವ್ವರನ್ನು ಭಾರತದ ಭಯವಿಲ್ಲದ ಮಹಿಳಾ ಯೋಧಿಯಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವಳ ಕಥೆ ಕಠಿಣ ಸಮಯಗಳಲ್ಲಿ ಧೈರ್ಯ ನೀಡುತ್ತದೆ. ಅವಳು ಶಾಶ್ವತ ದಂತಕಥೆಯಾಗಿ ಉಳಿದಿದ್ದಾಳೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "She became a hero using just a kitchen tool turned into a powerful weapon!",
+                            "kn": "ಅವಳು ಮನೆಯಲ್ಲಿದ್ದ ಅಡುಗೆ ಉಪಕರಣವನ್ನೇ ಶಕ್ತಿಶಾಲಿ ಆಯುಧವಾಗಿ ಬಳಸಿ ವೀರಳಾದಳು!"
+                        },
+                        {
+                            "en": "She fought so fast and brave that enemies didn’t even understand what was happening!",
+                            "kn": "ಅವಳು ಅಷ್ಟು ವೇಗವಾಗಿ ಮತ್ತು ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದಳು, ಶತ್ರುಗಳು ಏನಾಗುತ್ತಿದೆ ಎಂಬುದನ್ನೇ ತಿಳಿಯಲಿಲ್ಲ!"
+                        },
+                        {
+                            "en": "Kids still remember her as a real-life superhero who protected her fort alone!",
+                            "kn": "ಇಂದಿಗೂ ಮಕ್ಕಳು ಅವಳನ್ನು ಕೋಟೆಯನ್ನು ಒಬ್ಬಳೇ ರಕ್ಷಿಸಿದ ನಿಜಜೀವನದ ಸೂಪರ್ ಹೀರೋ ಎಂದು ಸ್ಮರಿಸುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What weapon did Obavva use?",
+                            "optionsEn": [
+                                "Sword",
+                                "Gun",
+                                "Onake",
+                                "Bow"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "Whose forces was she fighting?",
+                            "optionsEn": [
+                                "British",
+                                "Hyder Ali",
+                                "Marathas",
+                                "Mughals"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which fort did she defend?",
+                            "optionsEn": [
+                                "Kittur",
+                                "Mysore",
+                                "Chitradurga",
+                                "Bellary"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:14.2185,76.3983?q=Onake+Obavva+Statue"
+
+                },
+                {
+                    "id": "h8",
+                    "name": "Madakari Nayaka",
+                    "image": "img_madakari",
+                    "shortDesc": "The Last Ruler of Chitradurga",
+                    "storyPages": [
+                        {
+                            "titleEn": "Nayaka Dynasty",
+                            "titleKn": "ನಾಯಕ ರಾಜವಂಶ",
+                            "image": "img_madakari",
+                            "textEn": "Madakari Nayaka V was the last ruler of Chitradurga Nayaka dynasty. He ruled the fort with strength and pride.",
+                            "textKn": "ಮದಕರಿ ನಾಯಕ V ಚಿತ್ರದುರ್ಗ ನಾಯಕ ರಾಜವಂಶದ ಕೊನೆಯ ಆಡಳಿತಗಾರ. ಅವನು ಕೋಟೆಯನ್ನು ಶಕ್ತಿ ಮತ್ತು ಹೆಮ್ಮೆಯಿಂದ ಆಳಿದನು."
+                        },
+                        {
+                            "titleEn": "Military Strategy",
+                            "titleKn": "ಮಿಲಿಟರಿ ತಂತ್ರ",
+                            "image": "img_madakari",
+                            "textEn": "He was known for strong military skills. He built powerful defense systems in the fort.",
+                            "textKn": "ಅವನು ಬಲವಾದ ಮಿಲಿಟರಿ ಕೌಶಲ್ಯಕ್ಕೆ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದನು. ಕೋಟೆಯಲ್ಲಿ ಬಲವಾದ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆ ನಿರ್ಮಿಸಿದನು."
+                        },
+                        {
+                            "titleEn": "Battles with Hyder Ali",
+                            "titleKn": "ಹೈದರ್ ಅಲಿಯೊಂದಿಗೆ ಯುದ್ಧಗಳು",
+                            "image": "img_madakari",
+                            "textEn": "He fought bravely against Hyder Ali. He tried to protect his kingdom from invasion.",
+                            "textKn": "ಅವನು ಹೈದರ್ ಅಲಿಯ ವಿರುದ್ಧ ಧೈರ್ಯವಾಗಿ ಹೋರಾಡಿದನು. ತನ್ನ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸಿದನು."
+                        },
+                        {
+                            "titleEn": "The Long Siege",
+                            "titleKn": "ಸುದೀರ್ಘ ಮುತ್ತಿಗೆ",
+                            "image": "img_madakari",
+                            "textEn": "Chitradurga fort resisted the siege for months. The soldiers defended it with courage.",
+                            "textKn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ತಿಂಗಳುಗಳ ಕಾಲ ಮುತ್ತಿಗೆಯನ್ನು ತಡೆದುಕೊಂಡಿತು. ಸೈನಿಕರು ಧೈರ್ಯದಿಂದ ರಕ್ಷಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Betrayal",
+                            "titleKn": "ದ್ರೋಹ",
+                            "image": "img_madakari",
+                            "textEn": "The fort was captured due to betrayal. One of his own people opened the gates.",
+                            "textKn": "ದ್ರೋಹದಿಂದ ಕೋಟೆ ವಶವಾಯಿತು. ತನ್ನದೇ ವ್ಯಕ್ತಿಯೊಬ್ಬನು ದ್ವಾರವನ್ನು ತೆರೆಯಿದನು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_madakari",
+                            "textEn": "He is remembered as a brave warrior. His courage still inspires people today.",
+                            "textKn": "ಅವನನ್ನು ಧೈರ್ಯಶಾಲಿ ಯೋಧನಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವನ ಧೈರ್ಯ ಇಂದಿಗೂ ಪ್ರೇರಣೆಯಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Fort Strength",
+                            "titleKn": "ಕೋಟೆಯ ಶಕ್ತಿ",
+                            "image": "img_madakari",
+                            "textEn": "Chitradurga fort was known for its strong walls. It was almost impossible to enter.",
+                            "textKn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ಬಲವಾದ ಗೋಡೆಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು. ಒಳಬರುವುದು ಬಹಳ ಕಷ್ಟವಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Brave Soldiers",
+                            "titleKn": "ಧೈರ್ಯಶಾಲಿ ಸೈನಿಕರು",
+                            "image": "img_madakari",
+                            "textEn": "His soldiers were loyal and brave. They protected the fort till the end.",
+                            "textKn": "ಅವನ ಸೈನಿಕರು ನಿಷ್ಠಾವಂತ ಮತ್ತು ಧೈರ್ಯಶಾಲಿಗಳು. ಅವರು ಕೊನೆಯವರೆಗೂ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "War Tactics",
+                            "titleKn": "ಯುದ್ಧ ತಂತ್ರಗಳು",
+                            "image": "img_madakari",
+                            "textEn": "He used smart war tactics to defend the kingdom. His planning was very effective.",
+                            "textKn": "ಅವನು ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಬುದ್ಧಿವಂತ ಯುದ್ಧ ತಂತ್ರಗಳನ್ನು ಬಳಸಿದನು. ಅವನ ಯೋಜನೆಗಳು ಬಹಳ ಪರಿಣಾಮಕಾರಿ."
+                        },
+                        {
+                            "titleEn": "Fall of Fort",
+                            "titleKn": "ಕೋಟೆಯ ಪತನ",
+                            "image": "img_madakari",
+                            "textEn": "Despite strong defense, the fort eventually fell. It marked the end of his rule.",
+                            "textKn": "ಬಲವಾದ ರಕ್ಷಣೆಯಿದ್ದರೂ ಕೊನೆಗೆ ಕೋಟೆ ಪತನವಾಯಿತು. ಇದು ಅವನ ಆಳ್ವಿಕೆಯ ಅಂತ್ಯವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Hero of Chitradurga",
+                            "titleKn": "ಚಿತ್ರದುರ್ಗದ ವೀರ",
+                            "image": "img_madakari",
+                            "textEn": "Madakari Nayaka is remembered as a true hero. His bravery is still celebrated.",
+                            "textKn": "ಮದಕರಿ ನಾಯಕನು ನಿಜವಾದ ವೀರನಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವನ ಧೈರ್ಯ ಇಂದಿಗೂ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "Chitradurga Fort was so strong that even enemy armies got tired trying to enter it!",
+                            "kn": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ ಅಷ್ಟು ಬಲವಾಗಿತ್ತು ಎಂದರೆ ಶತ್ರು ಸೇನೆಗಳು ಒಳಬರಲು ಪ್ರಯತ್ನಿಸಿ ಸುಸ್ತಾಗುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "The fort had hidden paths and secret corners that only brave soldiers knew!",
+                            "kn": "ಕೋಟೆಯಲ್ಲಿ ಧೈರ್ಯಶಾಲಿ ಸೈನಿಕರಿಗೆ ಮಾತ್ರ ತಿಳಿದಿರುವ ಗುಪ್ತ ಮಾರ್ಗಗಳು ಮತ್ತು ರಹಸ್ಯ ಸ್ಥಳಗಳಿದ್ದವು!"
+                        },
+                        {
+                            "en": "Stories of this fort are so exciting that kids today feel like it’s a real adventure castle!",
+                            "kn": "ಈ ಕೋಟೆಯ ಕಥೆಗಳು ಅಷ್ಟು ರೋಚಕವಾಗಿವೆ ಎಂದರೆ ಇಂದಿನ ಮಕ್ಕಳು ಅದನ್ನು ನಿಜವಾದ ಸಾಹಸ ಕೋಟೆಯಂತೆ ಭಾವಿಸುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which dynasty did he belong to?",
+                            "optionsEn": [
+                                "Wadiyar",
+                                "Nayaka",
+                                "Chola",
+                                "Chalukya"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Who besieged his fort?",
+                            "optionsEn": [
+                                "British",
+                                "Tipu Sultan",
+                                "Hyder Ali",
+                                "Marathas"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "Why did the fort eventually fall?",
+                            "optionsEn": [
+                                "Lack of weapons",
+                                "Betrayal",
+                                "Disease",
+                                "Earthquake"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:14.2185,76.3983?q=Madakari+Nayaka+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d5",
+            "name": "Belagavi",
+            "image": "img_belagavi",
+            "heroes": [
+                {
+                    "id": "h9",
+                    "name": "Kittur Chennamma",
+                    "image": "img_chennamma",
+                    "shortDesc": "Queen of Kittur",
+                    "storyPages": [
+                        {
+                            "titleEn": "Queen of Kittur",
+                            "titleKn": "ಕಿತ್ತೂರಿನ ರಾಣಿ",
+                            "image": "img_chennamma",
+                            "textEn": "Chennamma was the queen of Kittur. She ruled with courage and justice.",
+                            "textKn": "ಚೆನ್ನಮ್ಮ ಕಿತ್ತೂರಿನ ರಾಣಿಯಾಗಿದ್ದಳು. ಅವಳು ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯದಿಂದ ಆಳಿದಳು."
+                        },
+                        {
+                            "titleEn": "Doctrine of Lapse",
+                            "titleKn": "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ",
+                            "image": "img_chennamma",
+                            "textEn": "The British used the Doctrine of Lapse to take over Kittur. It was an unfair policy.",
+                            "textKn": "ಬ್ರಿಟಿಷರು ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ ಎಂಬ ನೀತಿಯನ್ನು ಬಳಸಿ ಕಿತ್ತೂರನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿದರು. ಇದು ಅನ್ಯಾಯದ ನೀತಿ ಆಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Defying the British",
+                            "titleKn": "ಬ್ರಿಟಿಷರನ್ನು ಧಿಕ್ಕರಿಸುವುದು",
+                            "image": "img_chennamma",
+                            "textEn": "She refused to give up her kingdom. She stood strong against the British.",
+                            "textKn": "ಅವಳು ತನ್ನ ರಾಜ್ಯವನ್ನು ಒಪ್ಪಿಸಲು ನಿರಾಕರಿಸಿದಳು. ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಧೈರ್ಯವಾಗಿ ನಿಂತಳು."
+                        },
+                        {
+                            "titleEn": "Armed Rebellion",
+                            "titleKn": "ಸಶಸ್ತ್ರ ದಂಗೆ",
+                            "image": "img_chennamma",
+                            "textEn": "In 1824, she led a rebellion against the British. Her army fought bravely.",
+                            "textKn": "1824 ರಲ್ಲಿ ಅವಳು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ದಂಗೆ ನಡೆಸಿದಳು. ಅವಳ ಸೈನ್ಯ ಧೈರ್ಯವಾಗಿ ಹೋರಾಡಿತು."
+                        },
+                        {
+                            "titleEn": "Initial Victory",
+                            "titleKn": "ಆರಂಭಿಕ ವಿಜಯ",
+                            "image": "img_chennamma",
+                            "textEn": "She defeated the British in the first battle. The Collector Thackeray was killed.",
+                            "textKn": "ಅವಳು ಮೊದಲ ಯುದ್ಧದಲ್ಲಿ ಬ್ರಿಟಿಷರನ್ನು ಸೋಲಿಸಿದಳು. ಕಲೆಕ್ಟರ್ ಠಾಕರೆ ಕೊಲ್ಲಲ್ಪಟ್ಟನು."
+                        },
+                        {
+                            "titleEn": "Imprisonment",
+                            "titleKn": "ಸೆರೆಮನೆ",
+                            "image": "img_chennamma",
+                            "textEn": "She was later captured by the British. She died in Bailhongal Fort.",
+                            "textKn": "ಕೊನೆಗೆ ಅವಳನ್ನು ಬ್ರಿಟಿಷರು ಸೆರೆಹಿಡಿದರು. ಅವಳು ಬೈಲಹೊಂಗಲ ಕೋಟೆಯಲ್ಲಿ ನಿಧನಳಾದಳು."
+                        },
+                        {
+                            "titleEn": "War Leadership",
+                            "titleKn": "ಯುದ್ಧ ನಾಯಕತ್ವ",
+                            "image": "img_chennamma",
+                            "textEn": "She personally led her soldiers in battle. Her leadership inspired her army.",
+                            "textKn": "ಅವಳು ಸ್ವತಃ ಸೈನಿಕರನ್ನು ಯುದ್ಧದಲ್ಲಿ ಮುನ್ನಡೆಸಿದಳು. ಅವಳ ನಾಯಕತ್ವ ಸೈನ್ಯಕ್ಕೆ ಪ್ರೇರಣೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Loyal Army",
+                            "titleKn": "ನಿಷ್ಠಾವಂತ ಸೈನ್ಯ",
+                            "image": "img_chennamma",
+                            "textEn": "Her soldiers were deeply loyal to her. They fought fearlessly for Kittur.",
+                            "textKn": "ಅವಳ ಸೈನಿಕರು ಅವಳಿಗೆ ನಿಷ್ಠರಾಗಿದ್ದರು. ಅವರು ಕಿತ್ತೂರಿಗಾಗಿ ಭಯವಿಲ್ಲದೆ ಹೋರಾಡಿದರು."
+                        },
+                        {
+                            "titleEn": "Symbol of Resistance",
+                            "titleKn": "ಪ್ರತಿರೋಧದ ಸಂಕೇತ",
+                            "image": "img_chennamma",
+                            "textEn": "She became a symbol of resistance against British rule. Her courage is legendary.",
+                            "textKn": "ಅವಳು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧದ ಪ್ರತಿರೋಧದ ಸಂಕೇತವಾದಳು. ಅವಳ ಧೈರ್ಯ ದಂತಕಥೆಯಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Inspiration",
+                            "titleKn": "ಪ್ರೇರಣೆ",
+                            "image": "img_chennamma",
+                            "textEn": "Her life inspires women and freedom fighters. She is remembered with pride.",
+                            "textKn": "ಅವಳ ಜೀವನ ಮಹಿಳೆಯರು ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಿಗೆ ಪ್ರೇರಣೆಯಾಗಿದೆ. ಅವಳನ್ನು ಹೆಮ್ಮೆಯಿಂದ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_chennamma",
+                            "textEn": "Rani Chennamma is remembered as a brave freedom fighter. Her legacy lives on.",
+                            "textKn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಧೈರ್ಯಶಾಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿಯಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾಳೆ. ಅವಳ ಪರಂಪರೆ ಇಂದಿಗೂ ಜೀವಂತವಾಗಿದೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "She became one of the first queens in India to boldly fight against the British!",
+                            "kn": "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಧೈರ್ಯವಾಗಿ ಹೋರಾಡಿದ ಭಾರತದ ಮೊದಲ ರಾಣಿಯರಲ್ಲಿ ಒಬ್ಬರು!"
+                        },
+                        {
+                            "en": "Her courage was so strong that even powerful British officers were surprised!",
+                            "kn": "ಅವರ ಧೈರ್ಯ ಅಷ್ಟು ಬಲವಾಗಿತ್ತು ಎಂದರೆ ಶಕ್ತಿಶಾಲಿ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳೂ ಆಶ್ಚರ್ಯಪಟ್ಟರು!"
+                        },
+                        {
+                            "en": "Kids today remember her as a fearless queen who never gave up her kingdom!",
+                            "kn": "ಇಂದಿಗೂ ಮಕ್ಕಳು ತಮ್ಮ ರಾಜ್ಯವನ್ನು ಎಂದಿಗೂ ಬಿಟ್ಟುಕೊಡದ ಭಯವಿಲ್ಲದ ರಾಣಿಯಾಗಿ ಅವಳನ್ನು ಸ್ಮರಿಸುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which British policy did Chennamma fight against?",
+                            "optionsEn": [
+                                "Salt Tax",
+                                "Doctrine of Lapse",
+                                "Rowlatt Act",
+                                "Permanent Settlement"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "In which year did the rebellion take place?",
+                            "optionsEn": [
+                                "1857",
+                                "1824",
+                                "1947",
+                                "1905"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which British officer was killed in the first battle?",
+                            "optionsEn": [
+                                "Clive",
+                                "Hastings",
+                                "Thackeray",
+                                "Dalhousie"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:15.5562,74.7836?q=Kittur+Chennamma+Statue"
+
+                },
+                {
+                    "id": "h10",
+                    "name": "Sangolli Rayanna",
+                    "image": "img_rayanna",
+                    "shortDesc": "Brave General of Kittur",
+                    "storyPages": [
+                        {
+                            "titleEn": "Loyal Soldier",
+                            "titleKn": "ನಿಷ್ಠಾವಂತ ಸೈನಿಕ",
+                            "image": "img_rayanna",
+                            "textEn": "Rayanna was the army chief of Kittur under Rani Chennamma. He was known for his loyalty and courage.",
+                            "textKn": "ರಾಯಣ್ಣ ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಅಡಿಯಲ್ಲಿ ಕಿತ್ತೂರು ಸೇನಾ ಮುಖ್ಯಸ್ಥನಾಗಿದ್ದನು. ಅವನು ನಿಷ್ಠೆ ಮತ್ತು ಧೈರ್ಯಕ್ಕೆ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದನು."
+                        },
+                        {
+                            "titleEn": "Guerrilla Warfare",
+                            "titleKn": "ಗೆರಿಲ್ಲಾ ಯುದ್ಧ",
+                            "image": "img_rayanna",
+                            "textEn": "After Chennamma’s capture, he continued fighting the British. He used guerrilla warfare tactics.",
+                            "textKn": "ಚೆನ್ನಮ್ಮನ ಸೆರೆಮನೆಯ ನಂತರವೂ ಅವನು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದನು. ಅವನು ಗೆರಿಲ್ಲಾ ಯುದ್ಧ ತಂತ್ರಗಳನ್ನು ಬಳಸಿದನು."
+                        },
+                        {
+                            "titleEn": "Attacking British Outposts",
+                            "titleKn": "ಬ್ರಿಟಿಷ್ ಹೊರಠಾಣೆಗಳ ಮೇಲೆ ದಾಳಿ",
+                            "image": "img_rayanna",
+                            "textEn": "He attacked British offices and treasury buildings. He destroyed their records.",
+                            "textKn": "ಅವನು ಬ್ರಿಟಿಷ್ ಕಚೇರಿಗಳು ಮತ್ತು ಖಜಾನೆಗಳ ಮೇಲೆ ದಾಳಿ ಮಾಡಿದನು. ಅವರ ದಾಖಲೆಗಳನ್ನು ನಾಶಪಡಿಸಿದನು."
+                        },
+                        {
+                            "titleEn": "Support of the People",
+                            "titleKn": "ಜನರ ಬೆಂಬಲ",
+                            "image": "img_rayanna",
+                            "textEn": "He gained strong support from local villagers. Many people joined his fight.",
+                            "textKn": "ಅವನಿಗೆ ಸ್ಥಳೀಯ ಗ್ರಾಮಸ್ಥರ ಬಲವಾದ ಬೆಂಬಲ ಸಿಕ್ಕಿತು. ಅನೇಕರು ಅವನ ಹೋರಾಟಕ್ಕೆ ಸೇರಿದರು."
+                        },
+                        {
+                            "titleEn": "Betrayal and Capture",
+                            "titleKn": "ದ್ರೋಹ ಮತ್ತು ಸೆರೆಮನೆ",
+                            "image": "img_rayanna",
+                            "textEn": "He was captured due to betrayal by local landlords. The British arrested him.",
+                            "textKn": "ಸ್ಥಳೀಯ ಜಮೀನುದಾರರ ದ್ರೋಹದಿಂದ ಅವನನ್ನು ಸೆರೆಹಿಡಿದರು. ಬ್ರಿಟಿಷರು ಅವನನ್ನು ಬಂಧಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Martyrdom",
+                            "titleKn": "ಹುತಾತ್ಮ",
+                            "image": "img_rayanna",
+                            "textEn": "He was hanged at Nandagad in 1831. He became a martyr for freedom.",
+                            "textKn": "1831 ರಲ್ಲಿ ನಂದಗಡದಲ್ಲಿ ಅವನಿಗೆ ನೇಣು ಹಾಕಲಾಯಿತು. ಅವನು ಸ್ವಾತಂತ್ರ್ಯದ ಹುತಾತ್ಮನಾದನು."
+                        },
+                        {
+                            "titleEn": "Fearless Fighter",
+                            "titleKn": "ಭಯವಿಲ್ಲದ ಯೋಧ",
+                            "image": "img_rayanna",
+                            "textEn": "He never feared the British forces. His bravery inspired many soldiers.",
+                            "textKn": "ಅವನು ಬ್ರಿಟಿಷ್ ಸೈನ್ಯವನ್ನು ಎಂದಿಗೂ ಭಯಪಡಲಿಲ್ಲ. ಅವನ ಧೈರ್ಯ ಅನೇಕ ಸೈನಿಕರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Forest Warrior",
+                            "titleKn": "ಕಾಡಿನ ಯೋಧ",
+                            "image": "img_rayanna",
+                            "textEn": "He used forests as shelter during battles. He planned attacks from hidden places.",
+                            "textKn": "ಅವನು ಯುದ್ಧದ ವೇಳೆ ಕಾಡುಗಳನ್ನು ಆಶ್ರಯವಾಗಿ ಬಳಸಿದನು. ಅವನು ಗುಪ್ತ ಸ್ಥಳಗಳಿಂದ ದಾಳಿಗಳನ್ನು ಯೋಜಿಸಿದನು."
+                        },
+                        {
+                            "titleEn": "People’s Hero",
+                            "titleKn": "ಜನರ ವೀರ",
+                            "image": "img_rayanna",
+                            "textEn": "People respected him as a true hero. He fought for their freedom.",
+                            "textKn": "ಜನರು ಅವನನ್ನು ನಿಜವಾದ ವೀರನಾಗಿ ಗೌರವಿಸಿದರು. ಅವನು ಅವರ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡಿದನು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_rayanna",
+                            "textEn": "Sangolli Rayanna is remembered as a brave freedom fighter. His story still inspires Karnataka.",
+                            "textKn": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ ಧೈರ್ಯಶಾಲಿ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರನಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾನೆ. ಅವನ ಕಥೆ ಇಂದಿಗೂ ಪ್ರೇರಣೆಯಾಗಿದೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "He became a forest hero, hiding in trees and planning surprise attacks like a real adventure movie!",
+                            "kn": "ಅವರು ಕಾಡಿನಲ್ಲಿ ಮರಗಳಲ್ಲಿ ಅಡಗಿಕೊಂಡು ನಿಜವಾದ ಸಾಹಸ ಚಿತ್ರದಂತೆ ಅಚ್ಚರಿಯ ದಾಳಿಗಳನ್ನು ಯೋಜಿಸುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "Even after losing battles, he never gave up and kept fighting for freedom!",
+                            "kn": "ಯುದ್ಧಗಳಲ್ಲಿ ಸೋತರೂ ಕೂಡ ಅವರು ಎಂದಿಗೂ ಕೈಬಿಡದೆ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಡುತ್ತಲೇ ಇದ್ದರು!"
+                        },
+                        {
+                            "en": "People still tell stories of him like a brave superhero who protected his land!",
+                            "kn": "ಇಂದಿಗೂ ಜನರು ಅವನನ್ನು ತನ್ನ ಭೂಮಿಯನ್ನು ರಕ್ಷಿಸಿದ ಧೈರ್ಯಶಾಲಿ ಸೂಪರ್ ಹೀರೋ ಎಂದು ಕಥೆಗಳಾಗಿ ಹೇಳುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What position did Rayanna hold in Kittur?",
+                            "optionsEn": [
+                                "King",
+                                "Army Chief",
+                                "Minister",
+                                "Spiritual Guru"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What type of warfare did he use?",
+                            "optionsEn": [
+                                "Naval",
+                                "Trench",
+                                "Guerrilla",
+                                "Aerial"
+                            ],
+                            "correctAnswerIndex": 2
+                        },
+                        {
+                            "questionEn": "Where was he martyred?",
+                            "optionsEn": [
+                                "Kittur",
+                                "Mysore",
+                                "Nandagad",
+                                "Hubli"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:15.5562,74.7836?q=Sangolli+Rayanna+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d6",
+            "name": "Udupi",
+            "image": "img_udupi",
+            "heroes": [
+                {
+                    "id": "h13",
+                    "name": "Madhvacharya",
+                    "image": "img_madhva",
+                    "shortDesc": "Founder of Dvaita Philosophy",
+                    "storyPages": [
+                        {
+                            "titleEn": "Birth in Udupi",
+                            "titleKn": "ಉಡುಪಿಯಲ್ಲಿ ಜನನ",
+                            "image": "img_madhva",
+                            "textEn": "Madhvacharya was born in Pajaka near Udupi. From childhood, he showed extraordinary intelligence and curiosity. He had a deep interest in understanding spiritual truths. His early life showed signs of a great philosopher.",
+                            "textKn": "ಮಧ್ವಾಚಾರ್ಯರು ಉಡುಪಿಯ ಪಾಜಕದಲ್ಲಿ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರು ಅತ್ಯಂತ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಕುತೂಹಲವನ್ನು ತೋರಿಸಿದರು. ಅವರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯಗಳನ್ನು ತಿಳಿಯುವ ಆಸಕ್ತಿ ಇತ್ತು. ಅವರ ಬಾಲ್ಯವೇ ಮಹಾನ್ ತತ್ವಜ್ಞಾನಿಯ ಲಕ್ಷಣಗಳನ್ನು ತೋರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Early Interest",
+                            "titleKn": "ಆರಂಭಿಕ ಆಸಕ್ತಿ",
+                            "image": "img_madhva",
+                            "textEn": "He developed a strong interest in spirituality and sacred texts. He spent hours studying scriptures and learning meanings. His knowledge grew rapidly even at a young age. People were amazed by his understanding.",
+                            "textKn": "ಅವರು ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಪವಿತ್ರ ಗ್ರಂಥಗಳಲ್ಲಿ ಆಳವಾದ ಆಸಕ್ತಿ ತೋರಿಸಿದರು. ಅವರು ಶಾಸ್ತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವಲ್ಲಿ ಅನೇಕ ಗಂಟೆಗಳನ್ನು ಕಳೆಯುತ್ತಿದ್ದರು. ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲೇ ಅವರ ಜ್ಞಾನ ವೇಗವಾಗಿ ಬೆಳೆಯಿತು. ಜನರು ಅವರ ಅರಿವನ್ನು ನೋಡಿ ಆಶ್ಚರ್ಯಪಟ್ಟರು."
+                        },
+                        {
+                            "titleEn": "Becoming Monk",
+                            "titleKn": "ಸನ್ಯಾಸಿ ಜೀವನ",
+                            "image": "img_madhva",
+                            "textEn": "He chose the path of renunciation at a young age. He left worldly life and focused on spiritual growth. He dedicated himself completely to knowledge and truth. His discipline impressed everyone.",
+                            "textKn": "ಅವರು ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲೇ ಸನ್ಯಾಸ ಮಾರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದರು. ಅವರು ಲೌಕಿಕ ಜೀವನವನ್ನು ತ್ಯಜಿಸಿ ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ತೊಡಗಿದರು. ಅವರು ತಮ್ಮ ಜೀವನವನ್ನು ಜ್ಞಾನ ಮತ್ತು ಸತ್ಯಕ್ಕೆ ಸಮರ್ಪಿಸಿದರು. ಅವರ ಶಿಸ್ತು ಎಲ್ಲರನ್ನೂ ಪ್ರಭಾವಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Dvaita Philosophy",
+                            "titleKn": "ದ್ವೈತ ತತ್ವ",
+                            "image": "img_madhva",
+                            "textEn": "He established the Dvaita philosophy. According to him, God and soul are completely different. This teaching changed Indian philosophical thought. Many scholars followed his ideas.",
+                            "textKn": "ಅವರು ದ್ವೈತ ತತ್ವವನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಅವರ ಪ್ರಕಾರ ದೇವರು ಮತ್ತು ಆತ್ಮ ಸಂಪೂರ್ಣವಾಗಿ ವಿಭಿನ್ನ. ಈ ತತ್ವವು ಭಾರತೀಯ ತತ್ವಶಾಸ್ತ್ರವನ್ನು ಬದಲಾಯಿಸಿತು. ಅನೇಕ ಪಂಡಿತರು ಅವರ ಆಲೋಚನೆಗಳನ್ನು ಅನುಸರಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Udupi Krishna Temple",
+                            "titleKn": "ಉಡುಪಿ ಕೃಷ್ಣ ದೇವಾಲಯ",
+                            "image": "img_madhva",
+                            "textEn": "He installed Lord Krishna idol in Udupi. The temple became a major spiritual center. Devotees from all over India visit it. It remains an important pilgrimage site.",
+                            "textKn": "ಅವರು ಉಡುಪಿಯಲ್ಲಿ ಕೃಷ್ಣ ಮೂರ್ತಿಯನ್ನು ಪ್ರತಿಷ್ಠಾಪಿಸಿದರು. ದೇವಾಲಯವು ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ಕೇಂದ್ರವಾಯಿತು. ಭಾರತದೆಲ್ಲೆಡೆ ಭಕ್ತರು ಇಲ್ಲಿ ಭೇಟಿ ನೀಡುತ್ತಾರೆ. ಇದು ಇಂದಿಗೂ ಪ್ರಮುಖ ತೀರ್ಥಕ್ಷೇತ್ರವಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Eight Mathas",
+                            "titleKn": "ಎಂಟು ಮಠಗಳು",
+                            "image": "img_madhva",
+                            "textEn": "He established eight mathas to preserve traditions. These mathas manage temple rituals and teachings. They continue his legacy even today. His system is still followed.",
+                            "textKn": "ಅವರು ಸಂಪ್ರದಾಯಗಳನ್ನು ಉಳಿಸಲು ಎಂಟು ಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು. ಈ ಮಠಗಳು ದೇವಾಲಯದ ವಿಧಿ ವಿಧಾನಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತವೆ. ಅವು ಇಂದಿಗೂ ಅವರ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತಿವೆ. ಅವರ ವ್ಯವಸ್ಥೆ ಇನ್ನೂ ಪಾಲಿಸಲಾಗುತ್ತಿದೆ."
+                        },
+                        {
+                            "titleEn": "Teachings",
+                            "titleKn": "ಉಪದೇಶಗಳು",
+                            "image": "img_madhva",
+                            "textEn": "He taught devotion, discipline, and truthfulness. His teachings focused on spiritual growth. People were inspired to live a righteous life. His philosophy remains influential.",
+                            "textKn": "ಅವರು ಭಕ್ತಿ, ಶಿಸ್ತು ಮತ್ತು ಸತ್ಯವನ್ನು ಬೋಧಿಸಿದರು. ಅವರ ಉಪದೇಶಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಗೆ ಕೇಂದ್ರೀಕರಿಸಿದ್ದವು. ಜನರು ಧಾರ್ಮಿಕ ಜೀವನವನ್ನು ನಡೆಸಲು ಪ್ರೇರಿತರಾದರು. ಅವರ ತತ್ವಶಾಸ್ತ್ರ ಇನ್ನೂ ಪ್ರಭಾವಶಾಲಿಯಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Pilgrimage",
+                            "titleKn": "ತೀರ್ಥಯಾತ್ರೆ",
+                            "image": "img_madhva",
+                            "textEn": "He traveled across India spreading spiritual knowledge. He met many scholars and saints during his journey. His ideas spread widely through discussions. Many became his followers.",
+                            "textKn": "ಅವರು ಭಾರತದೆಲ್ಲೆಡೆ ಸಂಚರಿಸಿ ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನವನ್ನು ಹರಡಿದರು. ಅವರು ಅನೇಕ ಪಂಡಿತರು ಮತ್ತು ಸಂತರನ್ನು ಭೇಟಿಯಾದರು. ಚರ್ಚೆಗಳ ಮೂಲಕ ಅವರ ತತ್ವಗಳು ಹರಡಿದವು. ಅನೇಕರು ಅವರ ಶಿಷ್ಯರಾದರು."
+                        },
+                        {
+                            "titleEn": "Spiritual Leader",
+                            "titleKn": "ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ",
+                            "image": "img_madhva",
+                            "textEn": "He became one of the greatest spiritual leaders of India. People respected his wisdom and teachings. His influence grew across regions. He guided many seekers.",
+                            "textKn": "ಅವರು ಭಾರತದ ಮಹಾನ್ ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕರಲ್ಲಿ ಒಬ್ಬರಾದರು. ಜನರು ಅವರ ಜ್ಞಾನ ಮತ್ತು ಉಪದೇಶಗಳನ್ನು ಗೌರವಿಸಿದರು. ಅವರ ಪ್ರಭಾವ ಎಲ್ಲೆಡೆ ಹರಡಿತು. ಅವರು ಅನೇಕ ಹುಡುಕುವವರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಿದರು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_madhva",
+                            "textEn": "Madhvacharya is remembered as a great philosopher of India. His teachings still guide millions of devotees. His influence remains strong even today. He is a timeless spiritual figure.",
+                            "textKn": "ಮಧ್ವಾಚಾರ್ಯರು ಭಾರತದ ಮಹಾನ್ ತತ್ವಜ್ಞಾನಿಯಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ಉಪದೇಶಗಳು ಇಂದಿಗೂ ಲಕ್ಷಾಂತರ ಭಕ್ತರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ. ಅವರ ಪ್ರಭಾವ ಇಂದಿಗೂ ಬಲವಾಗಿಯೇ ಇದೆ. ಅವರು ಶಾಶ್ವತ ಆಧ್ಯಾತ್ಮಿಕ ವ್ಯಕ್ತಿಯಾಗಿದ್ದಾರೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "As a child, he was so smart that people say he could understand big spiritual ideas easily!",
+                            "kn": "ಚಿಕ್ಕವಯಸ್ಸಲ್ಲೇ ಅವರು ಅಷ್ಟು ಬುದ್ಧಿವಂತರಾಗಿದ್ದರು ಎಂದರೆ ದೊಡ್ಡ ಆಧ್ಯಾತ್ಮಿಕ ವಿಚಾರಗಳನ್ನು ಸುಲಭವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "He believed every soul is unique, just like every star in the sky shines differently!",
+                            "kn": "ಪ್ರತಿ ಆತ್ಮವೂ ವಿಶಿಷ್ಟ ಎಂದು ಅವರು ನಂಬಿದರು — ಆಕಾಶದ ಪ್ರತಿಯೊಂದು ನಕ್ಷತ್ರವೂ ವಿಭಿನ್ನವಾಗಿ ಹೊಳೆಯುವಂತೆ!"
+                        },
+                        {
+                            "en": "Even today, thousands of people visit Udupi just to feel the peace of his teachings!",
+                            "kn": "ಇಂದಿಗೂ ಸಾವಿರಾರು ಜನರು ಅವರ ಉಪದೇಶಗಳ ಶಾಂತಿಯನ್ನು ಅನುಭವಿಸಲು ಉಡುಪಿಗೆ ಭೇಟಿ ನೀಡುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Where was Madhvacharya born?",
+                            "optionsEn": [
+                                "Mysuru",
+                                "Pajaka near Udupi",
+                                "Bengaluru",
+                                "Mangaluru"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which philosophy did he found?",
+                            "optionsEn": [
+                                "Advaita",
+                                "Dvaita",
+                                "Yoga",
+                                "Sankhya"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which deity temple did he establish in Udupi?",
+                            "optionsEn": [
+                                "Shiva",
+                                "Vishnu",
+                                "Krishna",
+                                "Durga"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:13.3409,74.7421?q=Madhvacharya+Udupi+Pajaka"
+
+                },
+                {
+                    "id": "hkotichennai",
+                    "name": "Kotichennai",
+                    "image": "img_chennaya",
+                    "shortDesc": "Legendary Local Leader and Cultural Figure",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Life",
+                            "titleKn": "ಆರಂಭಿಕ ಜೀವನ",
+                            "image": "img_chennaya",
+                            "textEn": "Kotichennai was born in a small village with strong cultural traditions. From childhood, he showed leadership qualities. He was known for helping people in his community. His early life was shaped by simplicity and values.",
+                            "textKn": "ಕೊಟಿಚೆನ್ನೈ ಅವರು ಸಾಂಸ್ಕೃತಿಕ ಸಂಪ್ರದಾಯಗಳಿರುವ ಸಣ್ಣ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರು ನಾಯಕತ್ವ ಗುಣಗಳನ್ನು ತೋರಿಸಿದರು. ಅವರು ತಮ್ಮ ಸಮುದಾಯದ ಜನರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದರು. ಅವರ ಜೀವನ ಸರಳತೆ ಮತ್ತು ಮೌಲ್ಯಗಳಿಂದ ರೂಪುಗೊಂಡಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Community Work",
+                            "titleKn": "ಸಮುದಾಯ ಸೇವೆ",
+                            "image": "img_chennaya",
+                            "textEn": "He actively worked for the development of his village. He helped in building basic facilities like water and roads. People respected him for his dedication. His work improved daily life in the region.",
+                            "textKn": "ಅವರು ತಮ್ಮ ಗ್ರಾಮ ಅಭಿವೃದ್ಧಿಗೆ ಸಕ್ರಿಯವಾಗಿ ಕೆಲಸ ಮಾಡಿದರು. ನೀರು ಮತ್ತು ರಸ್ತೆಗಳಂತಹ ಮೂಲ ಸೌಲಭ್ಯಗಳನ್ನು ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡಿದರು. ಜನರು ಅವರ ಸಮರ್ಪಣೆಯನ್ನು ಗೌರವಿಸುತ್ತಿದ್ದರು. ಅವರ ಕೆಲಸ ಪ್ರದೇಶದ ಜೀವನವನ್ನು ಸುಧಾರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Leadership Role",
+                            "titleKn": "ನಾಯಕತ್ವ ಪಾತ್ರ",
+                            "image": "img_chennaya",
+                            "textEn": "Kotichennai became a respected local leader. He solved disputes among people peacefully. His decisions were fair and balanced. He was trusted by everyone in the village.",
+                            "textKn": "ಕೊಟಿಚೆನ್ನೈ ಅವರು ಗೌರವಾನ್ವಿತ ಸ್ಥಳೀಯ ನಾಯಕನಾದರು. ಅವರು ಜನರ ನಡುವಿನ ವಿವಾದಗಳನ್ನು ಶಾಂತಿಯುತವಾಗಿ ಪರಿಹರಿಸುತ್ತಿದ್ದರು. ಅವರ ತೀರ್ಮಾನಗಳು ನ್ಯಾಯಸಮ್ಮತವಾಗಿದ್ದವು. ಗ್ರಾಮದಲ್ಲಿ ಎಲ್ಲರೂ ಅವರನ್ನು ನಂಬುತ್ತಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Education Support",
+                            "titleKn": "ಶಿಕ್ಷಣ ಸಹಾಯ",
+                            "image": "img_chennaya",
+                            "textEn": "He encouraged children to study and learn. He supported the building of a small school. Many students got motivation because of him. Education became a priority in the village.",
+                            "textKn": "ಅವರು ಮಕ್ಕಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಲು ಪ್ರೋತ್ಸಾಹಿಸಿದರು. ಅವರು ಸಣ್ಣ ಶಾಲೆ ನಿರ್ಮಾಣಕ್ಕೆ ಸಹಾಯ ಮಾಡಿದರು. ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವರಿಂದ ಪ್ರೇರಣೆ ದೊರಕಿತು. ಗ್ರಾಮದಲ್ಲಿ ಶಿಕ್ಷಣಕ್ಕೆ ಮಹತ್ವ ನೀಡಲಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Social Unity",
+                            "titleKn": "ಸಾಮಾಜಿಕ ಏಕತೆ",
+                            "image": "img_chennaya",
+                            "textEn": "He worked to bring unity among different groups. He believed in equality and harmony. His efforts reduced conflicts in society. People started living peacefully together.",
+                            "textKn": "ಅವರು ವಿಭಿನ್ನ ಗುಂಪುಗಳ ನಡುವೆ ಏಕತೆಯನ್ನು ತರಲು ಕೆಲಸ ಮಾಡಿದರು. ಅವರು ಸಮಾನತೆ ಮತ್ತು ಸೌಹಾರ್ದತೆಯನ್ನು ನಂಬಿದರು. ಅವರ ಪ್ರಯತ್ನಗಳು ಸಮಾಜದ ಸಂಘರ್ಷಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಿತು. ಜನರು ಶಾಂತಿಯುತವಾಗಿ ಬದುಕಲು ಆರಂಭಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Public Welfare",
+                            "titleKn": "ಜನ ಕಲ್ಯಾಣ",
+                            "image": "img_chennaya",
+                            "textEn": "Kotichennai introduced several welfare activities. He organized health and awareness camps. His focus was always on helping the poor. His actions improved living standards.",
+                            "textKn": "ಕೊಟಿಚೆನ್ನೈ ಅವರು ಹಲವಾರು ಕಲ್ಯಾಣ ಚಟುವಟಿಕೆಗಳನ್ನು ಆರಂಭಿಸಿದರು. ಅವರು ಆರೋಗ್ಯ ಮತ್ತು ಜಾಗೃತಿ ಶಿಬಿರಗಳನ್ನು ಆಯೋಜಿಸಿದರು. ಅವರ ಗಮನ ಸದಾ ಬಡವರ ಸಹಾಯದ ಮೇಲೆ ಇತ್ತು. ಅವರ ಕಾರ್ಯಗಳು ಜೀವನಮಟ್ಟವನ್ನು ಸುಧಾರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Cultural Support",
+                            "titleKn": "ಸಾಂಸ್ಕೃತಿಕ ಬೆಂಬಲ",
+                            "image": "img_chennaya",
+                            "textEn": "He supported local festivals and traditions. He encouraged young people to respect culture. He helped preserve old customs. His efforts kept traditions alive.",
+                            "textKn": "ಅವರು ಸ್ಥಳೀಯ ಹಬ್ಬಗಳು ಮತ್ತು ಸಂಪ್ರದಾಯಗಳನ್ನು ಬೆಂಬಲಿಸಿದರು. ಯುವಕರನ್ನು ಸಂಸ್ಕೃತಿಯನ್ನು ಗೌರವಿಸಲು ಪ್ರೋತ್ಸಾಹಿಸಿದರು. ಹಳೆಯ ಸಂಪ್ರದಾಯಗಳನ್ನು ಉಳಿಸಲು ಸಹಾಯ ಮಾಡಿದರು. ಅವರ ಪ್ರಯತ್ನಗಳು ಪರಂಪರೆಯನ್ನು ಜೀವಂತವಾಗಿಟ್ಟವು."
+                        },
+                        {
+                            "titleEn": "Problem Solver",
+                            "titleKn": "ಸಮಸ್ಯೆ ಪರಿಹಾರಕ",
+                            "image": "img_chennaya",
+                            "textEn": "He was known for solving village problems quickly. People approached him for guidance. He listened carefully before making decisions. His solutions were practical and effective.",
+                            "textKn": "ಅವರು ಗ್ರಾಮ ಸಮಸ್ಯೆಗಳನ್ನು ವೇಗವಾಗಿ ಪರಿಹರಿಸುವವರಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಜನರು ಮಾರ್ಗದರ್ಶನಕ್ಕಾಗಿ ಅವರನ್ನು ಸಂಪರ್ಕಿಸುತ್ತಿದ್ದರು. ಅವರು ತೀರ್ಮಾನ ಕೈಗೊಳ್ಳುವ ಮೊದಲು ಗಮನದಿಂದ ಕೇಳುತ್ತಿದ್ದರು. ಅವರ ಪರಿಹಾರಗಳು ಪ್ರಾಯೋಗಿಕವಾಗಿದ್ದವು."
+                        },
+                        {
+                            "titleEn": "Respect in Society",
+                            "titleKn": "ಸಮಾಜದಲ್ಲಿ ಗೌರವ",
+                            "image": "img_chennaya",
+                            "textEn": "He earned great respect from people of all ages. His kindness made him popular. He always helped without expecting anything in return. His personality inspired many.",
+                            "textKn": "ಅವರು ಎಲ್ಲಾ ವಯಸ್ಸಿನ ಜನರಿಂದ ಗೌರವ ಪಡೆದರು. ಅವರ ದಯಾಳುತನ ಅವರನ್ನು ಜನಪ್ರಿಯರನ್ನಾಗಿಸಿತು. ಅವರು ಪ್ರತಿಫಲ ನಿರೀಕ್ಷಿಸದೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದರು. ಅವರ ವ್ಯಕ್ತಿತ್ವ ಅನೇಕರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_chennaya",
+                            "textEn": "Kotichennai is remembered as a great social figure. His contributions still influence the village. People continue to follow his values. His legacy remains strong.",
+                            "textKn": "ಕೊಟಿಚೆನ್ನೈ ಅವರನ್ನು ಮಹಾನ್ ಸಾಮಾಜಿಕ ವ್ಯಕ್ತಿಯಾಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಕೊಡುಗೆಗಳು ಇಂದಿಗೂ ಗ್ರಾಮವನ್ನು ಪ್ರಭಾವಿಸುತ್ತಿವೆ. ಜನರು ಅವರ ಮೌಲ್ಯಗಳನ್ನು ಅನುಸರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರ ಪರಂಪರೆ ಬಲವಾಗಿಯೇ ಉಳಿದಿದೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He was like a village problem superhero who fixed issues before they became big!",
+                            "kn": "ಅವರು ದೊಡ್ಡ ಸಮಸ್ಯೆಯಾಗುವ ಮೊದಲುವೇ ಅದನ್ನು ಸರಿಪಡಿಸುವ ಗ್ರಾಮ ಸೂಪರ್ ಹೀರೋ ಆಗಿದ್ದರು!"
+                        },
+                        {
+                            "en": "People say he could listen so well that even small worries of villagers felt important to him!",
+                            "kn": "ಅವರು ಅಷ್ಟು ಚೆನ್ನಾಗಿ ಕೇಳುತ್ತಿದ್ದರು ಎಂದರೆ ಗ್ರಾಮಸ್ಥರ ಸಣ್ಣ ಚಿಂತೆಗಳೂ ಅವರಿಗೆ ಬಹಳ ಮುಖ್ಯವಾಗುತ್ತಿತ್ತು!"
+                        },
+                        {
+                            "en": "Kids in his village grew up inspired by him to help others like a team of little heroes!",
+                            "kn": "ಅವರ ಗ್ರಾಮದಲ್ಲಿನ ಮಕ್ಕಳು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಸಣ್ಣ ಹೀರೋಗಳಂತೆ ಬೆಳೆಯಲು ಪ್ರೇರಿತರಾದರು!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What was Kotichennai known for?",
+                            "optionsEn": [
+                                "Farming only",
+                                "Social leadership and village development",
+                                "Business trade",
+                                "Sports achievements"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What did he support in the village?",
+                            "optionsEn": [
+                                "Schools and education",
+                                "Only festivals",
+                                "Tourism",
+                                "Factories"
+                            ],
+                            "correctAnswerIndex": 0
+                        },
+                        {
+                            "questionEn": "How did people view Kotichennai?",
+                            "optionsEn": [
+                                "As a warrior",
+                                "As a respected community leader",
+                                "As a king",
+                                "As a businessman"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:12.9716,77.5946?q=Kotichennai+Statue"
+
+                }
+            ]
+        },
+        {
+            "id": "d7",
+            "name": "Shivamogga",
+            "image": "img_shivamogga",
+            "heroes": [
+                {
+                    "id": "hkuvempu",
+                    "name": "Kuvempu",
+                    "image": "img_kuvempu",
+                    "shortDesc": "Great Kannada Poet and Writer",
+                    "storyPages": [
+                        {
+                            "titleEn": "Kuppali Venkatappa Puttappa",
+                            "titleKn": "ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ",
+                            "image": "img_kuvempu",
+                            "textEn": "Kuvempu, born as Kuppali Venkatappa Puttappa, was a great Kannada poet and writer. He is known for his powerful literary works that inspired generations. His writings reflect deep human values and emotions. He played a major role in modern Kannada literature.",
+                            "textKn": "ಕುವೆಂಪು ಅವರು ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ ಎಂದು ಜನಿಸಿದರು. ಅವರು ಶ್ರೇಷ್ಠ ಕನ್ನಡ ಕವಿ ಮತ್ತು ಬರಹಗಾರರಾಗಿದ್ದರು. ಅವರ ಕೃತಿಗಳು ಅನೇಕ ಪೀಳಿಗೆಗಳಿಗೆ ಪ್ರೇರಣೆಯಾಗಿವೆ. ಅವರ ಬರವಣಿಗೆ ಮಾನವೀಯ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Malnad Roots",
+                            "titleKn": "ಮಲೆನಾಡು ಬೇರುಗಳು",
+                            "image": "img_kuvempu",
+                            "textEn": "He was born in the beautiful Malnad region of Shivamogga. The forests, hills, and nature deeply influenced his imagination. His childhood in nature shaped his poetic vision. Many of his works reflect the beauty of rural life.",
+                            "textKn": "ಅವರು ಶಿವಮೊಗ್ಗದ ಸುಂದರ ಮಲೆನಾಡು ಪ್ರದೇಶದಲ್ಲಿ ಜನಿಸಿದರು. ಕಾಡು, ಬೆಟ್ಟಗಳು ಮತ್ತು ಪ್ರಕೃತಿ ಅವರ ಕಲ್ಪನಾಶಕ್ತಿಯನ್ನು ಪ್ರಭಾವಿಸಿತು. ಅವರ ಬಾಲ್ಯ ಪ್ರಕೃತಿಯ ನಡುವೆ ಬೆಳೆದದ್ದು ಅವರ ಕವಿತ್ವಕ್ಕೆ ಆಧಾರವಾಯಿತು. ಅವರ ಕೃತಿಗಳು ಗ್ರಾಮೀಣ ಜೀವನದ ಸೌಂದರ್ಯವನ್ನು ತೋರಿಸುತ್ತವೆ."
+                        },
+                        {
+                            "titleEn": "Early Education",
+                            "titleKn": "ಆರಂಭಿಕ ಶಿಕ್ಷಣ",
+                            "image": "img_kuvempu",
+                            "textEn": "Kuvempu studied in Mysuru and later became a professor. From childhood, he showed great interest in literature and learning. He believed education should develop both mind and character. His academic journey influenced many students.",
+                            "textKn": "ಅವರು ಮೈಸೂರಿನಲ್ಲಿ ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡಿ ನಂತರ ಪ್ರೊಫೆಸರ್ ಆಗಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರಿಗೆ ಸಾಹಿತ್ಯ ಮತ್ತು ಅಧ್ಯಯನದಲ್ಲಿ ಆಸಕ್ತಿ ಇತ್ತು. ಶಿಕ್ಷಣವು ಮನಸ್ಸು ಮತ್ತು ವ್ಯಕ್ತಿತ್ವವನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಬೇಕು ಎಂದು ಅವರು ನಂಬಿದರು. ಅವರ ಶಿಕ್ಷಣ ಜೀವನ ಅನೇಕ ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಪ್ರೇರೇಪಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Jnanpith Award",
+                            "titleKn": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ",
+                            "image": "img_kuvempu",
+                            "textEn": "He became the first Kannada writer to receive the Jnanpith Award. This was a proud moment for Kannada literature. His contribution was recognized at the national level. He brought global respect to Kannada language.",
+                            "textKn": "ಅವರು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಕನ್ನಡ ಬರಹಗಾರರಾಗಿದ್ದರು. ಇದು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಹೆಮ್ಮೆಯ ಕ್ಷಣವಾಗಿತ್ತು. ಅವರ ಕೊಡುಗೆ ರಾಷ್ಟ್ರಮಟ್ಟದಲ್ಲಿ ಗುರುತಿಸಲ್ಪಟ್ಟಿತು. ಅವರು ಕನ್ನಡ ಭಾಷೆಗೆ ಜಾಗತಿಕ ಗೌರವ ತಂದುಕೊಟ್ಟರು."
+                        },
+                        {
+                            "titleEn": "Sri Ramayana Darshanam",
+                            "titleKn": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+                            "image": "img_kuvempu",
+                            "textEn": "He wrote the epic poem Sri Ramayana Darshanam. It is considered one of the greatest works in Kannada literature. The poem reflects deep philosophy and moral values. It is widely studied even today.",
+                            "textKn": "ಅವರು ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ ಎಂಬ ಮಹಾಕಾವ್ಯವನ್ನು ಬರೆದರು. ಇದು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಶ್ರೇಷ್ಠ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಈ ಕಾವ್ಯದಲ್ಲಿ ಆಳವಾದ ತತ್ತ್ವ ಮತ್ತು ನೈತಿಕ ಮೌಲ್ಯಗಳಿವೆ. ಇದನ್ನು ಇಂದಿಗೂ ವ್ಯಾಪಕವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "State Anthem",
+                            "titleKn": "ನಾಡಗೀತೆ",
+                            "image": "img_kuvempu",
+                            "textEn": "Kuvempu wrote the Karnataka state anthem. It reflects pride, culture, and unity of the state. His words inspire love for Karnataka. It is sung with respect in official events.",
+                            "textKn": "ಅವರು ಕರ್ನಾಟಕ ನಾಡಗೀತೆಯನ್ನು ಬರೆದರು. ಇದು ರಾಜ್ಯದ ಹೆಮ್ಮೆ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ. ಅವರ ಪದಗಳು ಕರ್ನಾಟಕದ ಮೇಲೆ ಪ್ರೀತಿಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತವೆ. ಇದನ್ನು ಅಧಿಕೃತ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ಗೌರವದಿಂದ ಹಾಡಲಾಗುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Vishwa Manava",
+                            "titleKn": "ವಿಶ್ವ ಮಾನವ",
+                            "image": "img_kuvempu",
+                            "textEn": "He promoted the idea of Vishwa Manava or universal humanism. He believed all humans are equal beyond religion and caste. His philosophy spread messages of unity. It remains relevant even today.",
+                            "textKn": "ಅವರು ವಿಶ್ವ ಮಾನವ ಪರಿಕಲ್ಪನೆಯನ್ನು ಉತ್ತೇಜಿಸಿದರು. ಧರ್ಮ ಮತ್ತು ಜಾತಿ ಮೀರಿದ ಎಲ್ಲ ಮಾನವರು ಸಮಾನ ಎಂದು ಅವರು ನಂಬಿದರು. ಅವರ ತತ್ತ್ವ ಏಕತೆಯ ಸಂದೇಶವನ್ನು ಹರಡಿತು. ಇದು ಇಂದಿಗೂ ಪ್ರಸ್ತುತವಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Nature Lover",
+                            "titleKn": "ಪ್ರಕೃತಿ ಪ್ರೇಮಿ",
+                            "image": "img_kuvempu",
+                            "textEn": "He deeply loved nature, forests, and wildlife. Many of his poems describe natural beauty. He believed nature is a source of inspiration. His writings reflect environmental awareness.",
+                            "textKn": "ಅವರು ಪ್ರಕೃತಿ, ಕಾಡು ಮತ್ತು ವನ್ಯಜೀವಿಗಳನ್ನು ತುಂಬಾ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಅವರ ಅನೇಕ ಕವಿತೆಗಳು ಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯವನ್ನು ವಿವರಿಸುತ್ತವೆ. ಪ್ರಕೃತಿ ಪ್ರೇರಣೆಯ ಮೂಲ ಎಂದು ಅವರು ನಂಬಿದರು. ಅವರ ಬರವಣಿಗೆ ಪರಿಸರ ಜಾಗೃತಿಯನ್ನು ತೋರಿಸುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Educational Reform",
+                            "titleKn": "ಶಿಕ್ಷಣ ಸುಧಾರಣೆ",
+                            "image": "img_kuvempu",
+                            "textEn": "He worked to improve education in Karnataka. He believed in value-based education for students. His ideas influenced modern teaching methods. Many institutions follow his principles.",
+                            "textKn": "ಅವರು ಕರ್ನಾಟಕದಲ್ಲಿ ಶಿಕ್ಷಣ ಸುಧಾರಣೆಗೆ ಕೆಲಸ ಮಾಡಿದರು. ಮೌಲ್ಯಾಧಾರಿತ ಶಿಕ್ಷಣವನ್ನು ಅವರು ನಂಬಿದರು. ಅವರ ಆಲೋಚನೆಗಳು ಆಧುನಿಕ ಶಿಕ್ಷಣ ವಿಧಾನಗಳಿಗೆ ಪ್ರಭಾವ ಬೀರಿವೆ. ಅನೇಕ ಸಂಸ್ಥೆಗಳು ಅವರ ತತ್ವಗಳನ್ನು ಅನುಸರಿಸುತ್ತಿವೆ."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_kuvempu",
+                            "textEn": "Kuvempu is remembered as a national literary icon. His works continue to inspire readers worldwide. He left a strong cultural and literary legacy. His contributions will always be cherished.",
+                            "textKn": "ಕುವೆಂಪು ಅವರನ್ನು ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಐಕಾನ್ ಆಗಿ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಅವರ ಕೃತಿಗಳು ಇಂದಿಗೂ ವಿಶ್ವದಾದ್ಯಂತ ಪ್ರೇರಣೆಯಾಗಿವೆ. ಅವರು ಬಲವಾದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಸಾಹಿತ್ಯ ಪರಂಪರೆಯನ್ನು ಬಿಟ್ಟಿದ್ದಾರೆ. ಅವರ ಕೊಡುಗೆ ಸದಾ ಗೌರವಿಸಲ್ಪಡುತ್ತದೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He grew up surrounded by forests, and many of his poems feel like nature is talking to us!",
+                            "kn": "ಅವರು ಕಾಡುಗಳ ನಡುವೆ ಬೆಳೆದ ಕಾರಣ ಅವರ ಅನೇಕ ಕವಿತೆಗಳು ಪ್ರಕೃತಿಯೇ ನಮ್ಮೊಂದಿಗೆ ಮಾತನಾಡುತ್ತಿರುವಂತೆ ಅನುಭವವಾಗುತ್ತವೆ!"
+                        },
+                        {
+                            "en": "He believed every human is equal, like everyone sharing the same beautiful sky!",
+                            "kn": "ಎಲ್ಲಾ ಮಾನವರು ಸಮಾನರು ಎಂದು ಅವರು ನಂಬಿದರು — ಎಲ್ಲರೂ ಒಂದೇ ಸುಂದರ ಆಕಾಶವನ್ನು ಹಂಚಿಕೊಂಡಂತೆ!"
+                        },
+                        {
+                            "en": "Even today, students sing his words in schools to feel proud of Karnataka!",
+                            "kn": "ಇಂದಿಗೂ ವಿದ್ಯಾರ್ಥಿಗಳು ಶಾಲೆಗಳಲ್ಲಿ ಅವರ ಪದಗಳನ್ನು ಹಾಡಿ ಕರ್ನಾಟಕದ ಮೇಲೆ ಹೆಮ್ಮೆಪಡುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What is Kuvempu's famous epic poem?",
+                            "optionsEn": [
+                                "Mahabharata",
+                                "Sri Ramayana Darshanam",
+                                "Kavirajamarga",
+                                "Gitanjali"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which award did Kuvempu win?",
+                            "optionsEn": [
+                                "Padma Shri",
+                                "Jnanpith",
+                                "Bharat Ratna",
+                                "Nobel Prize"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What is the Karnataka state anthem written by him?",
+                            "optionsEn": [
+                                "Vande Mataram",
+                                "Jana Gana Mana",
+                                "Jaya Bharata Jananiya Tanujate",
+                                "Saare Jahan Se Achha"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:13.7252,75.7973?q=Kuvempu+Memorial"
+
+                },
+                {
+                    "id": "hkeladi",
+                    "name": "Keladi Chennamma",
+                    "image": "img_keladi",
+                    "shortDesc": "Brave Queen of Keladi Kingdom",
+                    "storyPages": [
+                        {
+                            "titleEn": "Queen of Keladi",
+                            "titleKn": "ಕೆಳದಿಯ ರಾಣಿ",
+                            "image": "img_keladi",
+                            "textEn": "Chennamma was the queen of Keladi Kingdom. She ruled with great courage and intelligence. From the beginning, she showed strong leadership qualities. Her rule was respected by both allies and enemies.",
+                            "textKn": "ಚೆನ್ನಮ್ಮ ಕೆಳದಿ ರಾಜ್ಯದ ರಾಣಿಯಾಗಿದ್ದಳು. ಅವಳು ಧೈರ್ಯ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಆಳ್ವಿಕೆ ನಡೆಸಿದಳು. ಆರಂಭದಿಂದಲೇ ಅವಳು ನಾಯಕತ್ವ ಗುಣಗಳನ್ನು ತೋರಿಸಿದ್ದಳು. ಅವಳ ಆಳ್ವಿಕೆಯನ್ನು ಎಲ್ಲರೂ ಗೌರವಿಸುತ್ತಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Rule of Prosperity",
+                            "titleKn": "ಸಮೃದ್ಧಿಯ ಆಳ್ವಿಕೆ",
+                            "image": "img_keladi",
+                            "textEn": "She ruled the kingdom for 25 years in peace and prosperity. Trade and agriculture flourished under her leadership. The people were happy and safe during her rule. Keladi became a strong and stable kingdom.",
+                            "textKn": "ಅವಳು 25 ವರ್ಷ ಶಾಂತಿ ಮತ್ತು ಸಮೃದ್ಧಿಯಿಂದ ಆಳ್ವಿಕೆ ನಡೆಸಿದಳು. ಅವಳ ಆಡಳಿತದಲ್ಲಿ ವ್ಯಾಪಾರ ಮತ್ತು ಕೃಷಿ ಅಭಿವೃದ್ಧಿಯಾಯಿತು. ಜನರು ಸಂತೋಷ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿದ್ದರು. ಕೆಳದಿ ಒಂದು ಶಕ್ತಿಶಾಲಿ ರಾಜ್ಯವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Sheltering Rajaram",
+                            "titleKn": "ರಾಜಾರಾಮ್‌ಗೆ ಆಶ್ರಯ",
+                            "image": "img_keladi",
+                            "textEn": "She gave shelter to Rajaram, the son of Shivaji. This act showed her bravery and kindness. It brought political tension with the Mughals. But she stood firm in her decision.",
+                            "textKn": "ಅವಳು ಶಿವಾಜಿಯ ಪುತ್ರ ರಾಜಾರಾಮ್‌ಗೆ ಆಶ್ರಯ ನೀಡಿದಳು. ಇದು ಅವಳ ಧೈರ್ಯ ಮತ್ತು ದಯೆಯನ್ನು ತೋರಿಸಿತು. ಇದರಿಂದ ಮೊಘಲರೊಂದಿಗೆ ರಾಜಕೀಯ ಒತ್ತಡ ಉಂಟಾಯಿತು. ಆದರೆ ಅವಳು ತನ್ನ ನಿರ್ಧಾರದಲ್ಲಿ ಸ್ಥಿರಳಾಗಿದ್ದಳು."
+                        },
+                        {
+                            "titleEn": "War with Mughals",
+                            "titleKn": "ಮೊಘಲರ ವಿರುದ್ಧ ಯುದ್ಧ",
+                            "image": "img_keladi",
+                            "textEn": "She bravely fought against the Mughal forces. Her army showed great strength and loyalty. Even with fewer resources, she resisted strongly. Her courage inspired her soldiers.",
+                            "textKn": "ಅವಳು ಮೊಘಲರ ಸೇನೆಯ ವಿರುದ್ಧ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದಳು. ಅವಳ ಸೈನ್ಯ ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ನಿಷ್ಠಾವಂತವಾಗಿತ್ತು. ಕಡಿಮೆ ಸಂಪನ್ಮೂಲಗಳಿದ್ದರೂ ಅವಳು ಬಲವಾಗಿ ಪ್ರತಿರೋಧಿಸಿದಳು. ಅವಳ ಧೈರ್ಯ ಸೈನಿಕರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Aurangzeb’s Pressure",
+                            "titleKn": "ಔರಂಗಜೇಬನ ಒತ್ತಡ",
+                            "image": "img_keladi",
+                            "textEn": "Aurangzeb tried to control her kingdom through force and politics. But Chennamma did not surrender easily. She defended her kingdom with wisdom and courage. Her resistance became famous in history.",
+                            "textKn": "ಔರಂಗಜೇಬನು ಬಲ ಮತ್ತು ರಾಜಕೀಯದ ಮೂಲಕ ಅವಳ ರಾಜ್ಯವನ್ನು ನಿಯಂತ್ರಿಸಲು ಪ್ರಯತ್ನಿಸಿದನು. ಆದರೆ ಚೆನ್ನಮ್ಮ ಸುಲಭವಾಗಿ ಶರಣಾಗಲಿಲ್ಲ. ಅವಳು ಜ್ಞಾನ ಮತ್ತು ಧೈರ್ಯದಿಂದ ತನ್ನ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದಳು. ಅವಳ ಪ್ರತಿರೋಧ ಇತಿಹಾಸದಲ್ಲಿ ಪ್ರಸಿದ್ಧವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Treaty Victory",
+                            "titleKn": "ಒಪ್ಪಂದದ ಜಯ",
+                            "image": "img_keladi",
+                            "textEn": "She successfully forced a treaty with the Mughal empire. This ensured independence for her kingdom. It was a great diplomatic achievement. She proved her intelligence as a ruler.",
+                            "textKn": "ಅವಳು ಮೊಘಲರೊಂದಿಗೆ ಒಪ್ಪಂದವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಾಧಿಸಿದಳು. ಇದರಿಂದ ಅವಳ ರಾಜ್ಯಕ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ ದೊರಕಿತು. ಇದು ದೊಡ್ಡ ರಾಜತಾಂತ್ರಿಕ ಸಾಧನೆಯಾಗಿತ್ತು. ಅವಳು ತನ್ನ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಸಾಬೀತುಪಡಿಸಿದಳು."
+                        },
+                        {
+                            "titleEn": "Women Power",
+                            "titleKn": "ಮಹಿಳಾ ಶಕ್ತಿ",
+                            "image": "img_keladi",
+                            "textEn": "She became a symbol of women empowerment and strength. Her bravery inspired many women warriors. She proved women can be strong leaders. Her legacy continues to inspire.",
+                            "textKn": "ಅವಳು ಮಹಿಳಾ ಶಕ್ತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯದ ಸಂಕೇತವಾಯಿತು. ಅವಳ ಧೈರ್ಯ ಅನೇಕ ಮಹಿಳಾ ಯೋಧರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು. ಮಹಿಳೆಯರು ಶಕ್ತಿಶಾಲಿ ನಾಯಕಿಯಾಗಬಹುದು ಎಂದು ಅವಳು ತೋರಿಸಿದಳು. ಅವಳ ಪರಂಪರೆ ಇಂದಿಗೂ ಜೀವಂತವಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Justice Rule",
+                            "titleKn": "ನ್ಯಾಯದ ಆಡಳಿತ",
+                            "image": "img_keladi",
+                            "textEn": "She ruled her kingdom with fairness and justice. She ensured equal treatment for all citizens. Her governance was strict but just. People trusted her leadership deeply.",
+                            "textKn": "ಅವಳು ತನ್ನ ರಾಜ್ಯವನ್ನು ನ್ಯಾಯ ಮತ್ತು ಸಮಾನತೆಯಿಂದ ಆಳ್ವಿಕೆ ನಡೆಸಿದಳು. ಎಲ್ಲಾ ನಾಗರಿಕರಿಗೆ ಸಮಾನ ಅವಕಾಶ ನೀಡಿದಳು. ಅವಳ ಆಡಳಿತ ಕಠಿಣವಾದರೂ ನ್ಯಾಯಯುತವಾಗಿತ್ತು. ಜನರು ಅವಳ ಮೇಲೆ ನಂಬಿಕೆ ಇಟ್ಟಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Strong Leader",
+                            "titleKn": "ಬಲಿಷ್ಠ ನಾಯಕಿ",
+                            "image": "img_keladi",
+                            "textEn": "She was known as a fearless and strong ruler. She handled wars and administration wisely. Her leadership kept the kingdom stable. She is remembered as a great queen.",
+                            "textKn": "ಅವಳು ನಿರ್ಭಯ ಮತ್ತು ಶಕ್ತಿಶಾಲಿ ರಾಣಿಯಾಗಿ ಪ್ರಸಿದ್ಧಳಾಗಿದ್ದಳು. ಅವಳು ಯುದ್ಧ ಮತ್ತು ಆಡಳಿತವನ್ನು ಜಾಣ್ಮೆಯಿಂದ ನಡೆಸಿದಳು. ಅವಳ ನಾಯಕತ್ವ ರಾಜ್ಯವನ್ನು ಸ್ಥಿರವಾಗಿರಿಸಿತು. ಅವಳು ಮಹಾನ್ ರಾಣಿಯಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾಳೆ."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_keladi",
+                            "textEn": "She is remembered as one of the bravest queens in Indian history. Her story is taught as an example of courage. She continues to inspire generations. Her name lives forever in history.",
+                            "textKn": "ಅವಳು ಭಾರತದ ಇತಿಹಾಸದ ಅತ್ಯಂತ ಧೈರ್ಯಶಾಲಿ ರಾಣಿಯಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾಳೆ. ಅವಳ ಕಥೆ ಧೈರ್ಯದ ಉದಾಹರಣೆಯಾಗಿ ಕಲಿಸಲಾಗುತ್ತದೆ. ಅವಳು ಅನೇಕ ಪೀಳಿಗೆಗಳಿಗೆ ಪ್ರೇರಣೆಯಾಗಿದ್ದಾಳೆ. ಅವಳ ಹೆಸರು ಇತಿಹಾಸದಲ್ಲಿ ಶಾಶ್ವತವಾಗಿದೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "She was so wise that even powerful emperors had to think twice before challenging her!",
+                            "kn": "ಅವರು ಅಷ್ಟು ಜಾಣ್ಮೆಯ ರಾಣಿಯಾಗಿದ್ದರು ಎಂದರೆ ಶಕ್ತಿಶಾಲಿ ಚಕ್ರವರ್ತಿಗಳೂ ಅವಳನ್ನು ಎದುರಿಸಲು ಎರಡು ಬಾರಿ ಯೋಚಿಸುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "She protected her kingdom like a lioness, never letting anyone take it easily!",
+                            "kn": "ಅವರು ತನ್ನ ರಾಜ್ಯವನ್ನು ಸಿಂಹಿಣಿಯಂತೆ ರಕ್ಷಿಸುತ್ತಿದ್ದರು — ಯಾರೂ ಸುಲಭವಾಗಿ ಅದನ್ನು ಕಬಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ!"
+                        },
+                        {
+                            "en": "Her courage was so strong that her story is still told like a royal adventure tale!",
+                            "kn": "ಅವರ ಧೈರ್ಯ ಅಷ್ಟು ಶಕ್ತಿಯಾಗಿತ್ತು ಎಂದರೆ ಅವರ ಕಥೆಯನ್ನು ಇಂದಿಗೂ ರಾಜಮನೆತನದ ಸಾಹಸ ಕಥೆಯಂತೆ ಹೇಳುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which Mughal Emperor did she oppose?",
+                            "optionsEn": [
+                                "Akbar",
+                                "Aurangzeb",
+                                "Babur",
+                                "Humayun"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Whom did she shelter?",
+                            "optionsEn": [
+                                "Shivaji",
+                                "Rajaram",
+                                "Tipu Sultan",
+                                "Rani Lakshmibai"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which kingdom did she rule?",
+                            "optionsEn": [
+                                "Mysore",
+                                "Keladi",
+                                "Kittur",
+                                "Vijayanagara"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:14.1667,75.0300?q=Keladi+Chennamma"
+
+                }
+            ]
+        },
+        {
+            "id": "d8",
+            "name": "Hubballi-Dharwad",
+            "image": "img_hubballi",
+            "heroes": [
+                {
+                    "id": "h15",
+                    "name": "Bhimsen Joshi",
+                    "image": "img_bhimsen",
+                    "shortDesc": "Legendary Classical Singer",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Passion",
+                            "titleKn": "ಆರಂಭಿಕ ಆಸಕ್ತಿ",
+                            "image": "img_bhimsen",
+                            "textEn": "Bhimsen Joshi showed love for music from childhood. He was deeply attracted to singing and classical sounds. Even as a child, he used to listen carefully to devotional music. This early passion shaped his entire future in music.",
+                            "textKn": "ಬಾಲ್ಯದಿಂದಲೇ ಅವರಿಗೆ ಸಂಗೀತದ ಮೇಲೆ ಪ್ರೀತಿ ಇತ್ತು. ಅವರು ಶಾಸ್ತ್ರೀಯ ಮತ್ತು ಭಕ್ತಿಗೀತೆಗಳತ್ತ ಆಕರ್ಷಿತರಾಗಿದ್ದರು. ಬಾಲ್ಯದಲ್ಲೇ ಅವರು ಸಂಗೀತವನ್ನು ಗಮನದಿಂದ ಕೇಳುತ್ತಿದ್ದರು. ಈ ಆಸಕ್ತಿಯೇ ಅವರ ಜೀವನದ ದಾರಿಯನ್ನು ರೂಪಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Training",
+                            "titleKn": "ಶಿಕ್ಷಣ",
+                            "image": "img_bhimsen",
+                            "textEn": "He trained under Sawai Gandharva, one of the greatest gurus. He practiced Hindustani classical music with full dedication. His training was strict and disciplined. He worked hard to master every note perfectly.",
+                            "textKn": "ಅವರು ಸವಾಯಿ ಗಂಧರ್ವರ ಬಳಿ ತರಬೇತಿ ಪಡೆದರು. ಅವರು ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತವನ್ನು ಶಿಸ್ತಿನಿಂದ ಅಭ್ಯಾಸ ಮಾಡಿದರು. ಅವರ ತರಬೇತಿ ಕಠಿಣ ಮತ್ತು ನಿಯಮಿತವಾಗಿತ್ತು. ಪ್ರತಿಯೊಂದು ಸ್ವರವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಲಿಯಲು ಅವರು ಶ್ರಮಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Rise to Fame",
+                            "titleKn": "ಖ್ಯಾತಿ",
+                            "image": "img_bhimsen",
+                            "textEn": "His powerful voice made him famous across India. People were deeply moved by his performances. He performed in many concerts and festivals. His fame spread quickly in the classical music world.",
+                            "textKn": "ಅವರ ಶಕ್ತಿಶಾಲಿ ಧ್ವನಿ ಅವರನ್ನು ಭಾರತದಲ್ಲಿ ಪ್ರಸಿದ್ಧರನ್ನಾಗಿ ಮಾಡಿತು. ಜನರು ಅವರ ಗಾಯನದಿಂದ ತುಂಬಾ ಪ್ರಭಾವಿತರಾದರು. ಅವರು ಅನೇಕ ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ಪ್ರದರ್ಶನ ನೀಡಿದರು. ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಲೋಕದಲ್ಲಿ ಅವರ ಹೆಸರು ವೇಗವಾಗಿ ಹರಡಿತು."
+                        },
+                        {
+                            "titleEn": "Awards",
+                            "titleKn": "ಪ್ರಶಸ್ತಿಗಳು",
+                            "image": "img_bhimsen",
+                            "textEn": "He received the Bharat Ratna, India’s highest civilian award. He also won many national and international honors. His contribution to music was widely recognized. He became a national pride.",
+                            "textKn": "ಅವರು ಭಾರತ ರತ್ನ ಸೇರಿದಂತೆ ಅನೇಕ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಪಡೆದರು. ಅವರು ದೇಶೀಯ ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ಗೌರವಗಳನ್ನು ಸಹ ಪಡೆದರು. ಅವರ ಸಂಗೀತ ಕೊಡುಗೆ ಎಲ್ಲೆಡೆ ಮಾನ್ಯತೆ ಪಡೆದಿತು. ಅವರು ರಾಷ್ಟ್ರದ ಹೆಮ್ಮೆಯಾದರು."
+                        },
+                        {
+                            "titleEn": "Contribution",
+                            "titleKn": "ಕೊಡುಗೆ",
+                            "image": "img_bhimsen",
+                            "textEn": "He made classical music accessible to common people. His singing inspired many young artists. He preserved Indian classical traditions. His performances brought emotions to life.",
+                            "textKn": "ಅವರು ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತವನ್ನು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ತಲುಪಿಸಿದರು. ಅವರ ಗಾಯನ ಅನೇಕ ಯುವ ಕಲಾವಿದರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು. ಅವರು ಭಾರತೀಯ ಶಾಸ್ತ್ರೀಯ ಪರಂಪರೆಯನ್ನು ಉಳಿಸಿದರು. ಅವರ ಪ್ರದರ್ಶನಗಳು ಭಾವನೆಗಳನ್ನು ಜೀವಂತಗೊಳಿಸಿದವು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_bhimsen",
+                            "textEn": "He is remembered as one of the greatest singers of India. His music continues to inspire generations. His legacy lives in classical music. He remains a timeless legend.",
+                            "textKn": "ಅವರು ಭಾರತದ ಶ್ರೇಷ್ಠ ಗಾಯಕನಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ಸಂಗೀತ ಇಂದಿಗೂ ಜನರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಅವರ ಪರಂಪರೆ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತದಲ್ಲಿ ಜೀವಂತವಾಗಿದೆ. ಅವರು ಶಾಶ್ವತ ದಂತಕಥೆಯಾಗಿ ಉಳಿದಿದ್ದಾರೆ."
+                        },
+                        {
+                            "titleEn": "Musical Journey Across India",
+                            "titleKn": "ಭಾರತದಾದ್ಯಂತ ಸಂಗೀತ ಯಾತ್ರೆ",
+                            "image": "img_bhimsen",
+                            "textEn": "He traveled across India performing in major cities and festivals. His voice connected people from different cultures. Each performance added to his greatness. He became a national musical treasure.",
+                            "textKn": "ಅವರು ಭಾರತದಾದ್ಯಂತ ನಗರಗಳು ಮತ್ತು ಉತ್ಸವಗಳಲ್ಲಿ ಪ್ರದರ್ಶನ ನೀಡಿದರು. ಅವರ ಧ್ವನಿ ವಿವಿಧ ಸಂಸ್ಕೃತಿಯ ಜನರನ್ನು ಒಗ್ಗೂಡಿಸಿತು. ಪ್ರತಿಯೊಂದು ಪ್ರದರ್ಶನವು ಅವರ ಮಹತ್ವವನ್ನು ಹೆಚ್ಚಿಸಿತು. ಅವರು ರಾಷ್ಟ್ರದ ಸಂಗೀತ ಸಂಪತ್ತಾದರು."
+                        },
+                        {
+                            "titleEn": "Devotional Singing",
+                            "titleKn": "ಭಕ್ತಿಗೀತೆ ಗಾಯನ",
+                            "image": "img_bhimsen",
+                            "textEn": "He was deeply devoted to devotional music and bhajans. His songs reflected spiritual emotions. Many people felt peace while listening to him. His devotion added soul to his music.",
+                            "textKn": "ಅವರು ಭಕ್ತಿಗೀತೆಗಳು ಮತ್ತು ಭಜನೆಗಳಿಗೆ ತುಂಬಾ ಸಮರ್ಪಿತರಾಗಿದ್ದರು. ಅವರ ಹಾಡುಗಳು ಆಧ್ಯಾತ್ಮಿಕ ಭಾವನೆಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತಿದ್ದವು. ಜನರು ಅವರ ಗಾಯನವನ್ನು ಕೇಳಿ ಶಾಂತಿಯನ್ನು ಅನುಭವಿಸುತ್ತಿದ್ದರು. ಅವರ ಭಕ್ತಿ ಸಂಗೀತಕ್ಕೆ ಆತ್ಮವನ್ನು ನೀಡಿತು."
+                        },
+                        {
+                            "titleEn": "Inspiration to Youth",
+                            "titleKn": "ಯುವಕರಿಗೆ ಪ್ರೇರಣೆ",
+                            "image": "img_bhimsen",
+                            "textEn": "Many young musicians considered him a role model. His discipline and dedication inspired generations. He showed that hard work leads to greatness. His life became an example for aspiring singers.",
+                            "textKn": "ಅನೇಕ ಯುವ ಸಂಗೀತಗಾರರು ಅವರನ್ನು ಆದರ್ಶವಾಗಿ ಕಂಡರು. ಅವರ ಶಿಸ್ತು ಮತ್ತು ಶ್ರಮ ಅನೇಕ ಪೀಳಿಗೆಗಳನ್ನು ಪ್ರೇರೇಪಿಸಿತು. ಕಠಿಣ ಪರಿಶ್ರಮವೇ ಯಶಸ್ಸಿಗೆ ದಾರಿ ಎಂದು ಅವರು ತೋರಿಸಿದರು. ಅವರ ಜೀವನ ಹೊಸ ಗಾಯಕರಿಗೆ ಮಾದರಿಯಾಯಿತು."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "He practiced singing so much that his voice became one of the strongest in Indian music!",
+                            "kn": "ಅವರು ಅಷ್ಟು ಹೆಚ್ಚು ಅಭ್ಯಾಸ ಮಾಡಿದರು ಎಂದರೆ ಅವರ ಧ್ವನಿ ಭಾರತದ ಸಂಗೀತದಲ್ಲಿ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯೊಂದಾಗಿತು!"
+                        },
+                        {
+                            "en": "People say when he sang, even noisy places felt completely silent!",
+                            "kn": "ಅವರು ಹಾಡುವಾಗ ಶಬ್ದವಿರುವ ಸ್ಥಳಗಳೂ ಕೂಡ ಸಂಪೂರ್ಣವಾಗಿ ಶಾಂತವಾಗುತ್ತವೆ ಎಂದು ಜನರು ಹೇಳುತ್ತಾರೆ!"
+                        },
+                        {
+                            "en": "His songs were so powerful that listeners often felt goosebumps and deep emotions!",
+                            "kn": "ಅವರ ಹಾಡುಗಳು ಅಷ್ಟು ಶಕ್ತಿಶಾಲಿಯಾಗಿದ್ದವು ಎಂದರೆ ಕೇಳುವವರಿಗೆ ಕಂಬನಿ ಮತ್ತು ಆಳವಾದ ಭಾವನೆಗಳು ಉಂಟಾಗುತ್ತಿತ್ತು!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Which field was Bhimsen Joshi famous in?",
+                            "optionsEn": [
+                                "Dance",
+                                "Music",
+                                "Politics",
+                                "Sports"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which award did he receive?",
+                            "optionsEn": [
+                                "Padma Shri",
+                                "Bharat Ratna",
+                                "Both",
+                                "None"
+                            ],
+                            "correctAnswerIndex": 2
+                        }
+                    ],
+                    "statueLocation": "geo:15.3647,75.1240?q=Bhimsen+Joshi"
+
+                },
+                {
+                    "id": "h16",
+                    "name": "Siddharoodha Swami",
+                    "image": "img_siddharoodha",
+                    "shortDesc": "Great Spiritual Saint of Hubballi",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Life",
+                            "titleKn": "ಆರಂಭಿಕ ಜೀವನ",
+                            "image": "img_siddharoodha",
+                            "textEn": "Siddharoodha Swami was born in Karnataka. From a very young age, he showed strong interest in spirituality and meditation. He was deeply inclined towards understanding life beyond material things. His early years were filled with simplicity, devotion, and spiritual curiosity.",
+                            "textKn": "ಸಿದ್ಧಾರೂಢ ಸ್ವಾಮಿಗಳು ಕರ್ನಾಟಕದಲ್ಲಿ ಜನಿಸಿದರು. ಬಾಲ್ಯದಿಂದಲೇ ಅವರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಧ್ಯಾನದ ಮೇಲೆ ಆಸಕ್ತಿ ಇತ್ತು. ಅವರು ಭೌತಿಕ ಜೀವನಕ್ಕಿಂತ ಮಿಗಿಲಾದ ಸತ್ಯವನ್ನು ತಿಳಿಯಲು ಆಸಕ್ತಿ ಹೊಂದಿದ್ದರು. ಅವರ ಬಾಲ್ಯ ಸರಳತೆ ಮತ್ತು ಭಕ್ತಿಯಿಂದ ತುಂಬಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "Spiritual Journey",
+                            "titleKn": "ಆಧ್ಯಾತ್ಮಿಕ ಯಾತ್ರೆ",
+                            "image": "img_siddharoodha",
+                            "textEn": "He left his home at an early age in search of truth and enlightenment. He traveled across different places meeting saints and learning spiritual wisdom. His journey was full of hardships but he remained focused on his goal. He dedicated his life to self-realization and inner peace.",
+                            "textKn": "ಅವರು ಸತ್ಯ ಮತ್ತು ಜ್ಞಾನಕ್ಕಾಗಿ ಬಾಲ್ಯದಲ್ಲೇ ಮನೆಯಿಂದ ಹೊರಟರು. ಅವರು ವಿವಿಧ ಸ್ಥಳಗಳಲ್ಲಿ ಸಂಚರಿಸಿ ಸಂತರನ್ನು ಭೇಟಿಯಾಗಿ ಆಧ್ಯಾತ್ಮಿಕ ಜ್ಞಾನವನ್ನು ಕಲಿತರು. ಅವರ ಯಾತ್ರೆ ಕಷ್ಟಕರವಾಗಿದ್ದರೂ ಅವರು ತಮ್ಮ ಗುರಿಯಿಂದ ತಪ್ಪಲಿಲ್ಲ. ಅವರು ಆತ್ಮಜ್ಞಾನ ಮತ್ತು ಆಂತರಿಕ ಶಾಂತಿಗೆ ಜೀವನ ಸಮರ್ಪಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Hubballi Ashram",
+                            "titleKn": "ಹುಬ್ಬಳ್ಳಿ ಆಶ್ರಮ",
+                            "image": "img_siddharoodha",
+                            "textEn": "He established a spiritual ashram in Hubballi that became a center of peace and learning. People from different regions came to seek his blessings. The ashram promoted simplicity, devotion, and unity among people. It became one of the most respected spiritual centers in Karnataka.",
+                            "textKn": "ಅವರು ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಒಂದು ಆಧ್ಯಾತ್ಮಿಕ ಆಶ್ರಮವನ್ನು ಸ್ಥಾಪಿಸಿದರು ಅದು ಶಾಂತಿ ಮತ್ತು ಜ್ಞಾನದ ಕೇಂದ್ರವಾಯಿತು. ವಿವಿಧ ಪ್ರದೇಶಗಳಿಂದ ಜನರು ಅವರ ಆಶೀರ್ವಾದ ಪಡೆಯಲು ಬಂದರು. ಆಶ್ರಮವು ಸರಳತೆ, ಭಕ್ತಿ ಮತ್ತು ಏಕತೆಯನ್ನು ಉತ್ತೇಜಿಸಿತು. ಇದು ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ಕೇಂದ್ರವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Teachings",
+                            "titleKn": "ಉಪದೇಶಗಳು",
+                            "image": "img_siddharoodha",
+                            "textEn": "He taught people to live a simple and peaceful life. He emphasized devotion, truth, and self-discipline. His teachings focused on inner peace rather than material wealth. Many followers were deeply inspired by his wisdom and guidance.",
+                            "textKn": "ಅವರು ಸರಳ ಮತ್ತು ಶಾಂತಿಯುತ ಜೀವನವನ್ನು ನಡೆಸಲು ಜನರಿಗೆ ಬೋಧಿಸಿದರು. ಅವರು ಸತ್ಯ, ಭಕ್ತಿ ಮತ್ತು ಆತ್ಮ ನಿಯಂತ್ರಣವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಅವರ ಉಪದೇಶಗಳು ಭೌತಿಕ ಸಂಪತ್ತಿಗಿಂತ ಆಂತರಿಕ ಶಾಂತಿಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸಿದ್ದವು. ಅನೇಕ ಅನುಯಾಯಿಗಳು ಅವರ ಜ್ಞಾನದಿಂದ ಪ್ರೇರಿತರಾದರು."
+                        },
+                        {
+                            "titleEn": "Followers",
+                            "titleKn": "ಅನುಯಾಯಿಗಳು",
+                            "image": "img_siddharoodha",
+                            "textEn": "Many devotees and followers gathered around him because of his spiritual power. People from different backgrounds respected him equally. His calm nature attracted thousands of followers. His teachings spread widely across Karnataka and beyond.",
+                            "textKn": "ಅವರ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯಿಂದ ಅನೇಕ ಭಕ್ತರು ಮತ್ತು ಅನುಯಾಯಿಗಳು ಅವರನ್ನು ಅನುಸರಿಸಿದರು. ವಿಭಿನ್ನ ಹಿನ್ನೆಲೆಯ ಜನರು ಅವರನ್ನು ಸಮಾನವಾಗಿ ಗೌರವಿಸಿದರು. ಅವರ ಶಾಂತ ಸ್ವಭಾವ ಅನೇಕ ಜನರನ್ನು ಆಕರ್ಷಿಸಿತು. ಅವರ ಉಪದೇಶಗಳು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಹರಡಿದವು."
+                        },
+                        {
+                            "titleEn": "Philosophy of Life",
+                            "titleKn": "ಜೀವನ ತತ್ವ",
+                            "image": "img_siddharoodha",
+                            "textEn": "He believed that true happiness comes from inner peace and not material possessions. He encouraged people to control desires and focus on spirituality. His philosophy was simple yet deeply powerful. It guided people toward a meaningful life.",
+                            "textKn": "ನಿಜವಾದ ಸಂತೋಷ ಆಂತರಿಕ ಶಾಂತಿಯಿಂದ ಬರುತ್ತದೆ ಎಂದು ಅವರು ನಂಬಿದರು. ಆಸೆಗಳನ್ನು ನಿಯಂತ್ರಿಸಿ ಆಧ್ಯಾತ್ಮಿಕತೆಯ ಕಡೆಗೆ ಗಮನ ಹರಿಸಲು ಅವರು ಜನರನ್ನು ಪ್ರೇರೇಪಿಸಿದರು. ಅವರ ತತ್ವಶಾಸ್ತ್ರ ಸರಳವಾದರೂ ಬಹಳ ಶಕ್ತಿಯುತವಾಗಿತ್ತು. ಅದು ಅರ್ಥಪೂರ್ಣ ಜೀವನದ ಕಡೆಗೆ ದಾರಿ ತೋರಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Miracles and Influence",
+                            "titleKn": "ಚಮತ್ಕಾರಗಳು ಮತ್ತು ಪ್ರಭಾವ",
+                            "image": "img_siddharoodha",
+                            "textEn": "Many people believed that Siddharoodha Swami performed miracles through his spiritual power. His presence brought peace and healing to many devotees. His influence grew across regions through word of mouth. People trusted him as a divine guide.",
+                            "textKn": "ಸಿದ್ಧಾರೂಢ ಸ್ವಾಮಿಗಳು ತಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಶಕ್ತಿಯಿಂದ ಚಮತ್ಕಾರಗಳನ್ನು ಮಾಡಿದರು ಎಂದು ಅನೇಕರು ನಂಬಿದರು. ಅವರ ಉಪಸ್ಥಿತಿ ಭಕ್ತರಿಗೆ ಶಾಂತಿ ಮತ್ತು ಶಕ್ತಿ ನೀಡಿತು. ಅವರ ಪ್ರಭಾವ ಮಾತುಮಾತಿನ ಮೂಲಕ ಹರಡಿತು. ಜನರು ಅವರನ್ನು ದಿವ್ಯ ಮಾರ್ಗದರ್ಶಕನಾಗಿ ನಂಬಿದರು."
+                        },
+                        {
+                            "titleEn": "Disciples",
+                            "titleKn": "ಶಿಷ್ಯರು",
+                            "image": "img_siddharoodha",
+                            "textEn": "He had many devoted disciples who carried forward his teachings. They continued spreading his message of peace and devotion. His followers maintained the values he taught. His spiritual lineage remained strong for generations.",
+                            "textKn": "ಅವರಿಗೆ ಅನೇಕ ಭಕ್ತ ಶಿಷ್ಯರು ಇದ್ದರು ಅವರು ಅವರ ಉಪದೇಶಗಳನ್ನು ಮುಂದುವರೆಸಿದರು. ಅವರು ಶಾಂತಿ ಮತ್ತು ಭಕ್ತಿಯ ಸಂದೇಶವನ್ನು ಹರಡಿದರು. ಅವರ ಅನುಯಾಯಿಗಳು ಅವರು ಕಲಿಸಿದ ಮೌಲ್ಯಗಳನ್ನು ಉಳಿಸಿಕೊಂಡರು. ಅವರ ಆಧ್ಯಾತ್ಮಿಕ ಪರಂಪರೆ ಪೀಳಿಗೆಗಳಿಂದ ಮುಂದುವರಿಯಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_siddharoodha",
+                            "textEn": "He is remembered as one of the greatest saints of Karnataka. His teachings still inspire people even today. The ashram continues to be a place of peace and devotion. His legacy lives on in the hearts of his followers.",
+                            "textKn": "ಅವರು ಕರ್ನಾಟಕದ ಮಹಾನ್ ಸಂತನಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ಉಪದೇಶಗಳು ಇಂದಿಗೂ ಜನರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತವೆ. ಆಶ್ರಮವು ಇಂದಿಗೂ ಶಾಂತಿ ಮತ್ತು ಭಕ್ತಿಯ ಸ್ಥಳವಾಗಿದೆ. ಅವರ ಪರಂಪರೆ ಅವರ ಅನುಯಾಯಿಗಳ ಹೃದಯದಲ್ಲಿ ಜೀವಂತವಾಗಿದೆ."
+                        }
+                    ],
+
+                    "didYouKnow": [
+                        {
+                            "en": "People say just being near him made others feel calm and peaceful instantly!",
+                            "kn": "ಅವರ ಬಳಿ ಇದ್ದರೆ ಮಾತ್ರವೇ ಜನರಿಗೆ ತಕ್ಷಣ ಶಾಂತಿ ಮತ್ತು ನೆಮ್ಮದಿ ಅನುಭವವಾಗುತ್ತಿತ್ತು ಎಂದು ಹೇಳುತ್ತಾರೆ!"
+                        },
+                        {
+                            "en": "Many visitors came to his ashram just to sit quietly and feel positive energy!",
+                            "kn": "ಅವರ ಆಶ್ರಮಕ್ಕೆ ಅನೇಕರು ಶಾಂತವಾಗಿ ಕುಳಿತುಕೊಳ್ಳಲು ಮತ್ತು ಒಳ್ಳೆಯ ಶಕ್ತಿಯನ್ನು ಅನುಭವಿಸಲು ಬರುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "He believed true magic is living a simple life with a peaceful mind!",
+                            "kn": "ನಿಜವಾದ ಅದ್ಭುತ ಎಂದರೆ ಶಾಂತಿಯುತ ಮನಸ್ಸಿನಿಂದ ಸರಳ ಜೀವನ ನಡೆಸುವುದೇ ಎಂದು ಅವರು ನಂಬಿದ್ದರು!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "Where did Siddharoodha Swami establish his ashram?",
+                            "optionsEn": [
+                                "Mysuru",
+                                "Hubballi",
+                                "Bengaluru",
+                                "Mangaluru"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What did he teach?",
+                            "optionsEn": [
+                                "War",
+                                "Simplicity and peace",
+                                "Trade",
+                                "Politics"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:15.3647,75.1240?q=Siddharoodha+Swami+Ashram"
+
+                }
+            ]
+        },
+        {
+            "id": "d9",
+            "name": "Ballari",
+            "image": "img_ballari",
+            "heroes": [
+                {
+                    "id": "h16",
+                    "name": "Rani Lakshmi Bai",
+                    "image": "img_lakshmi",
+                    "shortDesc": "Symbol of Courage",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Life",
+                            "titleKn": "ಆರಂಭಿಕ ಜೀವನ",
+                            "image": "img_lakshmi",
+                            "textEn": "Born as Manikarnika in a royal family, she showed bravery from childhood itself. She was trained in martial arts and developed strong leadership qualities early in life. Her courage made her different from other children.",
+                            "textKn": "ಮಣಿಕರ್ಣಿಕಾ ಎಂಬ ಹೆಸರಿನಲ್ಲಿ ರಾಜಕುಟುಂಬದಲ್ಲಿ ಜನಿಸಿದಳು ಮತ್ತು ಬಾಲ್ಯದಿಂದಲೇ ಧೈರ್ಯ ತೋರಿಸಿದಳು. ಅವಳು ಯುದ್ಧಕಲೆಗಳಲ್ಲಿ ತರಬೇತಿ ಪಡೆದು ಬಲವಾದ ನಾಯಕತ್ವ ಗುಣಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದಳು. ಅವಳ ಧೈರ್ಯ ಅವಳನ್ನು ಇತರ ಮಕ್ಕಳಿಗಿಂತ ವಿಭಿನ್ನವಾಗಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Education",
+                            "titleKn": "ಶಿಕ್ಷಣ",
+                            "image": "img_lakshmi",
+                            "textEn": "She learned horse riding, sword fighting, and other combat skills at a very young age. These skills made her strong and confident. She was prepared for challenges in life from early on.",
+                            "textKn": "ಅವಳು ಬಾಲ್ಯದಲ್ಲೇ ಕುದುರೆ ಸವಾರಿ, ಕತ್ತಿ ಯುದ್ಧ ಮತ್ತು ಇತರ ಯುದ್ಧ ಕೌಶಲ್ಯಗಳನ್ನು ಕಲಿತಳು. ಈ ಕೌಶಲ್ಯಗಳು ಅವಳನ್ನು ಬಲಿಷ್ಠ ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸಿಯಾದವಳನ್ನಾಗಿಸಿತು. ಅವಳು ಜೀವನದ ಸವಾಲುಗಳಿಗೆ ಸಿದ್ಧಳಾಗಿದ್ದಳು."
+                        },
+                        {
+                            "titleEn": "Queen of Jhansi",
+                            "titleKn": "ಝಾನ್ಸಿಯ ರಾಣಿ",
+                            "image": "img_lakshmi",
+                            "textEn": "She became the queen of Jhansi and ruled the kingdom with great bravery and responsibility. She took care of her people like a true leader. Her rule was known for courage and justice.",
+                            "textKn": "ಅವಳು ಝಾನ್ಸಿಯ ರಾಣಿಯಾಗಿ ರಾಜ್ಯವನ್ನು ಧೈರ್ಯ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯಿಂದ ಆಡಳಿತ ನಡೆಸಿದಳು. ಜನರನ್ನು ಒಳ್ಳೆಯ ನಾಯಕನಂತೆ ನೋಡಿಕೊಂಡಳು. ಅವಳ ಆಳ್ವಿಕೆ ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು."
+                        },
+                        {
+                            "titleEn": "British Conflict",
+                            "titleKn": "ಬ್ರಿಟಿಷರೊಂದಿಗೆ ಸಂಘರ್ಷ",
+                            "image": "img_lakshmi",
+                            "textEn": "She strongly refused to surrender her kingdom to the British. She stood firm against injustice and foreign control. Her resistance became a symbol of freedom.",
+                            "textKn": "ಅವಳು ತನ್ನ ರಾಜ್ಯವನ್ನು ಬ್ರಿಟಿಷರಿಗೆ ಒಪ್ಪಿಸಲು ದೃಢವಾಗಿ ನಿರಾಕರಿಸಿದಳು. ಅನ್ಯಾಯ ಮತ್ತು ವಿದೇಶಿ ಆಡಳಿತಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ ನಿಂತಳು. ಅವಳ ಹೋರಾಟ ಸ್ವಾತಂತ್ರ್ಯದ ಸಂಕೇತವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "1857 Revolt",
+                            "titleKn": "1857ರ ಹೋರಾಟ",
+                            "image": "img_lakshmi",
+                            "textEn": "She played a very important role in India’s first war of independence in 1857. She fought bravely on the battlefield and inspired many others. Her bravery became legendary.",
+                            "textKn": "1857ರ ಭಾರತದ ಮೊದಲ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದಲ್ಲಿ ಅವಳು ಮಹತ್ವದ ಪಾತ್ರವಹಿಸಿದಳು. ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿ ಅನೇಕ ಜನರಿಗೆ ಪ್ರೇರಣೆಯಾಗಿದಳು. ಅವಳ ಧೈರ್ಯ ಪೌರಾಣಿಕವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Battle Skills",
+                            "titleKn": "ಯುದ್ಧ ಕೌಶಲ್ಯ",
+                            "image": "img_lakshmi",
+                            "textEn": "She was highly skilled in sword fighting and battlefield strategies. Her quick decisions helped her army in many battles. She fought fearlessly against enemies.",
+                            "textKn": "ಅವಳು ಕತ್ತಿ ಯುದ್ಧ ಮತ್ತು ಯುದ್ಧ ತಂತ್ರಗಳಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿದ್ದಳು. ಅವಳ ತ್ವರಿತ ನಿರ್ಧಾರಗಳು ಅನೇಕ ಯುದ್ಧಗಳಲ್ಲಿ ಸಹಾಯ ಮಾಡಿತು. ಅವಳು ಶತ್ರುಗಳ ವಿರುದ್ಧ ಭಯವಿಲ್ಲದೆ ಹೋರಾಡಿದಳು."
+                        },
+                        {
+                            "titleEn": "Sacrifice",
+                            "titleKn": "ತ್ಯಾಗ",
+                            "image": "img_lakshmi",
+                            "textEn": "She sacrificed her life while fighting for her motherland. Her dedication to freedom made her immortal in history. She remains an inspiration for all generations.",
+                            "textKn": "ಅವಳು ತನ್ನ ದೇಶಕ್ಕಾಗಿ ಹೋರಾಡುವಾಗ ಜೀವನವನ್ನು ತ್ಯಾಗ ಮಾಡಿದಳು. ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಅವಳ ಸಮರ್ಪಣೆ ಅವಳನ್ನು ಇತಿಹಾಸದಲ್ಲಿ ಅಮರಳನ್ನಾಗಿಸಿತು. ಅವಳು ಎಲ್ಲ ಪೀಳಿಗೆಗಳಿಗೆ ಪ್ರೇರಣೆಯಾಗಿದ್ದಾಳೆ."
+                        },
+                        {
+                            "titleEn": "Inspiration",
+                            "titleKn": "ಪ್ರೇರಣೆ",
+                            "image": "img_lakshmi",
+                            "textEn": "She inspires millions of women across India to be brave and independent. Her life story teaches courage and determination. She is a role model for strength.",
+                            "textKn": "ಅವಳು ಭಾರತದಲ್ಲಿ ಲಕ್ಷಾಂತರ ಮಹಿಳೆಯರಿಗೆ ಧೈರ್ಯ ಮತ್ತು ಸ್ವತಂತ್ರವಾಗಿರಲು ಪ್ರೇರಣೆಯಾಗಿದ್ದಾಳೆ. ಅವಳ ಜೀವನ ಕಥೆ ಧೈರ್ಯ ಮತ್ತು ದೃಢತೆಯನ್ನು ಕಲಿಸುತ್ತದೆ. ಅವಳು ಶಕ್ತಿಯ ಮಾದರಿಯಾಗಿದ್ದಾಳೆ."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_lakshmi",
+                            "textEn": "She is remembered as one of the greatest warrior queens in Indian history. Her courage continues to inspire people even today. Her legacy lives forever.",
+                            "textKn": "ಅವಳು ಭಾರತದ ಇತಿಹಾಸದ ಅತ್ಯಂತ ಶ್ರೇಷ್ಠ ಯೋಧ ರಾಣಿಗಳಲ್ಲಿ ಒಬ್ಬಳಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾಳೆ. ಅವಳ ಧೈರ್ಯ ಇಂದಿಗೂ ಜನರಿಗೆ ಪ್ರೇರಣೆಯಾಗುತ್ತದೆ. ಅವಳ ಪರಂಪರೆ ಶಾಶ್ವತವಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Immortal Hero",
+                            "titleKn": "ಅಮರ ವೀರ",
+                            "image": "img_lakshmi",
+                            "textEn": "Her story remains alive in Indian history as a symbol of bravery and sacrifice. She is honored across the country for her fearless fight. She will always be remembered.",
+                            "textKn": "ಅವಳ ಕಥೆ ಧೈರ್ಯ ಮತ್ತು ತ್ಯಾಗದ ಸಂಕೇತವಾಗಿ ಭಾರತೀಯ ಇತಿಹಾಸದಲ್ಲಿ ಜೀವಂತವಾಗಿದೆ. ಅವಳ ಭಯವಿಲ್ಲದ ಹೋರಾಟಕ್ಕಾಗಿ ದೇಶದಲ್ಲಿ ಗೌರವಿಸಲಾಗುತ್ತದೆ. ಅವಳು ಸದಾ ಸ್ಮರಣೀಯಳಾಗಿರುತ್ತಾಳೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "She was so brave that even as a young queen, she trained like a full warrior!",
+                            "kn": "ಅವಳು ಅಷ್ಟು ಧೈರ್ಯಶಾಲಿಯಾಗಿದ್ದಳು ಎಂದರೆ ಯುವ ರಾಣಿಯಾಗಿದ್ದರೂ ಪೂರ್ಣ ಯೋಧನಂತೆ ತರಬೇತಿ ಪಡೆದಳು!"
+                        },
+                        {
+                            "en": "She rode horses into battle with so much courage that enemies were shocked!",
+                            "kn": "ಅವಳು ಯುದ್ಧದಲ್ಲಿ ಕುದುರೆಯನ್ನು ಓಡಿಸುತ್ತಾ ಹೋರಾಡಿದ ಧೈರ್ಯ ನೋಡಿ ಶತ್ರುಗಳು ಆಶ್ಚರ್ಯಪಟ್ಟರು!"
+                        },
+                        {
+                            "en": "Kids still hear her story like a real-life superhero queen who never gave up!",
+                            "kn": "ಇಂದಿಗೂ ಮಕ್ಕಳು ಅವಳನ್ನು ಎಂದಿಗೂ ಕೈಬಿಡದ ನಿಜಜೀವನದ ಸೂಪರ್ ಹೀರೋ ರಾಣಿಯಾಗಿ ಕೇಳುತ್ತಾರೆ!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What was her childhood name?",
+                            "optionsEn": [
+                                "Rani",
+                                "Manikarnika",
+                                "Jhansi",
+                                "Lakshmi"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which revolt did she join?",
+                            "optionsEn": [
+                                "1857",
+                                "1947",
+                                "1920",
+                                "1919"
+                            ],
+                            "correctAnswerIndex": 0
+                        },
+                        {
+                            "questionEn": "Which kingdom did she rule?",
+                            "optionsEn": [
+                                "Mysore",
+                                "Jhansi",
+                                "Delhi",
+                                "Kittur"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:15.1394,76.9214?q=Ballari"
+
+                }
+            ]
+        },
+        {
+            "id": "d10",
+            "name": "Vijayapura",
+            "image": "img_vijayapura",
+            "heroes": [
+                {
+                    "id": "h17",
+                    "name": "Ibrahim Adil Shah II",
+                    "image": "img_ibrahim",
+                    "shortDesc": "King of Culture",
+                    "storyPages": [
+                        {
+                            "titleEn": "Musical King",
+                            "titleKn": "ಸಂಗೀತ ರಾಜ",
+                            "image": "img_ibrahim",
+                            "textEn": "He loved music, poetry, and art deeply from a very young age. His court was filled with musicians, poets, and artists who celebrated creativity. He believed that music could bring peace and unity among people.",
+                            "textKn": "ಅವರು ಬಾಲ್ಯದಿಂದಲೇ ಸಂಗೀತ, ಕಾವ್ಯ ಮತ್ತು ಕಲೆಯನ್ನು ಬಹಳ ಆಳವಾಗಿ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಅವರ ಅರಮನೆ ಕಲಾವಿದರು ಮತ್ತು ಸಂಗೀತಗಾರರಿಂದ ತುಂಬಿತ್ತು. ಸಂಗೀತವು ಜನರನ್ನು ಒಗ್ಗೂಡಿಸಬಹುದು ಎಂದು ಅವರು ನಂಬಿದ್ದರು."
+                        },
+                        {
+                            "titleEn": "Kitab-i-Navras",
+                            "titleKn": "ನವ ರಸ ಪುಸ್ತಕ",
+                            "image": "img_ibrahim",
+                            "textEn": "He wrote Kitab-i-Navras to explain emotions through music and poetry. This book described nine human emotions in artistic form. It became an important contribution to Indian cultural literature.",
+                            "textKn": "ಅವರು ಸಂಗೀತ ಮತ್ತು ಕಾವ್ಯದ ಮೂಲಕ ಭಾವನೆಗಳನ್ನು ವಿವರಿಸಲು ಕಿತಾಬ್-ಇ-ನವ ರಸ ಬರೆದರು. ಈ ಪುಸ್ತಕವು ಒಂಬತ್ತು ಭಾವನೆಗಳನ್ನು ಕಲಾತ್ಮಕವಾಗಿ ವಿವರಿಸುತ್ತದೆ. ಇದು ಭಾರತೀಯ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹತ್ವದ ಕೊಡುಗೆಯಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Cultural King",
+                            "titleKn": "ಸಾಂಸ್ಕೃತಿಕ ರಾಜ",
+                            "image": "img_ibrahim",
+                            "textEn": "He promoted art, dance, and music throughout his kingdom. His rule encouraged cultural growth and harmony among different communities. Many artists flourished under his support and guidance.",
+                            "textKn": "ಅವರು ತಮ್ಮ ರಾಜ್ಯದಲ್ಲಿ ಕಲೆ, ನೃತ್ಯ ಮತ್ತು ಸಂಗೀತವನ್ನು ಉತ್ತೇಜಿಸಿದರು. ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ವಿವಿಧ ಸಮುದಾಯಗಳ ನಡುವೆ ಸಾಂಸ್ಕೃತಿಕ ಏಕತೆ ಬೆಳೆಯಿತು. ಅನೇಕ ಕಲಾವಿದರು ಅವರ ಬೆಂಬಲದಿಂದ ಬೆಳೆಯುವ ಅವಕಾಶ ಪಡೆದರು."
+                        },
+                        {
+                            "titleEn": "Religious Harmony",
+                            "titleKn": "ಧಾರ್ಮಿಕ ಸೌಹಾರ್ದತೆ",
+                            "image": "img_ibrahim",
+                            "textEn": "He respected all religions equally and encouraged peaceful coexistence. His administration was known for tolerance and understanding among people of different faiths. This helped maintain peace in his kingdom.",
+                            "textKn": "ಅವರು ಎಲ್ಲಾ ಧರ್ಮಗಳನ್ನು ಸಮಾನವಾಗಿ ಗೌರವಿಸಿ ಶಾಂತಿಯುತ ಸಹಬಾಳ್ವೆಯನ್ನು ಉತ್ತೇಜಿಸಿದರು. ಅವರ ಆಡಳಿತದಲ್ಲಿ ಧಾರ್ಮಿಕ ಸಹಿಷ್ಣುತೆ ಮತ್ತು ಸಮಜಾಯಿಷಿ ಹೆಚ್ಚಿತ್ತು. ಇದರಿಂದ ರಾಜ್ಯದಲ್ಲಿ ಶಾಂತಿ ಉಳಿಯಿತು."
+                        },
+                        {
+                            "titleEn": "Architecture",
+                            "titleKn": "ವಾಸ್ತುಶಿಲ್ಪ",
+                            "image": "img_ibrahim",
+                            "textEn": "Beautiful monuments and structures were built during his rule. These buildings reflected a blend of culture, art, and Islamic architecture. They still stand as symbols of his legacy.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಸುಂದರ ಸ್ಮಾರಕಗಳು ಮತ್ತು ಕಟ್ಟಡಗಳು ನಿರ್ಮಾಣವಾದವು. ಈ ಕಟ್ಟಡಗಳು ಸಂಸ್ಕೃತಿ, ಕಲೆ ಮತ್ತು ಇಸ್ಲಾಮಿಕ್ ವಾಸ್ತುಶಿಲ್ಪದ ಮಿಶ್ರಣವನ್ನು ತೋರಿಸುತ್ತವೆ. ಇವು ಇಂದಿಗೂ ಅವರ ಪರಂಪರೆಯ ಚಿಹ್ನೆಯಾಗಿವೆ."
+                        },
+                        {
+                            "titleEn": "Education",
+                            "titleKn": "ಶಿಕ್ಷಣ",
+                            "image": "img_ibrahim",
+                            "textEn": "He strongly supported scholars, poets, and education systems in his kingdom. Libraries and learning centers were encouraged to spread knowledge. Education became an important part of society.",
+                            "textKn": "ಅವರು ಪಂಡಿತರು, ಕವಿಗಳು ಮತ್ತು ಶಿಕ್ಷಣ ವ್ಯವಸ್ಥೆಯನ್ನು ಬಲವಾಗಿ ಬೆಂಬಲಿಸಿದರು. ಜ್ಞಾನವನ್ನು ಹರಡಲು ಗ್ರಂಥಾಲಯಗಳು ಮತ್ತು ಶಿಕ್ಷಣ ಕೇಂದ್ರಗಳನ್ನು ಉತ್ತೇಜಿಸಿದರು. ಶಿಕ್ಷಣವು ಸಮಾಜದ ಪ್ರಮುಖ ಭಾಗವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Peace Rule",
+                            "titleKn": "ಶಾಂತಿಯ ಆಡಳಿತ",
+                            "image": "img_ibrahim",
+                            "textEn": "His rule was peaceful and focused on cultural development rather than war. He preferred diplomacy and understanding over conflict. This made his reign stable and respected.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆ ಶಾಂತಿಯುತವಾಗಿದ್ದು ಯುದ್ಧಕ್ಕಿಂತ ಸಂಸ್ಕೃತಿಗೆ ಹೆಚ್ಚು ಒತ್ತು ನೀಡಿತು. ಅವರು ಸಂಘರ್ಷಕ್ಕಿಂತ ರಾಜತಾಂತ್ರಿಕತೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿದರು. ಇದರಿಂದ ಅವರ ಆಡಳಿತ ಸ್ಥಿರ ಮತ್ತು ಗೌರವಾನ್ವಿತವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Art Lover",
+                            "titleKn": "ಕಲೆ ಪ್ರೇಮಿ",
+                            "image": "img_ibrahim",
+                            "textEn": "He supported musicians, dancers, and artists throughout his life. His encouragement helped preserve traditional art forms. Many cultural performances flourished during his reign.",
+                            "textKn": "ಅವರು ತಮ್ಮ ಜೀವನಪೂರ್ತಿ ಸಂಗೀತಗಾರರು, ನೃತ್ಯಗಾರರು ಮತ್ತು ಕಲಾವಿದರನ್ನು ಬೆಂಬಲಿಸಿದರು. ಅವರ ಪ್ರೋತ್ಸಾಹದಿಂದ ಪರಂಪರೆಯ ಕಲಾ ರೂಪಗಳು ಉಳಿದವು. ಅನೇಕ ಸಾಂಸ್ಕೃತಿಕ ಪ್ರದರ್ಶನಗಳು ಬೆಳೆಯುವ ಅವಕಾಶ ಪಡೆದವು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_ibrahim",
+                            "textEn": "He is remembered as one of India’s most culturally rich and visionary kings. His contributions to art and harmony are still respected today. His legacy continues to inspire generations.",
+                            "textKn": "ಅವರು ಭಾರತದ ಅತ್ಯಂತ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ದೃಷ್ಟಿದಾನಿ ರಾಜನಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ಕಲೆ ಮತ್ತು ಸೌಹಾರ್ದತೆಗೆ ಕೊಡುಗೆ ಇಂದಿಗೂ ಗೌರವಿಸಲ್ಪಡುತ್ತದೆ. ಅವರ ಪರಂಪರೆ ಇಂದಿಗೂ ಜನರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
+                        },
+                        {
+                            "titleEn": "Golden Era",
+                            "titleKn": "ಸುವರ್ಣ ಯುಗ",
+                            "image": "img_ibrahim",
+                            "textEn": "His rule is known as a golden cultural era in Deccan history. It was a time of art, peace, and prosperity. Many historians still admire his visionary leadership.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆಯನ್ನು ದಕ್ಷಿಣ ಭಾರತದ ಸಾಂಸ್ಕೃತಿಕ ಸುವರ್ಣ ಯುಗ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ಕಲೆ, ಶಾಂತಿ ಮತ್ತು ಸಮೃದ್ಧಿಯ ಕಾಲವಾಗಿತ್ತು. ಇತಿಹಾಸಕಾರರು ಇಂದಿಗೂ ಅವರ ನಾಯಕತ್ವವನ್ನು ಪ್ರಶಂಸಿಸುತ್ತಾರೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "Did you know? He didn’t just enjoy music—he used to perform and understand different musical instruments himself!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರು ಕೇವಲ ಸಂಗೀತವನ್ನು ಆನಂದಿಸುವವರಲ್ಲ, ಅನೇಕ ಸಂಗೀತ ವಾದ್ಯಗಳನ್ನು ಸ್ವತಃ ವಾದಿಸುತ್ತಿದ್ದರು!"
+                        },
+                        {
+                            "en": "Did you know? His palace was so full of music and poetry that it was often called a “living art festival”!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರ ಅರಮನೆ ಸಂಗೀತ ಮತ್ತು ಕಾವ್ಯದಿಂದ ತುಂಬಿದ್ದು ಅದನ್ನು ‘ಜೀವಂತ ಕಲಾ ಹಬ್ಬ’ ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು!"
+                        },
+                        {
+                            "en": "Did you know? He loved creativity so much that even important royal meetings sometimes started with music!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರು ಸೃಜನಶೀಲತೆಯನ್ನು ಅಷ್ಟು ಪ್ರೀತಿಸುತ್ತಿದ್ದರು ಎಂದರೆ ಪ್ರಮುಖ ರಾಜಸಭೆಗಳು ಕೂಡ ಕೆಲವೊಮ್ಮೆ ಸಂಗೀತದಿಂದ ಆರಂಭವಾಗುತ್ತಿತ್ತು!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What did he love most?",
+                            "optionsEn": [
+                                "War",
+                                "Music",
+                                "Trade",
+                                "Hunting"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What did he write?",
+                            "optionsEn": [
+                                "Ramayana",
+                                "Kitab-i-Navras",
+                                "Gita",
+                                "Mahabharata"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "What type of rule was his?",
+                            "optionsEn": [
+                                "Military",
+                                "Cultural",
+                                "Colonial",
+                                "Religious war"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:16.8302,75.7100?q=Vijayapura"
+
+                },
+                {
+                    "id": "h18",
+                    "name": "Ali Adil Shah II",
+                    "image": "img_ali_adilshah",
+                    "shortDesc": "Powerful Sultan of Bijapur",
+                    "storyPages": [
+                        {
+                            "titleEn": "Early Rule",
+                            "titleKn": "ಆರಂಭಿಕ ಆಳ್ವಿಕೆ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He became the Sultan of Bijapur at a very young age and inherited a powerful kingdom. Despite his early age, he showed strong leadership and responsibility. He focused on maintaining stability in the kingdom.",
+                            "textKn": "ಅವರು ಬಹಳ ಬಾಲ್ಯದಲ್ಲೇ ಬಿಜಾಪುರದ ಸುಲ್ತಾನರಾದರು ಮತ್ತು ಶಕ್ತಿಶಾಲಿ ರಾಜ್ಯವನ್ನು ವಹಿಸಿಕೊಂಡರು. ಚಿಕ್ಕ ವಯಸ್ಸಲ್ಲೇ ಅವರು ಬಲವಾದ ನಾಯಕತ್ವ ತೋರಿಸಿದರು. ರಾಜ್ಯದ ಸ್ಥಿರತೆಗೆ ಅವರು ಹೆಚ್ಚು ಗಮನ ನೀಡಿದರು."
+                        },
+                        {
+                            "titleEn": "Strong Kingdom",
+                            "titleKn": "ಬಲವಾದ ರಾಜ್ಯ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He strengthened the Bijapur Sultanate by improving administration and military structure. His policies helped the kingdom grow stronger and more organized. He ensured proper governance across all regions.",
+                            "textKn": "ಅವರು ಆಡಳಿತ ಮತ್ತು ಸೈನಿಕ ವ್ಯವಸ್ಥೆಯನ್ನು ಸುಧಾರಿಸಿ ಬಿಜಾಪುರ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಬಲಪಡಿಸಿದರು. ಅವರ ನೀತಿಗಳು ರಾಜ್ಯವನ್ನು ಹೆಚ್ಚು ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ವ್ಯವಸ್ಥಿತವನ್ನಾಗಿಸಿತು. ಎಲ್ಲ ಪ್ರದೇಶಗಳಲ್ಲೂ ಸರಿಯಾದ ಆಡಳಿತವನ್ನು ಅವರು ಖಚಿತಪಡಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Malik-e-Maidan Cannon",
+                            "titleKn": "ಮಾಲಿಕ್-ಇ-ಮೈದಾನ್ ತೋಪು",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He installed the famous Malik-e-Maidan cannon, one of the largest cannons of its time. It symbolized the military strength of the Bijapur Sultanate. It still remains a historical attraction today.",
+                            "textKn": "ಅವರು ಪ್ರಸಿದ್ಧ ಮಾಲಿಕ್-ಇ-ಮೈದಾನ್ ತೋಪನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಇದು ತನ್ನ ಕಾಲದ ಅತ್ಯಂತ ದೊಡ್ಡ ತೋಪುಗಳಲ್ಲಿ ಒಂದಾಗಿತ್ತು. ಇದು ಬಿಜಾಪುರ ಸಾಮ್ರಾಜ್ಯದ ಸೈನಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿನಿಧಿಸಿತು. ಇಂದಿಗೂ ಇದು ಐತಿಹಾಸಿಕ ಆಕರ್ಷಣೆಯಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Military Power",
+                            "titleKn": "ಸೈನಿಕ ಶಕ್ತಿ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "His army was one of the strongest in the Deccan region with skilled soldiers and advanced weapons. He focused on strengthening defense strategies. This made his kingdom powerful and secure.",
+                            "textKn": "ಅವರ ಸೈನ್ಯ ದಕ್ಷಿಣ ಭಾರತದ ಅತ್ಯಂತ ಬಲವಾದ ಸೈನ್ಯಗಳಲ್ಲಿ ಒಂದಾಗಿತ್ತು. ಅವರು ತರಬೇತಿ ಪಡೆದ ಸೈನಿಕರು ಮತ್ತು ಉತ್ತಮ ಆಯುಧಗಳನ್ನು ಹೊಂದಿದ್ದರು. ರಕ್ಷಣಾ ತಂತ್ರವನ್ನು ಅವರು ಬಲಪಡಿಸಿದರು."
+                        },
+                        {
+                            "titleEn": "Architecture",
+                            "titleKn": "ವಾಸ್ತುಶಿಲ್ಪ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "Many beautiful monuments and structures were built during his reign. These reflected a mix of Persian and Indian architectural styles. They still stand as a reminder of his era.",
+                            "textKn": "ಅವರ ಕಾಲದಲ್ಲಿ ಅನೇಕ ಸುಂದರ ಸ್ಮಾರಕಗಳು ನಿರ್ಮಾಣವಾದವು. ಇವು ಪರ್ಶಿಯನ್ ಮತ್ತು ಭಾರತೀಯ ವಾಸ್ತುಶಿಲ್ಪದ ಮಿಶ್ರಣವನ್ನು ತೋರಿಸುತ್ತವೆ. ಇವು ಇಂದಿಗೂ ಅವರ ಕಾಲದ ನೆನಪಾಗಿ ಉಳಿದಿವೆ."
+                        },
+                        {
+                            "titleEn": "Trade Growth",
+                            "titleKn": "ವ್ಯಾಪಾರ ಬೆಳವಣಿಗೆ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "Trade flourished during his rule, bringing wealth and prosperity to the kingdom. Markets expanded and attracted traders from different regions. This helped the economy grow steadily.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ವ್ಯಾಪಾರವು ಬೆಳೆಯಿತು ಮತ್ತು ರಾಜ್ಯವು ಸಮೃದ್ಧಿಯಾಯಿತು. ಮಾರುಕಟ್ಟೆಗಳು ವಿಸ್ತರಿಸಿ ವಿವಿಧ ಪ್ರದೇಶಗಳಿಂದ ವ್ಯಾಪಾರಿಗಳನ್ನು ಆಕರ್ಷಿಸಿತು. ಇದರಿಂದ ಆರ್ಥಿಕತೆ ಸ್ಥಿರವಾಗಿ ಬೆಳೆಯಿತು."
+                        },
+                        {
+                            "titleEn": "Defense Strategy",
+                            "titleKn": "ರಕ್ಷಣಾ ತಂತ್ರ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He built strong defense systems to protect the kingdom from invasions. Forts and military planning were improved under his rule. This ensured long-term safety of the empire.",
+                            "textKn": "ಅವರು ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಬಲವಾದ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಕೋಟೆಗಳು ಮತ್ತು ಸೈನಿಕ ಯೋಜನೆಗಳನ್ನು ಸುಧಾರಿಸಿದರು. ಇದರಿಂದ ಸಾಮ್ರಾಜ್ಯದ ಭದ್ರತೆ ಖಚಿತವಾಯಿತು."
+                        },
+                        {
+                            "titleEn": "Leadership",
+                            "titleKn": "ನಾಯಕತ್ವ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He was known for his strong and disciplined leadership qualities. He maintained order and stability throughout his reign. His decisions helped the kingdom remain powerful.",
+                            "textKn": "ಅವರು ಬಲವಾದ ಮತ್ತು ಶಿಸ್ತಿನ ನಾಯಕತ್ವಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಶಾಂತಿ ಮತ್ತು ಸ್ಥಿರತೆ ಉಳಿಯಿತು. ಅವರ ನಿರ್ಧಾರಗಳು ರಾಜ್ಯವನ್ನು ಶಕ್ತಿಶಾಲಿಯನ್ನಾಗಿಸಿತು."
+                        },
+                        {
+                            "titleEn": "Legacy",
+                            "titleKn": "ಪರಂಪರೆ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "He is remembered as one of the powerful rulers of Bijapur. His contributions to military and administration are still studied today. His legacy remains important in history.",
+                            "textKn": "ಅವರು ಬಿಜಾಪುರದ ಶಕ್ತಿಶಾಲಿ ಆಡಳಿತಗಾರನಾಗಿ ಸ್ಮರಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ಸೈನಿಕ ಮತ್ತು ಆಡಳಿತ ಕೊಡುಗೆಗಳನ್ನು ಇಂದಿಗೂ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತದೆ. ಅವರ ಪರಂಪರೆ ಇತಿಹಾಸದಲ್ಲಿ ಪ್ರಮುಖವಾಗಿದೆ."
+                        },
+                        {
+                            "titleEn": "Historical Importance",
+                            "titleKn": "ಐತಿಹಾಸಿಕ ಮಹತ್ವ",
+                            "image": "img_ali_adilshah",
+                            "textEn": "His reign played a major role in shaping Vijayapura’s history and development. It was a period of strength, culture, and growth. Historians still study his contributions.",
+                            "textKn": "ಅವರ ಆಳ್ವಿಕೆ ವಿಜಯಪುರದ ಇತಿಹಾಸ ಮತ್ತು ಅಭಿವೃದ್ಧಿಗೆ ಮಹತ್ವದ ಪಾತ್ರವಹಿಸಿತು. ಇದು ಶಕ್ತಿ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಬೆಳವಣಿಗೆಯ ಕಾಲವಾಗಿತ್ತು. ಇತಿಹಾಸಕಾರರು ಇಂದಿಗೂ ಅವರ ಕೊಡುಗೆಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಾರೆ."
+                        }
+                    ],
+                    "didYouKnow": [
+                        {
+                            "en": "Did you know? He became a ruler at a very young age, but still handled a huge empire like a seasoned king!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರು ಬಹಳ ಚಿಕ್ಕ ವಯಸ್ಸಲ್ಲೇ ರಾಜರಾದರೂ ದೊಡ್ಡ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಅನುಭವಸಂಪನ್ನ ರಾಜನಂತೆ ಆಡಳಿತ ನಡೆಸಿದರು!"
+                        },
+                        {
+                            "en": "Did you know? The famous Malik-e-Maidan cannon built during his time is still one of the biggest cannons in India!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿಸಲಾದ ಪ್ರಸಿದ್ಧ ಮಾಲಿಕ್-ಇ-ಮೈದಾನ್ ತೋಪು ಇಂದಿಗೂ ಭಾರತದ ಅತಿದೊಡ್ಡ ತೋಪುಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ!"
+                        },
+                        {
+                            "en": "Did you know? His kingdom was so strong that even neighboring rulers carefully planned before challenging him!",
+                            "kn": "ನೀವು ತಿಳಿದಿರಾ? ಅವರ ರಾಜ್ಯ ಅಷ್ಟು ಶಕ್ತಿಶಾಲಿಯಾಗಿತ್ತು ಎಂದರೆ ಪಕ್ಕದ ರಾಜರು ಸಹ ಅವರನ್ನು ಎದುರಿಸುವ ಮೊದಲು ಚೆನ್ನಾಗಿ ಯೋಚಿಸುತ್ತಿದ್ದರು!"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "questionEn": "What was he known for?",
+                            "optionsEn": [
+                                "Music",
+                                "Military power",
+                                "Farming",
+                                "Painting"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which cannon is linked to him?",
+                            "optionsEn": [
+                                "Agra Cannon",
+                                "Malik-e-Maidan",
+                                "Delhi Gun",
+                                "Mysore Rocket"
+                            ],
+                            "correctAnswerIndex": 1
+                        },
+                        {
+                            "questionEn": "Which kingdom did he rule?",
+                            "optionsEn": [
+                                "Mysore",
+                                "Bijapur",
+                                "Kittur",
+                                "Keladi"
+                            ],
+                            "correctAnswerIndex": 1
+                        }
+                    ],
+                    "statueLocation": "geo:16.8302,75.7100?q=Bijapur"
+
+                }
+            ]
+        }
+    ]
+}

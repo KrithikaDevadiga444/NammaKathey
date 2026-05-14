@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_rayanna.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_rayanna.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_devraj_urs.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_devraj_urs.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_shivamogga.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_shivamogga.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_krwadiyar.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_krwadiyar.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_bengaluru.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_bengaluru.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_hubballi.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_hubballi.png"
+    },
+    {
+        "merged": "com.nammakathey.app-debug-4:/layout_dialog_quiz_result.xml.flat",
+        "source": "com.nammakathey.app-main-6:/layout/dialog_quiz_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_item_badge.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\item_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_madakari.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_madakari.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_correct.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_correct.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_ibrahim.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_ibrahim.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_popup_bg.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\popup_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_item_district.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\item_district.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_badge.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_siddharoodha.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_siddharoodha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_kempegowda.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_kempegowda.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_avatar_hero.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\avatar_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\raw_pop.mp3.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\raw\\pop.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_chennamma.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_chennamma.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_lakshmi.jpg.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_lakshmi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_story_viewer.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_story_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_item_profile.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\item_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_rounded_card.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\rounded_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_hero_list.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_hero_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_devaraj.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_devaraj.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\anim_wiggle.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\anim\\wiggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_ic_mascot.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\ic_mascot.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_madhva.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_madhva.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_ic_placeholder_hero.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\ic_placeholder_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_wrong.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_option_normal.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_option_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_mangaluru.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_mangaluru.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_vijayapura.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_vijayapura.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\anim_glow.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\anim\\glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_avatar_girl.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\avatar_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_button_rounded.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_mysuru.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_mysuru.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_keladi.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_keladi.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_item_story_page.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\item_story_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_koti.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_koti.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_karnad.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_karnad.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_ali_adilshah.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_ali_adilshah.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_activity_select_profile.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\activity_select_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_next.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_quiz_gradient.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_quiz_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_udupi.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_udupi.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_abbakka.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_abbakka.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_dialog_did_you_know.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\dialog_did_you_know.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_visvesvaraya.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_visvesvaraya.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_chitradurga.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_chitradurga.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\layout_item_hero.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\layout\\item_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_kuvempu.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_kuvempu.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_bhimsen.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_bhimsen.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_belagavi.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_belagavi.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_avatar_boy.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\avatar_boy.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_ballari.jpg.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_ballari.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_obavva.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_obavva.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_img_chennaya.png.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\img_chennaya.png"
+    },
+    {
+        "merged": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-debug-4:\\drawable_bg_option.xml.flat",
+        "source": "C:\\Users\\Kdeva\\.gradle\\daemon\\9.0.0\\com.nammakathey.app-main-6:\\drawable\\bg_option.xml"
+    }
+]

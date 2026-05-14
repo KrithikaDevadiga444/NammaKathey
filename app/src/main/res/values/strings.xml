@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NammaKathey</string>
+    <string name="select_district">Select a District</string>
+    <string name="heroes_of">Heroes of %s</string>
+    <string name="read_story">Read Story</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="view_statue">View Statue</string>
+    <string name="my_badges">My Badges</string>
+    <string name="quiz_score">Your Score: %d / 3</string>
+    <string name="badge_earned">Congratulations! You earned a Badge!</string>
+
+    <string name="finish">Finish</string>
+    <string name="language_toggle">EN/KN</string>
+    <string name="tts_speak">Speak</string>
+    <string name="quiz_option">Quiz option</string>
+    <string name="tts_icon">🔊</string>
+    <string name="did_you_know_icon">💡</string>
+    <string name="language_en">EN</string>
+    <string name="next">▶</string>
+    <string name="prev">◀</string>
+
+    <string name="page_indicator">1 / 6</string>
+
+    <string name="mascot_desc">Mascot background</string>
+    <string name="did_you_know_title">💡 Did You Know?</string>
+    <string name="sample_fact">Interesting fact will appear here</string>
+    <string name="ok">OK</string>
+
+
+    <string name="did_you_know">💡 Did You Know?</string>
+    <string name="back">⬅ Back</string>
+    <string name="mascot">Mascot Image</string>
+</resources>

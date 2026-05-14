@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light">
+
+    <!-- 🔝 TOP BUTTON BAR -->
+    <LinearLayout
+        android:id="@+id/topControls"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="12dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/btnTTS"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/tts_icon"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/accent"
+            android:layout_marginEnd="8dp"
+            android:elevation="2dp"/>
+
+        <Button
+            android:id="@+id/btnDidYouKnow"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/did_you_know_icon"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/primary"
+            android:layout_marginEnd="8dp"
+            android:elevation="2dp"/>
+
+        <Button
+            android:id="@+id/btnToggleLang"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/language_en"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/accent"
+            android:elevation="2dp"/>
+    </LinearLayout>
+
+    <!-- 📖 STORY VIEW -->
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPagerStory"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintTop_toBottomOf="@id/topControls"
+        app:layout_constraintBottom_toTopOf="@id/llControls"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- ⬅️➡️ NAVIGATION -->
+    <LinearLayout
+        android:id="@+id/llControls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="8dp"
+        app:layout_constraintBottom_toTopOf="@id/bottomActions"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/btnPrev"
+            android:layout_width="60dp"
+            android:layout_height="48dp"
+            android:text="@string/prev"
+            android:textColor="@color/text_primary"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/pastel_yellow"
+            android:elevation="2dp"/>
+
+        <TextView
+            android:id="@+id/tvPageIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/page_indicator"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginHorizontal="16dp"/>
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="60dp"
+            android:layout_height="48dp"
+            android:text="@string/next"
+            android:textColor="@color/text_primary"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/pastel_yellow"
+            android:elevation="2dp"/>
+    </LinearLayout>
+
+    <!-- 🎯 QUIZ + STATUE -->
+    <LinearLayout
+        android:id="@+id/bottomActions"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:weightSum="2"
+        app:layout_constraintBottom_toTopOf="@id/btnBack"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <Button
+            android:id="@+id/btnTakeQuiz"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:text="@string/take_quiz"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/primary"
+            android:layout_marginEnd="8dp"
+            android:elevation="4dp"/>
+
+        <Button
+            android:id="@+id/btnStatue"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+            android:text="@string/view_statue"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg_button_rounded"
+            android:backgroundTint="@color/button_bg"
+            android:layout_marginStart="8dp"
+            android:elevation="4dp"/>
+    </LinearLayout>
+
+    <!-- 🔙 BACK BUTTON -->
+    <TextView
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"
+        android:textSize="14sp"
+        android:textColor="@color/text_primary"
+        android:padding="12dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

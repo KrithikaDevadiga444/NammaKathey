@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF4081</color>
+    <color name="background_light">#E1F5FE</color>
+    <color name="black">#FF000000</color>
+    <color name="button_bg">#4CAF50</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="correct_ans">#69F0AE</color>
+    <color name="pastel_green">#C8E6C9</color>
+    <color name="pastel_pink">#F8BBD0</color>
+    <color name="pastel_yellow">#FFF9C4</color>
+    <color name="primary">#FF9800</color>
+    <color name="primary_dark">#F57C00</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wrong_ans">#FF5252</color>
+    <string name="app_name">NammaKathey</string>
+    <string name="back">⬅ Back</string>
+    <string name="badge_earned">Congratulations! You earned a Badge!</string>
+    <string name="did_you_know">💡 Did You Know?</string>
+    <string name="did_you_know_icon">💡</string>
+    <string name="did_you_know_title">💡 Did You Know?</string>
+    <string name="finish">Finish</string>
+    <string name="heroes_of">Heroes of %s</string>
+    <string name="language_en">EN</string>
+    <string name="language_toggle">EN/KN</string>
+    <string name="mascot">Mascot Image</string>
+    <string name="mascot_desc">Mascot background</string>
+    <string name="my_badges">My Badges</string>
+    <string name="next">▶</string>
+    <string name="ok">OK</string>
+    <string name="page_indicator">1 / 6</string>
+    <string name="prev">◀</string>
+    <string name="quiz_option">Quiz option</string>
+    <string name="quiz_score">Your Score: %d / 3</string>
+    <string name="read_story">Read Story</string>
+    <string name="sample_fact">Interesting fact will appear here</string>
+    <string name="select_district">Select a District</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="tts_icon">🔊</string>
+    <string name="tts_speak">Speak</string>
+    <string name="view_statue">View Statue</string>
+    <style name="Base.Theme.NammaKathey" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="Theme.NammaKathey" parent="Base.Theme.NammaKathey"/>
+    <style name="Theme.NammaKathey.Splash" parent="Theme.NammaKathey">
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

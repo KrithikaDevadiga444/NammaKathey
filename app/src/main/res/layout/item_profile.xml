@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@drawable/rounded_card"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/ivProfileAvatar"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/avatar_boy" />
+
+    <TextView
+        android:id="@+id/tvProfileName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="16dp"
+        android:text="Name"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <!-- DELETE BUTTON -->
+    <ImageView
+        android:id="@+id/ivDelete"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@android:drawable/ic_menu_delete"/>
+</LinearLayout>
